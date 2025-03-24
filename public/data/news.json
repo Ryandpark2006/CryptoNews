@@ -1,0 +1,12 @@
+{
+    "date": "2024-03-24T00:00:00.000Z",
+    "articles": [
+        {
+            "title": "Test Article",
+            "summary": "This is a test article to verify the update system is working correctly.",
+            "url": "https://example.com",
+            "sentiment": "neutral",
+            "published_at": "2024-03-24T00:00:00.000Z"
+        }
+    ]
+}
