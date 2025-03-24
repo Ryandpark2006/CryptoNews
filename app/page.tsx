@@ -1,20 +1,39 @@
 import React from 'react'
 import { format } from 'date-fns'
+import fs from 'fs/promises'
+import path from 'path'
 
-async function getNewsData() {
-    // In production, this will read from the generated JSON file
-    const dummyData = {
-        date: new Date().toISOString(),
-        articles: [
-            {
-                title: "Welcome to Crypto News",
-                summary: "This is a placeholder article. Real news will be automatically generated daily.",
-                sentiment: "neutral",
-                url: "#"
-            }
-        ]
+interface Article {
+    title: string;
+    summary: string;
+    sentiment: 'positive' | 'negative' | 'neutral';
+    url: string;
+}
+
+interface NewsData {
+    date: string;
+    articles: Article[];
+}
+
+async function getNewsData(): Promise<NewsData> {
+    try {
+        const filePath = path.join(process.cwd(), 'public', 'data', 'news.json')
+        const jsonData = await fs.readFile(filePath, 'utf8')
+        return JSON.parse(jsonData)
+    } catch (error) {
+        // Fallback to dummy data if file doesn't exist
+        return {
+            date: new Date().toISOString(),
+            articles: [
+                {
+                    title: "Welcome to Crypto News",
+                    summary: "This is a placeholder article. Real news will be automatically generated daily.",
+                    sentiment: "neutral",
+                    url: "#"
+                }
+            ]
+        }
     }
-    return dummyData
 }
 
 export default async function Home() {
@@ -25,7 +44,7 @@ export default async function Home() {
             <div className="container mx-auto px-4 py-8">
                 <div className="max-w-4xl mx-auto">
                     <h1 className="text-4xl font-bold text-gray-900 mb-8">
-                        Welcome to Daily Crypto News
+                        Daily Crypto News
                     </h1>
 
                     <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
@@ -33,12 +52,24 @@ export default async function Home() {
                         <div className="bg-white rounded-lg shadow-lg p-6 border border-gray-200">
                             <h2 className="text-xl font-semibold text-gray-800 mb-4">Latest Updates</h2>
                             {newsData.articles.map((article, index) => (
-                                <div key={index} className="mb-4">
+                                <div key={index} className="mb-4 p-4 bg-gray-50 rounded-lg">
                                     <h3 className="font-medium text-gray-800">{article.title}</h3>
-                                    <p className="text-gray-600 mt-1">{article.summary}</p>
+                                    <p className="text-gray-600 mt-1 text-sm">{article.summary}</p>
                                     <div className="flex items-center mt-2">
-                                        <span className="text-sm text-gray-500">Sentiment: {article.sentiment}</span>
-                                        <a href={article.url} className="ml-auto text-blue-600 hover:text-blue-800 text-sm">Read more →</a>
+                                        <span className={`text-sm px-2 py-1 rounded ${article.sentiment === 'positive' ? 'bg-green-100 text-green-800' :
+                                            article.sentiment === 'negative' ? 'bg-red-100 text-red-800' :
+                                                'bg-gray-100 text-gray-800'
+                                            }`}>
+                                            {article.sentiment}
+                                        </span>
+                                        <a
+                                            href={article.url}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="ml-auto text-blue-600 hover:text-blue-800 text-sm"
+                                        >
+                                            Read more →
+                                        </a>
                                     </div>
                                 </div>
                             ))}
@@ -51,7 +82,7 @@ export default async function Home() {
                                 Track the latest market trends and cryptocurrency prices.
                             </p>
                             <p className="text-sm text-gray-500 mt-4">
-                                Last updated: {new Date(newsData.date).toLocaleString()}
+                                Last updated: {format(new Date(newsData.date), 'PPpp')}
                             </p>
                         </div>
 

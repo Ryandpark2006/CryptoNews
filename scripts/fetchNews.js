@@ -2,54 +2,56 @@ const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
 
-// Free crypto news API
-const CRYPTO_PANIC_API = 'https://cryptopanic.com/api/v1/posts/?auth_token=YOUR_FREE_API_KEY&kind=news';
-
 async function fetchNews() {
     try {
-        const response = await axios.get(CRYPTO_PANIC_API);
-        return response.data.results;
+        // Get API key from environment variable
+        const apiKey = process.env.CRYPTO_PANIC_API_KEY;
+        if (!apiKey) {
+            throw new Error('CRYPTO_PANIC_API_KEY environment variable is not set');
+        }
+
+        // Fetch news from CryptoPanic API
+        const response = await axios.get('https://cryptopanic.com/api/v1/posts/', {
+            params: {
+                auth_token: apiKey,
+                kind: 'news',
+                filter: 'hot',
+                public: true,
+                regions: 'en'
+            }
+        });
+
+        // Process and format the news data
+        const articles = response.data.results.map(article => ({
+            title: article.title,
+            summary: article.metadata?.description || 'No summary available',
+            url: article.url,
+            sentiment: article.votes?.positive > article.votes?.negative ? 'positive' :
+                article.votes?.negative > article.votes?.positive ? 'negative' : 'neutral',
+            published_at: article.published_at
+        }));
+
+        // Create the data object
+        const newsData = {
+            date: new Date().toISOString(),
+            articles: articles.slice(0, 10) // Keep only top 10 articles
+        };
+
+        // Ensure the data directory exists
+        const dataDir = path.join(process.cwd(), 'public', 'data');
+        await fs.mkdir(dataDir, { recursive: true });
+
+        // Write to JSON file
+        await fs.writeFile(
+            path.join(dataDir, 'news.json'),
+            JSON.stringify(newsData, null, 2)
+        );
+
+        console.log('News data successfully fetched and saved');
     } catch (error) {
         console.error('Error fetching news:', error);
-        return [];
+        process.exit(1);
     }
 }
 
-async function generateSummary(text) {
-    // In a production environment, you would use a model API here
-    // For now, we'll just return a simple summary
-    return text.slice(0, 200) + '...';
-}
-
-async function analyzeSentiment(text) {
-    // In a production environment, you would use a model API here
-    // For now, we'll return a random sentiment
-    const sentiments = ['positive', 'neutral', 'negative'];
-    return sentiments[Math.floor(Math.random() * sentiments.length)];
-}
-
-async function main() {
-    const articles = await fetchNews();
-    const processedArticles = await Promise.all(
-        articles.slice(0, 5).map(async (article) => ({
-            title: article.title,
-            url: article.url,
-            summary: await generateSummary(article.title + ' ' + article.description),
-            sentiment: await analyzeSentiment(article.title + ' ' + article.description)
-        }))
-    );
-
-    const newsData = {
-        date: new Date().toISOString(),
-        articles: processedArticles
-    };
-
-    const dataDir = path.join(process.cwd(), 'app', 'data');
-    await fs.mkdir(dataDir, { recursive: true });
-    await fs.writeFile(
-        path.join(dataDir, 'news.json'),
-        JSON.stringify(newsData, null, 2)
-    );
-}
-
-main().catch(console.error); 
+fetchNews(); 
