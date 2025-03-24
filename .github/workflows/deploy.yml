@@ -27,6 +27,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
           
       - name: Install dependencies
         run: |
@@ -42,13 +43,14 @@ jobs:
           echo "Starting build..."
           npm run build
           echo "Build complete"
+          ls -la
           echo "Contents of out directory:"
           ls -la out/
-        
-      - name: Create .nojekyll
+          
+      - name: Fix permissions
         run: |
-          touch out/.nojekyll
-          echo "Created .nojekyll file"
+          chmod -R a+rx out/
+          echo "Fixed permissions"
           ls -la out/
         
       - name: Upload artifact
