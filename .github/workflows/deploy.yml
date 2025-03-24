@@ -29,13 +29,27 @@ jobs:
           node-version: '20'
           
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm ci
+          echo "Node version: $(node -v)"
+          echo "NPM version: $(npm -v)"
+        
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
         
       - name: Build
-        run: npm run build
+        run: |
+          echo "Starting build..."
+          npm run build
+          echo "Build complete"
+          echo "Contents of out directory:"
+          ls -la out/
         
-      - name: Touch .nojekyll
-        run: touch out/.nojekyll
+      - name: Create .nojekyll
+        run: |
+          touch out/.nojekyll
+          echo "Created .nojekyll file"
+          ls -la out/
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
