@@ -21,7 +21,7 @@ async function fetchNews() {
                 public: true,
                 regions: 'en',
                 currencies: 'BTC,ETH', // Focus on Bitcoin and Ethereum news
-                metadata: 'true' // Include full metadata
+                // metadata: 'true' // Include full metadata
             }
         });
 

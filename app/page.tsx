@@ -44,8 +44,8 @@ async function getNewsData(): Promise<NewsData> {
                     url: "#",
                     source: "example.com",
                     published_at: new Date().toISOString(),
-                    currencies: ["BTC", "ETH"],
-                    categories: ["general"]
+                    currencies: [],
+                    categories: []
                 }
             ],
             stats: {
@@ -62,6 +62,7 @@ async function getNewsData(): Promise<NewsData> {
 
 export default async function Home() {
     const newsData = await getNewsData();
+    const uniqueCategories = Array.from(new Set(newsData.articles.flatMap(a => a.categories || []))).filter(Boolean);
 
     return (
         <div className="min-h-screen bg-gray-50">
@@ -88,7 +89,7 @@ export default async function Home() {
                                                     }`}>
                                                     {article.sentiment}
                                                 </span>
-                                                {article.currencies.map(currency => (
+                                                {article.currencies?.map(currency => (
                                                     <span key={currency} className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
                                                         {currency}
                                                     </span>
@@ -126,19 +127,19 @@ export default async function Home() {
                                         <div className="mt-2 grid grid-cols-3 gap-2">
                                             <div className="bg-green-50 p-2 rounded">
                                                 <div className="text-green-800 font-medium">
-                                                    {newsData.stats.sentiment_distribution.positive}
+                                                    {newsData?.stats?.sentiment_distribution?.positive ?? 0}
                                                 </div>
                                                 <div className="text-xs text-green-600">Positive</div>
                                             </div>
                                             <div className="bg-gray-50 p-2 rounded">
                                                 <div className="text-gray-800 font-medium">
-                                                    {newsData.stats.sentiment_distribution.neutral}
+                                                    {newsData?.stats?.sentiment_distribution?.neutral ?? 0}
                                                 </div>
                                                 <div className="text-xs text-gray-600">Neutral</div>
                                             </div>
                                             <div className="bg-red-50 p-2 rounded">
                                                 <div className="text-red-800 font-medium">
-                                                    {newsData.stats.sentiment_distribution.negative}
+                                                    {newsData?.stats?.sentiment_distribution?.negative ?? 0}
                                                 </div>
                                                 <div className="text-xs text-red-600">Negative</div>
                                             </div>
@@ -154,11 +155,15 @@ export default async function Home() {
                             <div className="bg-white rounded-lg shadow-lg p-6 border border-gray-200">
                                 <h2 className="text-xl font-semibold text-gray-800 mb-4">Trending Topics</h2>
                                 <div className="flex flex-wrap gap-2">
-                                    {Array.from(new Set(newsData.articles.flatMap(a => a.categories))).map(category => (
-                                        <span key={category} className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
-                                            #{category}
-                                        </span>
-                                    ))}
+                                    {uniqueCategories.length > 0 ? (
+                                        uniqueCategories.map(category => (
+                                            <span key={category} className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
+                                                #{category}
+                                            </span>
+                                        ))
+                                    ) : (
+                                        <span className="text-gray-500 text-sm">No trending topics yet</span>
+                                    )}
                                 </div>
                             </div>
                         </div>
