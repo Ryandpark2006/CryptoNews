@@ -48,9 +48,9 @@ async function fetchNews() {
 
             return {
                 title: article.title,
-                summary: article.metadata?.description || article.title,
-                url: article.url,
-                source: domain,
+                summary: article.title,
+                url: article.source?.domain ? article.url : article.url, // Direct news source URL
+                source: article.source?.domain || 'Unknown',
                 sentiment: sentiment,
                 published_at: article.published_at,
                 currencies: article.currencies?.map(c => c.code) || [],
