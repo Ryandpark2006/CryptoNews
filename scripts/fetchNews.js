@@ -49,7 +49,7 @@ async function fetchNews() {
             return {
                 title: article.title,
                 summary: article.title,
-                url: article.source?.domain ? article.url : article.url, // Direct news source URL
+                url: article.source?.url || article.url, // Direct news source URL
                 source: article.source?.domain || 'Unknown',
                 sentiment: sentiment,
                 published_at: article.published_at,
