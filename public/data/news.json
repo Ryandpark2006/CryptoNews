@@ -1,6 +1,23 @@
 {
-  "date": "2025-03-25T10:19:19.682Z",
+  "date": "2025-03-25T17:37:02.250Z",
   "articles": [
+    {
+      "title": "BlackRock Brings BUIDL Fund onto Solana",
+      "summary": "BlackRock Brings BUIDL Fund onto Solana",
+      "url": "https://cryptopanic.com/news/20871567/BlackRock-Brings-BUIDL-Fund-onto-Solana?mtm_campaign=API-OFA",
+      "source": "bankless.com",
+      "sentiment": "positive",
+      "published_at": "2025-03-25T13:18:15Z",
+      "currencies": [
+        "ETH",
+        "SOL",
+        "AVAX",
+        "APT",
+        "ARB",
+        "BUIDL"
+      ],
+      "categories": []
+    },
     {
       "title": "Michael Saylor hints at new Bitcoin purchase after $711M capital raise",
       "summary": "Michael Saylor hints at new Bitcoin purchase after $711M capital raise",
@@ -108,19 +125,6 @@
       "published_at": "2025-03-21T13:48:11Z",
       "currencies": [
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Michael Saylor says Europe’s Euro is ‘gonna need BTC’",
-      "summary": "Michael Saylor says Europe’s Euro is ‘gonna need BTC’",
-      "url": "https://cryptopanic.com/news/20853810/Michael-Saylor-says-Europes-Euro-is-gonna-need-BTC?mtm_campaign=API-OFA",
-      "source": "cryptopolitan.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-20T21:50:03Z",
-      "currencies": [
-        "BTC",
-        "S"
       ],
       "categories": []
     }
