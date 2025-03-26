@@ -1,6 +1,20 @@
 {
-  "date": "2025-03-26T09:16:10.463Z",
+  "date": "2025-03-26T10:19:04.117Z",
   "articles": [
+    {
+      "title": "USDC stablecoin supply surpasses all-time high, topping $60 billion market cap",
+      "summary": "USDC stablecoin supply surpasses all-time high, topping $60 billion market cap",
+      "url": "https://cryptopanic.com/news/20875357/USDC-stablecoin-supply-surpasses-all-time-high-topping-60-billion-market-cap?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-03-26T07:26:38Z",
+      "currencies": [
+        "ETH",
+        "SOL",
+        "USDC"
+      ],
+      "categories": []
+    },
     {
       "title": "Solana Rises As BlackRock Brings Its $1,700,000,000 Tokenized Treasury Fund to Ethereum Rival’s Chain",
       "summary": "Solana Rises As BlackRock Brings Its $1,700,000,000 Tokenized Treasury Fund to Ethereum Rival’s Chain",
@@ -117,18 +131,6 @@
       "currencies": [
         "ETH",
         "$1"
-      ],
-      "categories": []
-    },
-    {
-      "title": "High-throughput Ethereum scaler MegaETH debuts public testnet, hitting 20,000 TPS on day one",
-      "summary": "High-throughput Ethereum scaler MegaETH debuts public testnet, hitting 20,000 TPS on day one",
-      "url": "https://cryptopanic.com/news/20858960/High-throughput-Ethereum-scaler-MegaETH-debuts-public-testnet-hitting-20000-TPS-on-day-one?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-03-21T23:04:15Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
