@@ -1,6 +1,20 @@
 {
-  "date": "2025-03-26T10:19:04.117Z",
+  "date": "2025-03-26T18:20:42.567Z",
   "articles": [
+    {
+      "title": "XRP ETF Incoming? Analyst Says Ripple’s Legal Win Changes Everything",
+      "summary": "XRP ETF Incoming? Analyst Says Ripple’s Legal Win Changes Everything",
+      "url": "https://cryptopanic.com/news/20875440/XRP-ETF-Incoming-Analyst-Says-Ripples-Legal-Win-Changes-Everything?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "positive",
+      "published_at": "2025-03-26T07:53:52Z",
+      "currencies": [
+        "BTC",
+        "XRP",
+        "S"
+      ],
+      "categories": []
+    },
     {
       "title": "USDC stablecoin supply surpasses all-time high, topping $60 billion market cap",
       "summary": "USDC stablecoin supply surpasses all-time high, topping $60 billion market cap",
@@ -118,19 +132,6 @@
       "currencies": [
         "BTC",
         "S"
-      ],
-      "categories": []
-    },
-    {
-      "title": "BlackRock, NYSE push for staked ETH ETFs – Why it matters",
-      "summary": "BlackRock, NYSE push for staked ETH ETFs – Why it matters",
-      "url": "https://cryptopanic.com/news/20859354/BlackRock-NYSE-push-for-staked-ETH-ETFs-Why-it-matters?mtm_campaign=API-OFA",
-      "source": "ambcrypto.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-22T03:00:25Z",
-      "currencies": [
-        "ETH",
-        "$1"
       ],
       "categories": []
     }
