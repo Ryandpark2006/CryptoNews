@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-28T10:18:25.805Z",
+  "date": "2025-03-28T18:20:36.458Z",
   "articles": [
     {
       "title": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
@@ -48,6 +48,19 @@
       "published_at": "2025-03-27T05:55:11Z",
       "currencies": [
         "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Name Service Teams Up With Para Wallet to Simplify Registration",
+      "summary": "Ethereum Name Service Teams Up With Para Wallet to Simplify Registration",
+      "url": "https://cryptopanic.com/news/20878377/Ethereum-Name-Service-Teams-Up-With-Para-Wallet-to-Simplify-Registration?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-03-26T17:30:58Z",
+      "currencies": [
+        "ETH",
+        "ENS"
       ],
       "categories": []
     },
@@ -113,23 +126,6 @@
       "currencies": [
         "ETH",
         "SOL",
-        "BUIDL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "BlackRock Brings BUIDL Fund onto Solana",
-      "summary": "BlackRock Brings BUIDL Fund onto Solana",
-      "url": "https://cryptopanic.com/news/20871567/BlackRock-Brings-BUIDL-Fund-onto-Solana?mtm_campaign=API-OFA",
-      "source": "bankless.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-25T13:18:15Z",
-      "currencies": [
-        "ETH",
-        "SOL",
-        "AVAX",
-        "APT",
-        "ARB",
         "BUIDL"
       ],
       "categories": []
