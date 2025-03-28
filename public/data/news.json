@@ -1,6 +1,31 @@
 {
-  "date": "2025-03-27T19:14:31.041Z",
+  "date": "2025-03-28T09:15:50.869Z",
   "articles": [
+    {
+      "title": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
+      "summary": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
+      "url": "https://cryptopanic.com/news/20883626/Ethereums-Pectra-Upgrade-Moves-Forward-with-Successful-Hoodi-Deployment?mtm_campaign=API-OFA",
+      "source": "crypto-economy.com",
+      "sentiment": "positive",
+      "published_at": "2025-03-27T14:39:18Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Cosmos devs test IBC protocol between Hub and Ethereum to boost interoperability",
+      "summary": "Cosmos devs test IBC protocol between Hub and Ethereum to boost interoperability",
+      "url": "https://cryptopanic.com/news/20880880/Cosmos-devs-test-IBC-protocol-between-Hub-and-Ethereum-to-boost-interoperability?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-03-27T08:02:58Z",
+      "currencies": [
+        "ETH",
+        "ATOM"
+      ],
+      "categories": []
+    },
     {
       "title": "US States Push Bitcoin Bills to Boost Reserves and Crypto Mining",
       "summary": "US States Push Bitcoin Bills to Boost Reserves and Crypto Mining",
@@ -106,32 +131,6 @@
         "APT",
         "ARB",
         "BUIDL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Trump-backed World Liberty Financial tests USD1 stablecoin on BNB Chain",
-      "summary": "Trump-backed World Liberty Financial tests USD1 stablecoin on BNB Chain",
-      "url": "https://cryptopanic.com/news/20867823/Trump-backed-World-Liberty-Financial-tests-USD1-stablecoin-on-BNB-Chain?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "neutral",
-      "published_at": "2025-03-24T18:17:44Z",
-      "currencies": [
-        "ETH",
-        "BNB",
-        "DEFI"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Michael Saylor hints at new Bitcoin purchase after $711M capital raise",
-      "summary": "Michael Saylor hints at new Bitcoin purchase after $711M capital raise",
-      "url": "https://cryptopanic.com/news/20863577/Michael-Saylor-hints-at-new-Bitcoin-purchase-after-711M-capital-raise?mtm_campaign=API-OFA",
-      "source": "cryptopolitan.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-23T20:05:18Z",
-      "currencies": [
-        "BTC"
       ],
       "categories": []
     }
