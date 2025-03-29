@@ -1,6 +1,19 @@
 {
-  "date": "2025-03-28T19:14:23.078Z",
+  "date": "2025-03-29T09:14:35.286Z",
   "articles": [
+    {
+      "title": "Ethereum Crashes 74% Against Bitcoin; Is Reversal Imminent?",
+      "summary": "Ethereum Crashes 74% Against Bitcoin; Is Reversal Imminent?",
+      "url": "https://cryptopanic.com/news/20889271/Ethereum-Crashes-74-Against-Bitcoin-Is-Reversal-Imminent?mtm_campaign=API-OFA",
+      "source": "u.today",
+      "sentiment": "negative",
+      "published_at": "2025-03-28T14:54:00Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
       "summary": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
@@ -115,28 +128,14 @@
         "USDC"
       ],
       "categories": []
-    },
-    {
-      "title": "Solana Rises As BlackRock Brings Its $1,700,000,000 Tokenized Treasury Fund to Ethereum Rival’s Chain",
-      "summary": "Solana Rises As BlackRock Brings Its $1,700,000,000 Tokenized Treasury Fund to Ethereum Rival’s Chain",
-      "url": "https://cryptopanic.com/news/20873101/Solana-Rises-As-BlackRock-Brings-Its-1700000000-Tokenized-Treasury-Fund-to-Ethereum-Rivals-Chain?mtm_campaign=API-OFA",
-      "source": "dailyhodl.com",
-      "sentiment": "neutral",
-      "published_at": "2025-03-25T18:05:47Z",
-      "currencies": [
-        "ETH",
-        "SOL",
-        "BUIDL"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 17,
+      "positive": 16,
       "neutral": 3,
-      "negative": 0
+      "negative": 1
     }
   }
 }
