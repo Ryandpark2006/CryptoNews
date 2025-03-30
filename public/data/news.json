@@ -1,6 +1,21 @@
 {
-  "date": "2025-03-30T10:16:34.237Z",
+  "date": "2025-03-30T18:18:10.370Z",
   "articles": [
+    {
+      "title": "Hoskinson Reveals Cardano’s Push to Integrate with Dogecoin, Chainlink, Bitcoin",
+      "summary": "Hoskinson Reveals Cardano’s Push to Integrate with Dogecoin, Chainlink, Bitcoin",
+      "url": "https://cryptopanic.com/news/20894182/Hoskinson-Reveals-Cardanos-Push-to-Integrate-with-Dogecoin-Chainlink-Bitcoin?mtm_campaign=API-OFA",
+      "source": "zycrypto.com",
+      "sentiment": "positive",
+      "published_at": "2025-03-30T02:05:53Z",
+      "currencies": [
+        "BTC",
+        "DOGE",
+        "ADA",
+        "LINK"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Crashes 74% Against Bitcoin; Is Reversal Imminent?",
       "summary": "Ethereum Crashes 74% Against Bitcoin; Is Reversal Imminent?",
@@ -112,20 +127,6 @@
       "published_at": "2025-03-26T17:09:03Z",
       "currencies": [
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "XRP ETF Incoming? Analyst Says Ripple’s Legal Win Changes Everything",
-      "summary": "XRP ETF Incoming? Analyst Says Ripple’s Legal Win Changes Everything",
-      "url": "https://cryptopanic.com/news/20875440/XRP-ETF-Incoming-Analyst-Says-Ripples-Legal-Win-Changes-Everything?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-26T07:53:52Z",
-      "currencies": [
-        "BTC",
-        "XRP",
-        "S"
       ],
       "categories": []
     }
