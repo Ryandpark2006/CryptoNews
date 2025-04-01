@@ -1,6 +1,31 @@
 {
-  "date": "2025-04-01T10:19:23.884Z",
+  "date": "2025-04-01T18:19:46.952Z",
   "articles": [
+    {
+      "title": "Mastercard Plans to Enable 3.5 Billion Cardholders to Transact with Bitcoin ($BTC) and Crypto",
+      "summary": "Mastercard Plans to Enable 3.5 Billion Cardholders to Transact with Bitcoin ($BTC) and Crypto",
+      "url": "https://cryptopanic.com/news/20904044/Mastercard-Plans-to-Enable-35-Billion-Cardholders-to-Transact-with-Bitcoin-BTC-and-Crypto?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-04-01T13:05:07Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "U.S. Senator Buys $600K in Bitcoin via ETF",
+      "summary": "U.S. Senator Buys $600K in Bitcoin via ETF",
+      "url": "https://cryptopanic.com/news/20900725/US-Senator-Buys-600K-in-Bitcoin-via-ETF?mtm_campaign=API-OFA",
+      "source": "coincu.com",
+      "sentiment": "positive",
+      "published_at": "2025-03-31T19:59:40Z",
+      "currencies": [
+        "BTC",
+        "S"
+      ],
+      "categories": []
+    },
     {
       "title": "Trump’s sons to launch American Bitcoin",
       "summary": "Trump’s sons to launch American Bitcoin",
@@ -103,40 +128,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Cosmos devs test IBC protocol between Hub and Ethereum to boost interoperability",
-      "summary": "Cosmos devs test IBC protocol between Hub and Ethereum to boost interoperability",
-      "url": "https://cryptopanic.com/news/20880880/Cosmos-devs-test-IBC-protocol-between-Hub-and-Ethereum-to-boost-interoperability?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-03-27T08:02:58Z",
-      "currencies": [
-        "ETH",
-        "ATOM"
-      ],
-      "categories": []
-    },
-    {
-      "title": "US States Push Bitcoin Bills to Boost Reserves and Crypto Mining",
-      "summary": "US States Push Bitcoin Bills to Boost Reserves and Crypto Mining",
-      "url": "https://cryptopanic.com/news/20880852/US-States-Push-Bitcoin-Bills-to-Boost-Reserves-and-Crypto-Mining?mtm_campaign=API-OFA",
-      "source": "coinpaprika.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-27T07:56:39Z",
-      "currencies": [
-        "BTC",
-        "S"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 15,
-      "neutral": 3,
-      "negative": 2
+      "positive": 16,
+      "neutral": 1,
+      "negative": 3
     }
   }
 }
