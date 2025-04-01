@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-01T09:16:50.301Z",
+  "date": "2025-04-01T10:19:23.884Z",
   "articles": [
     {
       "title": "Trump’s sons to launch American Bitcoin",
@@ -8,6 +8,18 @@
       "source": "thestreet.com",
       "sentiment": "negative",
       "published_at": "2025-03-31T14:07:03Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Strategy announces another purchase of 22,048 BTC",
+      "summary": "Strategy announces another purchase of 22,048 BTC",
+      "url": "https://cryptopanic.com/news/20899127/Strategy-announces-another-purchase-of-22048-BTC?mtm_campaign=API-OFA",
+      "source": "cryptopolitan.com",
+      "sentiment": "positive",
+      "published_at": "2025-03-31T13:51:49Z",
       "currencies": [
         "BTC"
       ],
@@ -115,18 +127,6 @@
       "currencies": [
         "BTC",
         "S"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum edges closer to deploying Pectra on mainnet with successful upgrade on Hoodi testnet",
-      "summary": "Ethereum edges closer to deploying Pectra on mainnet with successful upgrade on Hoodi testnet",
-      "url": "https://cryptopanic.com/news/20880416/Ethereum-edges-closer-to-deploying-Pectra-on-mainnet-with-successful-upgrade-on-Hoodi-testnet?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-03-27T05:55:11Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
