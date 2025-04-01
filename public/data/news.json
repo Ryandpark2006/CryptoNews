@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-01T18:19:46.952Z",
+  "date": "2025-04-01T19:14:12.447Z",
   "articles": [
+    {
+      "title": "Data Proves Ethereum Is Still the #1 Altcoin to Own",
+      "summary": "Data Proves Ethereum Is Still the #1 Altcoin to Own",
+      "url": "https://cryptopanic.com/news/20905475/Data-Proves-Ethereum-Is-Still-the-1-Altcoin-to-Own?mtm_campaign=API-OFA",
+      "source": "voiceofcrypto.online",
+      "sentiment": "positive",
+      "published_at": "2025-04-01T17:28:12Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Mastercard Plans to Enable 3.5 Billion Cardholders to Transact with Bitcoin ($BTC) and Crypto",
       "summary": "Mastercard Plans to Enable 3.5 Billion Cardholders to Transact with Bitcoin ($BTC) and Crypto",
@@ -114,18 +126,6 @@
         "BTC",
         "SOL",
         "DEFI"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
-      "summary": "Ethereum’s Pectra Upgrade Moves Forward with Successful Hoodi Deployment",
-      "url": "https://cryptopanic.com/news/20883626/Ethereums-Pectra-Upgrade-Moves-Forward-with-Successful-Hoodi-Deployment?mtm_campaign=API-OFA",
-      "source": "crypto-economy.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-27T14:39:18Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
