@@ -1,6 +1,31 @@
 {
-  "date": "2025-04-01T19:14:12.447Z",
+  "date": "2025-04-02T09:16:02.596Z",
   "articles": [
+    {
+      "title": "GameStop Completes $1.5 Billion Offering to Fund Bitcoin Reserve",
+      "summary": "GameStop Completes $1.5 Billion Offering to Fund Bitcoin Reserve",
+      "url": "https://cryptopanic.com/news/20906206/GameStop-Completes-15-Billion-Offering-to-Fund-Bitcoin-Reserve?mtm_campaign=API-OFA",
+      "source": "decrypt.co",
+      "sentiment": "positive",
+      "published_at": "2025-04-01T21:06:07Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum prints 4 consecutive red monthly candles, but data points to an ETH/BTC bottom",
+      "summary": "Ethereum prints 4 consecutive red monthly candles, but data points to an ETH/BTC bottom",
+      "url": "https://cryptopanic.com/news/20905882/Ethereum-prints-4-consecutive-red-monthly-candles-but-data-points-to-an-ETHBTC-bottom?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-01T19:23:16Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Data Proves Ethereum Is Still the #1 Altcoin to Own",
       "summary": "Data Proves Ethereum Is Still the #1 Altcoin to Own",
@@ -99,33 +124,6 @@
         "DOGE",
         "ADA",
         "LINK"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Crashes 74% Against Bitcoin; Is Reversal Imminent?",
-      "summary": "Ethereum Crashes 74% Against Bitcoin; Is Reversal Imminent?",
-      "url": "https://cryptopanic.com/news/20889271/Ethereum-Crashes-74-Against-Bitcoin-Is-Reversal-Imminent?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "negative",
-      "published_at": "2025-03-28T14:54:00Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Permissionless Bitcoin Debuts on Solana With Zeus Network’s $zBTC",
-      "summary": "Permissionless Bitcoin Debuts on Solana With Zeus Network’s $zBTC",
-      "url": "https://cryptopanic.com/news/20887887/Permissionless-Bitcoin-Debuts-on-Solana-With-Zeus-Networks-zBTC?mtm_campaign=API-OFA",
-      "source": "solanafloor.com",
-      "sentiment": "neutral",
-      "published_at": "2025-03-28T11:16:00Z",
-      "currencies": [
-        "BTC",
-        "SOL",
-        "DEFI"
       ],
       "categories": []
     }
