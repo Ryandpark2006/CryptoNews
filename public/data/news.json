@@ -1,6 +1,46 @@
 {
-  "date": "2025-04-02T18:20:31.660Z",
+  "date": "2025-04-02T19:14:38.005Z",
   "articles": [
+    {
+      "title": "Ethereum Whale Activity Plummets as Large Transactions Drop 63.8% Since Late February",
+      "summary": "Ethereum Whale Activity Plummets as Large Transactions Drop 63.8% Since Late February",
+      "url": "https://cryptopanic.com/news/20911830/Ethereum-Whale-Activity-Plummets-as-Large-Transactions-Drop-638-Since-Late-February?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-02T17:23:07Z",
+      "currencies": [
+        "ETH",
+        "OG",
+        "WHALE"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Analyst Benjamin Cowen warns Ethereum could drop another 50%",
+      "summary": "Analyst Benjamin Cowen warns Ethereum could drop another 50%",
+      "url": "https://cryptopanic.com/news/20911309/Analyst-Benjamin-Cowen-warns-Ethereum-could-drop-another-50?mtm_campaign=API-OFA",
+      "source": "thestreet.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-02T15:27:44Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "IP"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Technicals Not Looking Good: Will ETH Crash Further?",
+      "summary": "Ethereum Technicals Not Looking Good: Will ETH Crash Further?",
+      "url": "https://cryptopanic.com/news/20910140/Ethereum-Technicals-Not-Looking-Good-Will-ETH-Crash-Further?mtm_campaign=API-OFA",
+      "source": "coinspeaker.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-02T12:15:45Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "GameStop Completes $1.5 Billion Offering to Fund Bitcoin Reserve",
       "summary": "GameStop Completes $1.5 Billion Offering to Fund Bitcoin Reserve",
@@ -86,54 +126,14 @@
         "BTC"
       ],
       "categories": []
-    },
-    {
-      "title": "Bukele May Visit Trump as Bitcoin Goals Align",
-      "summary": "Bukele May Visit Trump as Bitcoin Goals Align",
-      "url": "https://cryptopanic.com/news/20897549/Bukele-May-Visit-Trump-as-Bitcoin-Goals-Align?mtm_campaign=API-OFA",
-      "source": "coinpaprika.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-31T08:33:12Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Vitalik Buterin introduces multi-proof security model amid Ethereum volatility",
-      "summary": "Vitalik Buterin introduces multi-proof security model amid Ethereum volatility",
-      "url": "https://cryptopanic.com/news/20896708/Vitalik-Buterin-introduces-multi-proof-security-model-amid-Ethereum-volatility?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-31T02:40:43Z",
-      "currencies": [
-        "ETH",
-        "ZK"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Hoskinson Reveals Cardano’s Push to Integrate with Dogecoin, Chainlink, Bitcoin",
-      "summary": "Hoskinson Reveals Cardano’s Push to Integrate with Dogecoin, Chainlink, Bitcoin",
-      "url": "https://cryptopanic.com/news/20894182/Hoskinson-Reveals-Cardanos-Push-to-Integrate-with-Dogecoin-Chainlink-Bitcoin?mtm_campaign=API-OFA",
-      "source": "zycrypto.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-30T02:05:53Z",
-      "currencies": [
-        "BTC",
-        "DOGE",
-        "ADA",
-        "LINK"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 16,
+      "positive": 13,
       "neutral": 1,
-      "negative": 3
+      "negative": 6
     }
   }
 }
