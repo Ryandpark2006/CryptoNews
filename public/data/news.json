@@ -1,6 +1,32 @@
 {
-  "date": "2025-04-03T10:18:54.646Z",
+  "date": "2025-04-03T18:20:11.373Z",
   "articles": [
+    {
+      "title": "Ethereum faces a storm: Could the crypto giant plummet by 91%?",
+      "summary": "Ethereum faces a storm: Could the crypto giant plummet by 91%?",
+      "url": "https://cryptopanic.com/news/20916737/Ethereum-faces-a-storm-Could-the-crypto-giant-plummet-by-91?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-03T14:50:56Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Trader Says Ethereum Headed for a Massive Crash Against Bitcoin As Bearish Pattern Forms – Here’s His Outlook",
+      "summary": "Trader Says Ethereum Headed for a Massive Crash Against Bitcoin As Bearish Pattern Forms – Here’s His Outlook",
+      "url": "https://cryptopanic.com/news/20915649/Trader-Says-Ethereum-Headed-for-a-Massive-Crash-Against-Bitcoin-As-Bearish-Pattern-Forms-Heres-His-Outlook?mtm_campaign=API-OFA",
+      "source": "dailyhodl.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-03T11:45:40Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum price may have bottomed, but pro traders show little interest in buying ETH",
       "summary": "Ethereum price may have bottomed, but pro traders show little interest in buying ETH",
@@ -103,39 +129,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Mastercard Plans to Enable 3.5 Billion Cardholders to Transact with Bitcoin ($BTC) and Crypto",
-      "summary": "Mastercard Plans to Enable 3.5 Billion Cardholders to Transact with Bitcoin ($BTC) and Crypto",
-      "url": "https://cryptopanic.com/news/20904044/Mastercard-Plans-to-Enable-35-Billion-Cardholders-to-Transact-with-Bitcoin-BTC-and-Crypto?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-04-01T13:05:07Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "U.S. Senator Buys $600K in Bitcoin via ETF",
-      "summary": "U.S. Senator Buys $600K in Bitcoin via ETF",
-      "url": "https://cryptopanic.com/news/20900725/US-Senator-Buys-600K-in-Bitcoin-via-ETF?mtm_campaign=API-OFA",
-      "source": "coincu.com",
-      "sentiment": "positive",
-      "published_at": "2025-03-31T19:59:40Z",
-      "currencies": [
-        "BTC",
-        "S"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 11,
+      "positive": 9,
       "neutral": 2,
-      "negative": 7
+      "negative": 9
     }
   }
 }
