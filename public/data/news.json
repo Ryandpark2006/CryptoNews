@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-03T09:16:11.417Z",
+  "date": "2025-04-03T10:18:54.646Z",
   "articles": [
     {
       "title": "Ethereum price may have bottomed, but pro traders show little interest in buying ETH",
@@ -10,6 +10,20 @@
       "published_at": "2025-04-02T21:15:00Z",
       "currencies": [
         "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Kraken Announces Support for RLUSD As Stablecoin Integrates Into Ripple’s Payment’s Network",
+      "summary": "Kraken Announces Support for RLUSD As Stablecoin Integrates Into Ripple’s Payment’s Network",
+      "url": "https://cryptopanic.com/news/20912158/Kraken-Announces-Support-for-RLUSD-As-Stablecoin-Integrates-Into-Ripples-Payments-Network?mtm_campaign=API-OFA",
+      "source": "dailyhodl.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-02T18:41:22Z",
+      "currencies": [
+        "ETH",
+        "XRP",
+        "RLUSD"
       ],
       "categories": []
     },
@@ -114,26 +128,14 @@
         "S"
       ],
       "categories": []
-    },
-    {
-      "title": "Trump’s sons to launch American Bitcoin",
-      "summary": "Trump’s sons to launch American Bitcoin",
-      "url": "https://cryptopanic.com/news/20899335/Trumps-sons-to-launch-American-Bitcoin?mtm_campaign=API-OFA",
-      "source": "thestreet.com",
-      "sentiment": "negative",
-      "published_at": "2025-03-31T14:07:03Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
+      "positive": 11,
       "neutral": 2,
-      "negative": 6
+      "negative": 7
     }
   }
 }
