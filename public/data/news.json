@@ -1,12 +1,12 @@
 {
-  "date": "2025-04-04T10:18:55.523Z",
+  "date": "2025-04-04T18:20:00.265Z",
   "articles": [
     {
       "title": "Ethereum developers aim for May 7 mainnet deployment of Pectra upgrade",
       "summary": "Ethereum developers aim for May 7 mainnet deployment of Pectra upgrade",
       "url": "https://cryptopanic.com/news/20921035/Ethereum-developers-aim-for-May-7-mainnet-deployment-of-Pectra-upgrade?mtm_campaign=API-OFA",
       "source": "theblock.co",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-04-04T05:04:42Z",
       "currencies": [
         "ETH"
@@ -134,8 +134,8 @@
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 8,
-      "neutral": 1,
+      "positive": 9,
+      "neutral": 0,
       "negative": 11
     }
   }
