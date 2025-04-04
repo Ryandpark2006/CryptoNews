@@ -1,6 +1,20 @@
 {
-  "date": "2025-04-04T18:20:00.265Z",
+  "date": "2025-04-04T19:15:24.397Z",
   "articles": [
+    {
+      "title": "The future of DeFi isn’t on Ethereum — it’s on Bitcoin",
+      "summary": "The future of DeFi isn’t on Ethereum — it’s on Bitcoin",
+      "url": "https://cryptopanic.com/news/20926706/The-future-of-DeFi-isnt-on-Ethereum-its-on-Bitcoin?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-04T15:00:00Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum developers aim for May 7 mainnet deployment of Pectra upgrade",
       "summary": "Ethereum developers aim for May 7 mainnet deployment of Pectra upgrade",
@@ -115,28 +129,14 @@
         "WHALE"
       ],
       "categories": []
-    },
-    {
-      "title": "Analyst Benjamin Cowen warns Ethereum could drop another 50%",
-      "summary": "Analyst Benjamin Cowen warns Ethereum could drop another 50%",
-      "url": "https://cryptopanic.com/news/20911309/Analyst-Benjamin-Cowen-warns-Ethereum-could-drop-another-50?mtm_campaign=API-OFA",
-      "source": "thestreet.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-02T15:27:44Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "IP"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 9,
+      "positive": 8,
       "neutral": 0,
-      "negative": 11
+      "negative": 12
     }
   }
 }
