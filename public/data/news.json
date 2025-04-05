@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-05T10:17:16.557Z",
+  "date": "2025-04-05T18:18:05.323Z",
   "articles": [
     {
       "title": "Bitcoin shows signs of decoupling from US equities, could reclaim $100K",
@@ -34,7 +34,7 @@
       "summary": "‘Ethereum Has Long-Term Potential’: Why Experts Believe in ETH Price Recovery",
       "url": "https://cryptopanic.com/news/20925970/Ethereum-Has-Long-Term-Potential-Why-Experts-Believe-in-ETH-Price-Recovery?mtm_campaign=API-OFA",
       "source": "cryptonews.com",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-04-04T13:56:53Z",
       "currencies": [
         "ETH",
@@ -135,8 +135,8 @@
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 8,
-      "neutral": 1,
+      "positive": 9,
+      "neutral": 0,
       "negative": 11
     }
   }
