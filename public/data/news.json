@@ -1,6 +1,19 @@
 {
-  "date": "2025-04-06T10:17:56.286Z",
+  "date": "2025-04-06T18:18:17.022Z",
   "articles": [
+    {
+      "title": "Simulation Game ‘Infected’ Leaves Base for Solana Over Transaction Bottlenecks",
+      "summary": "Simulation Game ‘Infected’ Leaves Base for Solana Over Transaction Bottlenecks",
+      "url": "https://cryptopanic.com/news/20936518/Simulation-Game-Infected-Leaves-Base-for-Solana-Over-Transaction-Bottlenecks?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-06T03:27:38Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Bitcoin shows signs of decoupling from US equities, could reclaim $100K",
       "summary": "Bitcoin shows signs of decoupling from US equities, could reclaim $100K",
@@ -115,18 +128,6 @@
       "published_at": "2025-04-03T11:45:40Z",
       "currencies": [
         "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum price may have bottomed, but pro traders show little interest in buying ETH",
-      "summary": "Ethereum price may have bottomed, but pro traders show little interest in buying ETH",
-      "url": "https://cryptopanic.com/news/20912712/Ethereum-price-may-have-bottomed-but-pro-traders-show-little-interest-in-buying-ETH?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-02T21:15:00Z",
-      "currencies": [
         "ETH"
       ],
       "categories": []
