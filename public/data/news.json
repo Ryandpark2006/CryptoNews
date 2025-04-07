@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-07T10:20:09.456Z",
+  "date": "2025-04-07T18:20:24.231Z",
   "articles": [
+    {
+      "title": "Markets are crashing. Bitcoin at 75k",
+      "summary": "Markets are crashing. Bitcoin at 75k",
+      "url": "https://cryptopanic.com/news/20943186/Markets-are-crashing-Bitcoin-at-75k?mtm_campaign=API-OFA",
+      "source": "coinpaprika.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-07T07:12:48Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Simulation Game ‘Infected’ Leaves Base for Solana Over Transaction Bottlenecks",
       "summary": "Simulation Game ‘Infected’ Leaves Base for Solana Over Transaction Bottlenecks",
@@ -118,27 +130,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Trader Says Ethereum Headed for a Massive Crash Against Bitcoin As Bearish Pattern Forms – Here’s His Outlook",
-      "summary": "Trader Says Ethereum Headed for a Massive Crash Against Bitcoin As Bearish Pattern Forms – Here’s His Outlook",
-      "url": "https://cryptopanic.com/news/20915649/Trader-Says-Ethereum-Headed-for-a-Massive-Crash-Against-Bitcoin-As-Bearish-Pattern-Forms-Heres-His-Outlook?mtm_campaign=API-OFA",
-      "source": "dailyhodl.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-03T11:45:40Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 9,
+      "positive": 8,
       "neutral": 0,
-      "negative": 11
+      "negative": 12
     }
   }
 }
