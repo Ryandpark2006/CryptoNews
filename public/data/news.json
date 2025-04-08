@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-07T19:14:21.924Z",
+  "date": "2025-04-08T09:16:30.454Z",
   "articles": [
+    {
+      "title": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
+      "summary": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
+      "url": "https://cryptopanic.com/news/20954761/ETH-Drops-to-2-Year-Lows-Amid-Crypto-Selloff?mtm_campaign=API-OFA",
+      "source": "bankless.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-07T18:57:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Markets are crashing. Bitcoin at 75k",
       "summary": "Markets are crashing. Bitcoin at 75k",
@@ -117,27 +129,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum faces a storm: Could the crypto giant plummet by 91%?",
-      "summary": "Ethereum faces a storm: Could the crypto giant plummet by 91%?",
-      "url": "https://cryptopanic.com/news/20916737/Ethereum-faces-a-storm-Could-the-crypto-giant-plummet-by-91?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-03T14:50:56Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 8,
+      "positive": 7,
       "neutral": 0,
-      "negative": 12
+      "negative": 13
     }
   }
 }
