@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-08T09:16:30.454Z",
+  "date": "2025-04-08T10:19:37.664Z",
   "articles": [
     {
       "title": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
@@ -10,6 +10,19 @@
       "published_at": "2025-04-07T18:57:00Z",
       "currencies": [
         "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Whales Scoop Up $60M as ETH Price Tumbles to 2023 Lows",
+      "summary": "Ethereum Whales Scoop Up $60M as ETH Price Tumbles to 2023 Lows",
+      "url": "https://cryptopanic.com/news/20952800/Ethereum-Whales-Scoop-Up-60M-as-ETH-Price-Tumbles-to-2023-Lows?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-07T17:49:30Z",
+      "currencies": [
+        "ETH",
+        "WHALE"
       ],
       "categories": []
     },
@@ -113,19 +126,6 @@
       "sentiment": "positive",
       "published_at": "2025-04-03T18:11:40Z",
       "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Analyst Warns of Massive Ethereum Drop Against Bitcoin",
-      "summary": "Analyst Warns of Massive Ethereum Drop Against Bitcoin",
-      "url": "https://cryptopanic.com/news/20917668/Analyst-Warns-of-Massive-Ethereum-Drop-Against-Bitcoin?mtm_campaign=API-OFA",
-      "source": "cryptodnes.bg",
-      "sentiment": "negative",
-      "published_at": "2025-04-03T18:00:40Z",
-      "currencies": [
-        "BTC",
         "ETH"
       ],
       "categories": []
