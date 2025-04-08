@@ -1,6 +1,43 @@
 {
-  "date": "2025-04-08T10:19:37.664Z",
+  "date": "2025-04-08T18:19:58.176Z",
   "articles": [
+    {
+      "title": "XRP Will Overtake Ethereum By 2028: Standard Chartered",
+      "summary": "XRP Will Overtake Ethereum By 2028: Standard Chartered",
+      "url": "https://cryptopanic.com/news/20964396/XRP-Will-Overtake-Ethereum-By-2028-Standard-Chartered?mtm_campaign=API-OFA",
+      "source": "feeds2.benzinga.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-08T12:26:16Z",
+      "currencies": [
+        "ETH",
+        "XRP"
+      ],
+      "categories": []
+    },
+    {
+      "title": "MegaETH: Supercharging Ethereum for the Real-Time Internet Era",
+      "summary": "MegaETH: Supercharging Ethereum for the Real-Time Internet Era",
+      "url": "https://cryptopanic.com/news/20957348/MegaETH-Supercharging-Ethereum-for-the-Real-Time-Internet-Era?mtm_campaign=API-OFA",
+      "source": "coinpaprika.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-08T08:25:25Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Trump escalates trade war. BTC at 80k",
+      "summary": "Trump escalates trade war. BTC at 80k",
+      "url": "https://cryptopanic.com/news/20956948/Trump-escalates-trade-war-BTC-at-80k?mtm_campaign=API-OFA",
+      "source": "coinpaprika.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-08T07:46:31Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
       "summary": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
@@ -93,50 +130,14 @@
         "$1"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum developers aim for May 7 mainnet deployment of Pectra upgrade",
-      "summary": "Ethereum developers aim for May 7 mainnet deployment of Pectra upgrade",
-      "url": "https://cryptopanic.com/news/20921035/Ethereum-developers-aim-for-May-7-mainnet-deployment-of-Pectra-upgrade?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-04-04T05:04:42Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum whales accumulate 130,000 ETH amid price drop",
-      "summary": "Ethereum whales accumulate 130,000 ETH amid price drop",
-      "url": "https://cryptopanic.com/news/20917718/Ethereum-whales-accumulate-130000-ETH-amid-price-drop?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-03T18:30:54Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum's Pectra Upgrade Set for May Following Technical Hurdles",
-      "summary": "Ethereum's Pectra Upgrade Set for May Following Technical Hurdles",
-      "url": "https://cryptopanic.com/news/20917629/Ethereums-Pectra-Upgrade-Set-for-May-Following-Technical-Hurdles?mtm_campaign=API-OFA",
-      "source": "decrypt.co",
-      "sentiment": "positive",
-      "published_at": "2025-04-03T18:11:40Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 7,
+      "positive": 8,
       "neutral": 0,
-      "negative": 13
+      "negative": 12
     }
   }
 }
