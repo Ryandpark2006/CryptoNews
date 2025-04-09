@@ -1,6 +1,30 @@
 {
-  "date": "2025-04-09T10:21:20.195Z",
+  "date": "2025-04-09T18:20:50.141Z",
   "articles": [
+    {
+      "title": "China and Russia are using Bitcoin to settle energy trades",
+      "summary": "China and Russia are using Bitcoin to settle energy trades",
+      "url": "https://cryptopanic.com/news/20998629/China-and-Russia-are-using-Bitcoin-to-settle-energy-trades?mtm_campaign=API-OFA",
+      "source": "cryptopolitan.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-09T17:07:50Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Trump-linked WLFI dumps Ethereum at 55% loss amid crypto market turmoil",
+      "summary": "Trump-linked WLFI dumps Ethereum at 55% loss amid crypto market turmoil",
+      "url": "https://cryptopanic.com/news/20988705/Trump-linked-WLFI-dumps-Ethereum-at-55-loss-amid-crypto-market-turmoil?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-09T10:12:10Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "XRP Will Overtake Ethereum By 2028: Standard Chartered",
       "summary": "XRP Will Overtake Ethereum By 2028: Standard Chartered",
@@ -101,43 +125,14 @@
         "IP"
       ],
       "categories": []
-    },
-    {
-      "title": "The future of DeFi isn’t on Ethereum — it’s on Bitcoin",
-      "summary": "The future of DeFi isn’t on Ethereum — it’s on Bitcoin",
-      "url": "https://cryptopanic.com/news/20926706/The-future-of-DeFi-isnt-on-Ethereum-its-on-Bitcoin?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-04T15:00:00Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "‘Ethereum Has Long-Term Potential’: Why Experts Believe in ETH Price Recovery",
-      "summary": "‘Ethereum Has Long-Term Potential’: Why Experts Believe in ETH Price Recovery",
-      "url": "https://cryptopanic.com/news/20925970/Ethereum-Has-Long-Term-Potential-Why-Experts-Believe-in-ETH-Price-Recovery?mtm_campaign=API-OFA",
-      "source": "cryptonews.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-04T13:56:53Z",
-      "currencies": [
-        "ETH",
-        "SUI",
-        "APT",
-        "$1"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 8,
+      "positive": 9,
       "neutral": 0,
-      "negative": 12
+      "negative": 11
     }
   }
 }
