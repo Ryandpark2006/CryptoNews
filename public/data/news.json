@@ -1,6 +1,30 @@
 {
-  "date": "2025-04-09T19:14:46.684Z",
+  "date": "2025-04-10T09:16:17.967Z",
   "articles": [
+    {
+      "title": "SEC Approves Options Trading on Spot $ETH ETFs",
+      "summary": "SEC Approves Options Trading on Spot $ETH ETFs",
+      "url": "https://cryptopanic.com/news/21001801/SEC-Approves-Options-Trading-on-Spot-ETH-ETFs?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-04-09T20:30:40Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Bitcoin $100K target ‘back on table’ after Trump tariff pause supercharges market sentiment",
+      "summary": "Bitcoin $100K target ‘back on table’ after Trump tariff pause supercharges market sentiment",
+      "url": "https://cryptopanic.com/news/21001821/Bitcoin-100K-target-back-on-table-after-Trump-tariff-pause-supercharges-market-sentiment?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-09T20:30:00Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "China and Russia are using Bitcoin to settle energy trades",
       "summary": "China and Russia are using Bitcoin to settle energy trades",
@@ -98,41 +122,14 @@
         "BTC"
       ],
       "categories": []
-    },
-    {
-      "title": "Simulation Game ‘Infected’ Leaves Base for Solana Over Transaction Bottlenecks",
-      "summary": "Simulation Game ‘Infected’ Leaves Base for Solana Over Transaction Bottlenecks",
-      "url": "https://cryptopanic.com/news/20936518/Simulation-Game-Infected-Leaves-Base-for-Solana-Over-Transaction-Bottlenecks?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-06T03:27:38Z",
-      "currencies": [
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Bitcoin shows signs of decoupling from US equities, could reclaim $100K",
-      "summary": "Bitcoin shows signs of decoupling from US equities, could reclaim $100K",
-      "url": "https://cryptopanic.com/news/20931625/Bitcoin-shows-signs-of-decoupling-from-US-equities-could-reclaim-100K?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-05T06:10:10Z",
-      "currencies": [
-        "BTC",
-        "S",
-        "IP"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 9,
+      "positive": 11,
       "neutral": 0,
-      "negative": 11
+      "negative": 9
     }
   }
 }
