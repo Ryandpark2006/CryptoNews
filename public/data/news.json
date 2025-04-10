@@ -1,6 +1,19 @@
 {
-  "date": "2025-04-10T10:19:30.660Z",
+  "date": "2025-04-10T18:19:51.271Z",
   "articles": [
+    {
+      "title": "Charles Hoskinson sees Bitcoin hitting $250K as Big Tech embraces crypto, Fed cut rates, and regulation kicks in",
+      "summary": "Charles Hoskinson sees Bitcoin hitting $250K as Big Tech embraces crypto, Fed cut rates, and regulation kicks in",
+      "url": "https://cryptopanic.com/news/21016624/Charles-Hoskinson-sees-Bitcoin-hitting-250K-as-Big-Tech-embraces-crypto-Fed-cut-rates-and-regulation-kicks-in?mtm_campaign=API-OFA",
+      "source": "cryptobriefing.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-10T13:03:47Z",
+      "currencies": [
+        "BTC",
+        "ADA"
+      ],
+      "categories": []
+    },
     {
       "title": "SEC Approves Options Trading on Spot $ETH ETFs",
       "summary": "SEC Approves Options Trading on Spot $ETH ETFs",
@@ -110,26 +123,14 @@
         "WHALE"
       ],
       "categories": []
-    },
-    {
-      "title": "Markets are crashing. Bitcoin at 75k",
-      "summary": "Markets are crashing. Bitcoin at 75k",
-      "url": "https://cryptopanic.com/news/20943186/Markets-are-crashing-Bitcoin-at-75k?mtm_campaign=API-OFA",
-      "source": "coinpaprika.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-07T07:12:48Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 11,
+      "positive": 12,
       "neutral": 0,
-      "negative": 9
+      "negative": 8
     }
   }
 }
