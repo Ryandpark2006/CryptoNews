@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-11T10:18:39.031Z",
+  "date": "2025-04-11T18:20:25.985Z",
   "articles": [
+    {
+      "title": "Sweden: proposal to include Bitcoin in national reserves",
+      "summary": "Sweden: proposal to include Bitcoin in national reserves",
+      "url": "https://cryptopanic.com/news/21035441/Sweden-proposal-to-include-Bitcoin-in-national-reserves?mtm_campaign=API-OFA",
+      "source": "atlas21.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-11T15:18:14Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Charles Hoskinson sees Bitcoin hitting $250K as Big Tech embraces crypto, Fed cut rates, and regulation kicks in",
       "summary": "Charles Hoskinson sees Bitcoin hitting $250K as Big Tech embraces crypto, Fed cut rates, and regulation kicks in",
@@ -110,27 +122,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Whales Scoop Up $60M as ETH Price Tumbles to 2023 Lows",
-      "summary": "Ethereum Whales Scoop Up $60M as ETH Price Tumbles to 2023 Lows",
-      "url": "https://cryptopanic.com/news/20952800/Ethereum-Whales-Scoop-Up-60M-as-ETH-Price-Tumbles-to-2023-Lows?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-07T17:49:30Z",
-      "currencies": [
-        "ETH",
-        "WHALE"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
+      "positive": 13,
       "neutral": 0,
-      "negative": 8
+      "negative": 7
     }
   }
 }
