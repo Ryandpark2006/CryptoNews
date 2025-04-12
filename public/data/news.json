@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-11T19:14:41.644Z",
+  "date": "2025-04-12T09:15:06.015Z",
   "articles": [
     {
       "title": "Sweden: proposal to include Bitcoin in national reserves",
@@ -10,6 +10,21 @@
       "published_at": "2025-04-11T15:18:14Z",
       "currencies": [
         "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "ETH/BTC Collapse Isn’t the End: Analyst Sees Silent Rebuild",
+      "summary": "ETH/BTC Collapse Isn’t the End: Analyst Sees Silent Rebuild",
+      "url": "https://cryptopanic.com/news/21033208/ETHBTC-Collapse-Isnt-the-End-Analyst-Sees-Silent-Rebuild?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-11T13:04:59Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "USDT",
+        "BTCUSD"
       ],
       "categories": []
     },
@@ -108,18 +123,6 @@
       "published_at": "2025-04-08T07:46:31Z",
       "currencies": [
         "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
-      "summary": "ETH Drops to 2-Year Lows Amid Crypto Selloff",
-      "url": "https://cryptopanic.com/news/20954761/ETH-Drops-to-2-Year-Lows-Amid-Crypto-Selloff?mtm_campaign=API-OFA",
-      "source": "bankless.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-07T18:57:00Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
