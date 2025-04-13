@@ -1,6 +1,31 @@
 {
-  "date": "2025-04-12T19:13:47.070Z",
+  "date": "2025-04-13T09:15:50.474Z",
   "articles": [
+    {
+      "title": "Ethereum Price Eyes $2,000 Breakout, Stablecoin Activity Hits All-Time High",
+      "summary": "Ethereum Price Eyes $2,000 Breakout, Stablecoin Activity Hits All-Time High",
+      "url": "https://cryptopanic.com/news/21051549/Ethereum-Price-Eyes-2000-Breakout-Stablecoin-Activity-Hits-All-Time-High?mtm_campaign=API-OFA",
+      "source": "thecoinrepublic.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-13T01:00:00Z",
+      "currencies": [
+        "ETH",
+        "ATH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "On-Chain Indicator Suggests Ethereum (ETH) Could Be Undervalued, According to Crypto Analyst",
+      "summary": "On-Chain Indicator Suggests Ethereum (ETH) Could Be Undervalued, According to Crypto Analyst",
+      "url": "https://cryptopanic.com/news/21050521/On-Chain-Indicator-Suggests-Ethereum-ETH-Could-Be-Undervalued-According-to-Crypto-Analyst?mtm_campaign=API-OFA",
+      "source": "dailyhodl.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-12T20:00:59Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Sweden: proposal to include Bitcoin in national reserves",
       "summary": "Sweden: proposal to include Bitcoin in national reserves",
@@ -99,30 +124,6 @@
       "currencies": [
         "ETH",
         "XRP"
-      ],
-      "categories": []
-    },
-    {
-      "title": "MegaETH: Supercharging Ethereum for the Real-Time Internet Era",
-      "summary": "MegaETH: Supercharging Ethereum for the Real-Time Internet Era",
-      "url": "https://cryptopanic.com/news/20957348/MegaETH-Supercharging-Ethereum-for-the-Real-Time-Internet-Era?mtm_campaign=API-OFA",
-      "source": "coinpaprika.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-08T08:25:25Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Trump escalates trade war. BTC at 80k",
-      "summary": "Trump escalates trade war. BTC at 80k",
-      "url": "https://cryptopanic.com/news/20956948/Trump-escalates-trade-war-BTC-at-80k?mtm_campaign=API-OFA",
-      "source": "coinpaprika.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-08T07:46:31Z",
-      "currencies": [
-        "BTC"
       ],
       "categories": []
     }
