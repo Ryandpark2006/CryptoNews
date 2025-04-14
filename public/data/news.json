@@ -1,6 +1,43 @@
 {
-  "date": "2025-04-14T10:20:16.870Z",
+  "date": "2025-04-14T18:20:51.348Z",
   "articles": [
+    {
+      "title": "Solana rallies 20% against Ethereum, but is $300 SOL price within reach?",
+      "summary": "Solana rallies 20% against Ethereum, but is $300 SOL price within reach?",
+      "url": "https://cryptopanic.com/news/21072668/Solana-rallies-20-against-Ethereum-but-is-300-SOL-price-within-reach?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-14T14:42:35Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
+    {
+      "title": "MicroStrategy Acquires 3,459 Bitcoins for $285.8 Million, Total Holdings Reach 531,644 BTC",
+      "summary": "MicroStrategy Acquires 3,459 Bitcoins for $285.8 Million, Total Holdings Reach 531,644 BTC",
+      "url": "https://cryptopanic.com/news/21072568/MicroStrategy-Acquires-3459-Bitcoins-for-2858-Million-Total-Holdings-Reach-531644-BTC?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-04-14T14:30:40Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Vitalik Buterin Says “Good Social Philosophy” is Needed for the Upper Layers of Ethereum",
+      "summary": "Vitalik Buterin Says “Good Social Philosophy” is Needed for the Upper Layers of Ethereum",
+      "url": "https://cryptopanic.com/news/21072124/Vitalik-Buterin-Says-Good-Social-Philosophy-is-Needed-for-the-Upper-Layers-of-Ethereum?mtm_campaign=API-OFA",
+      "source": "zycrypto.com",
+      "sentiment": "neutral",
+      "published_at": "2025-04-14T14:07:43Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Saylor signals new Bitcoin buy after Strategy reports nearly $6 billion Q1 unrealized loss",
       "summary": "Saylor signals new Bitcoin buy after Strategy reports nearly $6 billion Q1 unrealized loss",
@@ -89,50 +126,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Bitcoin $100K target ‘back on table’ after Trump tariff pause supercharges market sentiment",
-      "summary": "Bitcoin $100K target ‘back on table’ after Trump tariff pause supercharges market sentiment",
-      "url": "https://cryptopanic.com/news/21001821/Bitcoin-100K-target-back-on-table-after-Trump-tariff-pause-supercharges-market-sentiment?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-09T20:30:00Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "China and Russia are using Bitcoin to settle energy trades",
-      "summary": "China and Russia are using Bitcoin to settle energy trades",
-      "url": "https://cryptopanic.com/news/20998629/China-and-Russia-are-using-Bitcoin-to-settle-energy-trades?mtm_campaign=API-OFA",
-      "source": "cryptopolitan.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-09T17:07:50Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Trump-linked WLFI dumps Ethereum at 55% loss amid crypto market turmoil",
-      "summary": "Trump-linked WLFI dumps Ethereum at 55% loss amid crypto market turmoil",
-      "url": "https://cryptopanic.com/news/20988705/Trump-linked-WLFI-dumps-Ethereum-at-55-loss-amid-crypto-market-turmoil?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-09T10:12:10Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
       "positive": 12,
-      "neutral": 1,
-      "negative": 7
+      "neutral": 2,
+      "negative": 6
     }
   }
 }
