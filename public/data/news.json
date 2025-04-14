@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-13T19:13:09.140Z",
+  "date": "2025-04-14T09:17:32.347Z",
   "articles": [
+    {
+      "title": "Saylor signals new Bitcoin buy after Strategy reports nearly $6 billion Q1 unrealized loss",
+      "summary": "Saylor signals new Bitcoin buy after Strategy reports nearly $6 billion Q1 unrealized loss",
+      "url": "https://cryptopanic.com/news/21056879/Saylor-signals-new-Bitcoin-buy-after-Strategy-reports-nearly-6-billion-Q1-unrealized-loss?mtm_campaign=API-OFA",
+      "source": "cryptobriefing.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-13T14:44:50Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Price Eyes $2,000 Breakout, Stablecoin Activity Hits All-Time High",
       "summary": "Ethereum Price Eyes $2,000 Breakout, Stablecoin Activity Hits All-Time High",
@@ -111,19 +123,6 @@
       "published_at": "2025-04-09T10:12:10Z",
       "currencies": [
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "XRP Will Overtake Ethereum By 2028: Standard Chartered",
-      "summary": "XRP Will Overtake Ethereum By 2028: Standard Chartered",
-      "url": "https://cryptopanic.com/news/20964396/XRP-Will-Overtake-Ethereum-By-2028-Standard-Chartered?mtm_campaign=API-OFA",
-      "source": "feeds2.benzinga.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-08T12:26:16Z",
-      "currencies": [
-        "ETH",
-        "XRP"
       ],
       "categories": []
     }
