@@ -1,6 +1,19 @@
 {
-  "date": "2025-04-14T19:14:52.975Z",
+  "date": "2025-04-15T09:16:49.183Z",
   "articles": [
+    {
+      "title": "Canada to approve SOL ETFs with staking functions as SEC postpones staking function for Grayscale spot ETH ETF",
+      "summary": "Canada to approve SOL ETFs with staking functions as SEC postpones staking function for Grayscale spot ETH ETF",
+      "url": "https://cryptopanic.com/news/21076936/Canada-to-approve-SOL-ETFs-with-staking-functions-as-SEC-postpones-staking-function-for-Grayscale-spot-ETH-ETF?mtm_campaign=API-OFA",
+      "source": "cryptopolitan.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-14T19:42:01Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Solana rallies 20% against Ethereum, but is $300 SOL price within reach?",
       "summary": "Solana rallies 20% against Ethereum, but is $300 SOL price within reach?",
@@ -31,7 +44,7 @@
       "summary": "Vitalik Buterin Says “Good Social Philosophy” is Needed for the Upper Layers of Ethereum",
       "url": "https://cryptopanic.com/news/21072124/Vitalik-Buterin-Says-Good-Social-Philosophy-is-Needed-for-the-Upper-Layers-of-Ethereum?mtm_campaign=API-OFA",
       "source": "zycrypto.com",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-04-14T14:07:43Z",
       "currencies": [
         "ETH"
@@ -114,26 +127,14 @@
         "ADA"
       ],
       "categories": []
-    },
-    {
-      "title": "SEC Approves Options Trading on Spot $ETH ETFs",
-      "summary": "SEC Approves Options Trading on Spot $ETH ETFs",
-      "url": "https://cryptopanic.com/news/21001801/SEC-Approves-Options-Trading-on-Spot-ETH-ETFs?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-04-09T20:30:40Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
-      "neutral": 2,
-      "negative": 6
+      "positive": 14,
+      "neutral": 1,
+      "negative": 5
     }
   }
 }
