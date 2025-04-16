@@ -1,6 +1,19 @@
 {
-  "date": "2025-04-16T10:19:52.189Z",
+  "date": "2025-04-16T18:21:15.488Z",
   "articles": [
+    {
+      "title": "Ethereum Is What Bitcoin Was Meant to Be",
+      "summary": "Ethereum Is What Bitcoin Was Meant to Be",
+      "url": "https://cryptopanic.com/news/21110810/Ethereum-Is-What-Bitcoin-Was-Meant-to-Be?mtm_campaign=API-OFA",
+      "source": "coindesk.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-16T15:44:47Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Canada to approve SOL ETFs with staking functions as SEC postpones staking function for Grayscale spot ETH ETF",
       "summary": "Canada to approve SOL ETFs with staking functions as SEC postpones staking function for Grayscale spot ETH ETF",
@@ -114,27 +127,14 @@
         "BTCUSD"
       ],
       "categories": []
-    },
-    {
-      "title": "Charles Hoskinson sees Bitcoin hitting $250K as Big Tech embraces crypto, Fed cut rates, and regulation kicks in",
-      "summary": "Charles Hoskinson sees Bitcoin hitting $250K as Big Tech embraces crypto, Fed cut rates, and regulation kicks in",
-      "url": "https://cryptopanic.com/news/21016624/Charles-Hoskinson-sees-Bitcoin-hitting-250K-as-Big-Tech-embraces-crypto-Fed-cut-rates-and-regulation-kicks-in?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-10T13:03:47Z",
-      "currencies": [
-        "BTC",
-        "ADA"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 14,
+      "positive": 15,
       "neutral": 1,
-      "negative": 5
+      "negative": 4
     }
   }
 }
