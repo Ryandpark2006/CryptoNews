@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-17T18:20:22.983Z",
+  "date": "2025-04-17T19:14:06.883Z",
   "articles": [
+    {
+      "title": "North Carolina: proposal advances to invest 10% of public funds in Bitcoin",
+      "summary": "North Carolina: proposal advances to invest 10% of public funds in Bitcoin",
+      "url": "https://cryptopanic.com/news/21121304/North-Carolina-proposal-advances-to-invest-10-of-public-funds-in-Bitcoin?mtm_campaign=API-OFA",
+      "source": "atlas21.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-17T07:13:10Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Is What Bitcoin Was Meant to Be",
       "summary": "Ethereum Is What Bitcoin Was Meant to Be",
@@ -110,21 +122,6 @@
       "published_at": "2025-04-11T15:18:14Z",
       "currencies": [
         "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "ETH/BTC Collapse Isn’t the End: Analyst Sees Silent Rebuild",
-      "summary": "ETH/BTC Collapse Isn’t the End: Analyst Sees Silent Rebuild",
-      "url": "https://cryptopanic.com/news/21033208/ETHBTC-Collapse-Isnt-the-End-Analyst-Sees-Silent-Rebuild?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-11T13:04:59Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "USDT",
-        "BTCUSD"
       ],
       "categories": []
     }
