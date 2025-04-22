@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-21T19:15:12.147Z",
+  "date": "2025-04-22T09:16:31.497Z",
   "articles": [
     {
       "title": "Trump attacks FED",
@@ -68,7 +68,7 @@
       "summary": "Ethereum Upgrades Could Boost Scalability, Payments Role: Binance",
       "url": "https://cryptopanic.com/news/21177574/Ethereum-Upgrades-Could-Boost-Scalability-Payments-Role-Binance?mtm_campaign=API-OFA",
       "source": "cryptopotato.com",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-04-19T19:44:08Z",
       "currencies": [
         "ETH",
@@ -128,8 +128,8 @@
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 11,
-      "neutral": 2,
+      "positive": 12,
+      "neutral": 1,
       "negative": 7
     }
   }
