@@ -1,6 +1,19 @@
 {
-  "date": "2025-04-22T10:19:13.625Z",
+  "date": "2025-04-22T18:20:53.286Z",
   "articles": [
+    {
+      "title": "Ethereum: 1.83M new users in a week – A prelude to price recovery?",
+      "summary": "Ethereum: 1.83M new users in a week – A prelude to price recovery?",
+      "url": "https://cryptopanic.com/news/21233860/Ethereum-183M-new-users-in-a-week-A-prelude-to-price-recovery?mtm_campaign=API-OFA",
+      "source": "ambcrypto.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-22T12:00:57Z",
+      "currencies": [
+        "ETH",
+        "$1"
+      ],
+      "categories": []
+    },
     {
       "title": "Trump attacks FED",
       "summary": "Trump attacks FED",
@@ -107,18 +120,6 @@
       "source": "u.today",
       "sentiment": "negative",
       "published_at": "2025-04-18T08:56:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Secret Service, Canadian Officials Disrupt $4.3M Ethereum “Approval Phishing” Scam",
-      "summary": "Secret Service, Canadian Officials Disrupt $4.3M Ethereum “Approval Phishing” Scam",
-      "url": "https://cryptopanic.com/news/21126365/Secret-Service-Canadian-Officials-Disrupt-43M-Ethereum-Approval-Phishing-Scam?mtm_campaign=API-OFA",
-      "source": "decrypt.co",
-      "sentiment": "negative",
-      "published_at": "2025-04-17T11:22:57Z",
       "currencies": [
         "ETH"
       ],
