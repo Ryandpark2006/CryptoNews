@@ -1,17 +1,30 @@
 {
-  "date": "2025-04-23T09:16:34.706Z",
+  "date": "2025-04-23T10:20:15.719Z",
   "articles": [
     {
       "title": "Ethereum Holds Above MVRV Band Low – A Final Dip Before Recovery?",
       "summary": "Ethereum Holds Above MVRV Band Low – A Final Dip Before Recovery?",
       "url": "https://cryptopanic.com/news/21249796/Ethereum-Holds-Above-MVRV-Band-Low-A-Final-Dip-Before-Recovery?mtm_campaign=API-OFA",
       "source": "newsbtc.com",
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "published_at": "2025-04-22T22:30:02Z",
       "currencies": [
         "ETH",
         "USDT",
         "SOL"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum’s ‘Pectra’ upgrade could be a game-changer for users and validators – Here’s what to expect",
+      "summary": "Ethereum’s ‘Pectra’ upgrade could be a game-changer for users and validators – Here’s what to expect",
+      "url": "https://cryptopanic.com/news/21239400/Ethereums-Pectra-upgrade-could-be-a-game-changer-for-users-and-validators-Heres-what-to-expect?mtm_campaign=API-OFA",
+      "source": "ambcrypto.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-22T15:00:07Z",
+      "currencies": [
+        "ETH",
+        "$1"
       ],
       "categories": []
     },
@@ -110,18 +123,6 @@
       "source": "cryptopotato.com",
       "sentiment": "negative",
       "published_at": "2025-04-19T11:34:15Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Massive Ethereum (ETH) Price Crash to $800 Predicted by Legendary Trader Brandt",
-      "summary": "Massive Ethereum (ETH) Price Crash to $800 Predicted by Legendary Trader Brandt",
-      "url": "https://cryptopanic.com/news/21171082/Massive-Ethereum-ETH-Price-Crash-to-800-Predicted-by-Legendary-Trader-Brandt?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "negative",
-      "published_at": "2025-04-19T08:16:00Z",
       "currencies": [
         "ETH"
       ],
