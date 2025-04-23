@@ -1,6 +1,20 @@
 {
-  "date": "2025-04-23T10:20:15.719Z",
+  "date": "2025-04-23T18:21:41.043Z",
   "articles": [
+    {
+      "title": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
+      "summary": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
+      "url": "https://cryptopanic.com/news/21251749/Ethereum-ETH-Underperforms-All-Top-5-Major-Cryptos-in-Brutal-2025-Downtrend?mtm_campaign=API-OFA",
+      "source": "beincrypto.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-23T00:00:00Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Holds Above MVRV Band Low – A Final Dip Before Recovery?",
       "summary": "Ethereum Holds Above MVRV Band Low – A Final Dip Before Recovery?",
@@ -115,26 +129,14 @@
         "SOL"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum’s Next Big Move: 3 Bullish Signals That Could Skyrocket ETH",
-      "summary": "Ethereum’s Next Big Move: 3 Bullish Signals That Could Skyrocket ETH",
-      "url": "https://cryptopanic.com/news/21173642/Ethereums-Next-Big-Move-3-Bullish-Signals-That-Could-Skyrocket-ETH?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-19T11:34:15Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
+      "positive": 11,
       "neutral": 1,
-      "negative": 7
+      "negative": 8
     }
   }
 }
