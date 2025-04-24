@@ -1,6 +1,19 @@
 {
-  "date": "2025-04-24T10:19:42.524Z",
+  "date": "2025-04-24T18:20:44.704Z",
   "articles": [
+    {
+      "title": "Ethereum Won't Survive, Cardano Founder Predicts",
+      "summary": "Ethereum Won't Survive, Cardano Founder Predicts",
+      "url": "https://cryptopanic.com/news/21292905/Ethereum-Wont-Survive-Cardano-Founder-Predicts?mtm_campaign=API-OFA",
+      "source": "u.today",
+      "sentiment": "negative",
+      "published_at": "2025-04-24T06:07:28Z",
+      "currencies": [
+        "ETH",
+        "ADA"
+      ],
+      "categories": []
+    },
     {
       "title": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
       "summary": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
@@ -115,27 +128,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Foundation pivots focus to L1 scaling, frees Vitalik Buterin for research innovation",
-      "summary": "Ethereum Foundation pivots focus to L1 scaling, frees Vitalik Buterin for research innovation",
-      "url": "https://cryptopanic.com/news/21204024/Ethereum-Foundation-pivots-focus-to-L1-scaling-frees-Vitalik-Buterin-for-research-innovation?mtm_campaign=API-OFA",
-      "source": "cryptoslate.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-21T11:39:08Z",
-      "currencies": [
-        "ETH",
-        "L1"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 10,
+      "positive": 9,
       "neutral": 1,
-      "negative": 9
+      "negative": 10
     }
   }
 }
