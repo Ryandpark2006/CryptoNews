@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-23T19:14:36.566Z",
+  "date": "2025-04-24T09:17:39.621Z",
   "articles": [
+    {
+      "title": "Institutions break up with Ethereum but keep ETH on the hook",
+      "summary": "Institutions break up with Ethereum but keep ETH on the hook",
+      "url": "https://cryptopanic.com/news/21274553/Institutions-break-up-with-Ethereum-but-keep-ETH-on-the-hook?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-23T15:09:56Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
       "summary": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
@@ -116,27 +128,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Upgrades Could Boost Scalability, Payments Role: Binance",
-      "summary": "Ethereum Upgrades Could Boost Scalability, Payments Role: Binance",
-      "url": "https://cryptopanic.com/news/21177574/Ethereum-Upgrades-Could-Boost-Scalability-Payments-Role-Binance?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-19T19:44:08Z",
-      "currencies": [
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 11,
+      "positive": 10,
       "neutral": 1,
-      "negative": 8
+      "negative": 9
     }
   }
 }
