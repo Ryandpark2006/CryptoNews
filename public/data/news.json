@@ -1,6 +1,18 @@
 {
-  "date": "2025-04-24T09:17:39.621Z",
+  "date": "2025-04-24T10:19:42.524Z",
   "articles": [
+    {
+      "title": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
+      "summary": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
+      "url": "https://cryptopanic.com/news/21275374/Ubisoft-Brings-Might-038-Magic-to-Ethereum-via-Immutable-Card-Game?mtm_campaign=API-OFA",
+      "source": "decrypt.co",
+      "sentiment": "positive",
+      "published_at": "2025-04-23T15:38:59Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Institutions break up with Ethereum but keep ETH on the hook",
       "summary": "Institutions break up with Ethereum but keep ETH on the hook",
@@ -114,18 +126,6 @@
       "currencies": [
         "ETH",
         "L1"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Vitalik Buterin proposes RISC-V overhaul to revive Ethereum’s execution layer",
-      "summary": "Vitalik Buterin proposes RISC-V overhaul to revive Ethereum’s execution layer",
-      "url": "https://cryptopanic.com/news/21193111/Vitalik-Buterin-proposes-RISC-V-overhaul-to-revive-Ethereums-execution-layer?mtm_campaign=API-OFA",
-      "source": "cryptopolitan.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-21T00:29:54Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
