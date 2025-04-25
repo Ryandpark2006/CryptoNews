@@ -1,6 +1,30 @@
 {
-  "date": "2025-04-25T09:16:05.576Z",
+  "date": "2025-04-25T10:19:08.836Z",
   "articles": [
+    {
+      "title": "Was $1.4K Ethereum’s ‘generational bottom?’ — Data sends mixed signals",
+      "summary": "Was $1.4K Ethereum’s ‘generational bottom?’ — Data sends mixed signals",
+      "url": "https://cryptopanic.com/news/21317928/Was-14K-Ethereums-generational-bottom-Data-sends-mixed-signals?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-24T21:05:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum sees record single-day inflow with 449K ETH in accumulation addresses",
+      "summary": "Ethereum sees record single-day inflow with 449K ETH in accumulation addresses",
+      "url": "https://cryptopanic.com/news/21315668/Ethereum-sees-record-single-day-inflow-with-449K-ETH-in-accumulation-addresses?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-24T19:10:39Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Cardano founder says Ethereum will go extinct in 10 to 15 years, like BlackBerry and Myspace",
       "summary": "Cardano founder says Ethereum will go extinct in 10 to 15 years, like BlackBerry and Myspace",
@@ -102,30 +126,6 @@
       "currencies": [
         "ETH",
         "$1"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Trump attacks FED",
-      "summary": "Trump attacks FED",
-      "url": "https://cryptopanic.com/news/21208092/Trump-attacks-FED?mtm_campaign=API-OFA",
-      "source": "coinpaprika.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-21T14:10:43Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Breaking : MicroStrategy (Strategy) Buys 6,556 Bitcoin for $555.8 Million",
-      "summary": "Breaking : MicroStrategy (Strategy) Buys 6,556 Bitcoin for $555.8 Million",
-      "url": "https://cryptopanic.com/news/21204833/Breaking-MicroStrategy-Strategy-Buys-6556-Bitcoin-for-5558-Million?mtm_campaign=API-OFA",
-      "source": "coinpedia.org",
-      "sentiment": "positive",
-      "published_at": "2025-04-21T12:07:07Z",
-      "currencies": [
-        "BTC"
       ],
       "categories": []
     }
