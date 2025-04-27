@@ -1,6 +1,32 @@
 {
-  "date": "2025-04-26T19:13:56.060Z",
+  "date": "2025-04-27T09:14:28.611Z",
   "articles": [
+    {
+      "title": "Swiss National Bank Rejects Bitcoin Reserve Proposal",
+      "summary": "Swiss National Bank Rejects Bitcoin Reserve Proposal",
+      "url": "https://cryptopanic.com/news/21360035/Swiss-National-Bank-Rejects-Bitcoin-Reserve-Proposal?mtm_campaign=API-OFA",
+      "source": "coinpaper.com",
+      "sentiment": "negative",
+      "published_at": "2025-04-26T16:05:31Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "XRP price prediction as world’s first spot ETF goes live",
+      "summary": "XRP price prediction as world’s first spot ETF goes live",
+      "url": "https://cryptopanic.com/news/21359497/XRP-price-prediction-as-worlds-first-spot-ETF-goes-live?mtm_campaign=API-OFA",
+      "source": "finbold.com",
+      "sentiment": "neutral",
+      "published_at": "2025-04-26T15:06:53Z",
+      "currencies": [
+        "BTC",
+        "XRP",
+        "B3"
+      ],
+      "categories": []
+    },
     {
       "title": "Bitcoin Primed To Do Very Well, But This Ethereum Rival Is the ‘Faster Horse,’ According to InvestAnswers",
       "summary": "Bitcoin Primed To Do Very Well, But This Ethereum Rival Is the ‘Faster Horse,’ According to InvestAnswers",
@@ -102,41 +128,14 @@
         "SOL"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Holds Above MVRV Band Low – A Final Dip Before Recovery?",
-      "summary": "Ethereum Holds Above MVRV Band Low – A Final Dip Before Recovery?",
-      "url": "https://cryptopanic.com/news/21249796/Ethereum-Holds-Above-MVRV-Band-Low-A-Final-Dip-Before-Recovery?mtm_campaign=API-OFA",
-      "source": "newsbtc.com",
-      "sentiment": "neutral",
-      "published_at": "2025-04-22T22:30:02Z",
-      "currencies": [
-        "ETH",
-        "USDT",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum’s ‘Pectra’ upgrade could be a game-changer for users and validators – Here’s what to expect",
-      "summary": "Ethereum’s ‘Pectra’ upgrade could be a game-changer for users and validators – Here’s what to expect",
-      "url": "https://cryptopanic.com/news/21239400/Ethereums-Pectra-upgrade-could-be-a-game-changer-for-users-and-validators-Heres-what-to-expect?mtm_campaign=API-OFA",
-      "source": "ambcrypto.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-22T15:00:07Z",
-      "currencies": [
-        "ETH",
-        "$1"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
       "positive": 9,
-      "neutral": 2,
-      "negative": 9
+      "neutral": 3,
+      "negative": 8
     }
   }
 }
