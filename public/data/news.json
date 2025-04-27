@@ -1,6 +1,30 @@
 {
-  "date": "2025-04-27T10:18:17.353Z",
+  "date": "2025-04-27T18:18:39.326Z",
   "articles": [
+    {
+      "title": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
+      "summary": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
+      "url": "https://cryptopanic.com/news/21367985/Vitalik-Buterins-Code-Proposal-Aims-to-Boost-Ethereum-Efficiency?mtm_campaign=API-OFA",
+      "source": "investors.catenaa.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-27T12:44:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "9 out of 10 Ethereum (ETH) Key Indicators Show Price Loss",
+      "summary": "9 out of 10 Ethereum (ETH) Key Indicators Show Price Loss",
+      "url": "https://cryptopanic.com/news/21368601/9-out-of-10-Ethereum-ETH-Key-Indicators-Show-Price-Loss?mtm_campaign=API-OFA",
+      "source": "u.today",
+      "sentiment": "negative",
+      "published_at": "2025-04-27T09:34:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Swiss National Bank Rejects Bitcoin Reserve Proposal",
       "summary": "Swiss National Bank Rejects Bitcoin Reserve Proposal",
@@ -100,32 +124,6 @@
       "published_at": "2025-04-23T15:38:59Z",
       "currencies": [
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Institutions break up with Ethereum but keep ETH on the hook",
-      "summary": "Institutions break up with Ethereum but keep ETH on the hook",
-      "url": "https://cryptopanic.com/news/21274553/Institutions-break-up-with-Ethereum-but-keep-ETH-on-the-hook?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-23T15:09:56Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
-      "summary": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
-      "url": "https://cryptopanic.com/news/21251749/Ethereum-ETH-Underperforms-All-Top-5-Major-Cryptos-in-Brutal-2025-Downtrend?mtm_campaign=API-OFA",
-      "source": "beincrypto.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-23T00:00:00Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "SOL"
       ],
       "categories": []
     }
