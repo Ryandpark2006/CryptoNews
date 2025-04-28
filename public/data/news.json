@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-27T19:14:44.768Z",
+  "date": "2025-04-28T10:48:35.723Z",
   "articles": [
     {
       "title": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
@@ -8,6 +8,18 @@
       "source": "investors.catenaa.com",
       "sentiment": "positive",
       "published_at": "2025-04-27T12:44:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum’s Buterin reports “halfway there” on account abstraction",
+      "summary": "Ethereum’s Buterin reports “halfway there” on account abstraction",
+      "url": "https://cryptopanic.com/news/21369730/Ethereums-Buterin-reports-halfway-there-on-account-abstraction?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-27T11:36:33Z",
       "currencies": [
         "ETH"
       ],
@@ -114,26 +126,14 @@
         "ADA"
       ],
       "categories": []
-    },
-    {
-      "title": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
-      "summary": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
-      "url": "https://cryptopanic.com/news/21275374/Ubisoft-Brings-Might-038-Magic-to-Ethereum-via-Immutable-Card-Game?mtm_campaign=API-OFA",
-      "source": "decrypt.co",
-      "sentiment": "positive",
-      "published_at": "2025-04-23T15:38:59Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 9,
+      "positive": 10,
       "neutral": 3,
-      "negative": 8
+      "negative": 7
     }
   }
 }
