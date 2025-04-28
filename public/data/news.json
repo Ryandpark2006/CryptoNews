@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-28T18:21:37.364Z",
+  "date": "2025-04-28T19:14:39.358Z",
   "articles": [
     {
       "title": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
@@ -91,7 +91,7 @@
       "summary": "XRP price prediction as world’s first spot ETF goes live",
       "url": "https://cryptopanic.com/news/21359497/XRP-price-prediction-as-worlds-first-spot-ETF-goes-live?mtm_campaign=API-OFA",
       "source": "finbold.com",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-04-26T15:06:53Z",
       "currencies": [
         "BTC",
@@ -130,8 +130,8 @@
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
-      "neutral": 3,
+      "positive": 13,
+      "neutral": 2,
       "negative": 5
     }
   }
