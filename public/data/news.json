@@ -1,6 +1,30 @@
 {
-  "date": "2025-04-28T11:04:49.315Z",
+  "date": "2025-04-28T18:21:37.364Z",
   "articles": [
+    {
+      "title": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
+      "summary": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
+      "url": "https://cryptopanic.com/news/21384055/Ethereum-researcher-proposes-100-fold-exponential-gas-limit-boost-to-improve-mainnet-scaling?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-04-28T09:07:52Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Grayscale seeks SEC approval to introduce staking in Ethereum ETPs",
+      "summary": "Grayscale seeks SEC approval to introduce staking in Ethereum ETPs",
+      "url": "https://cryptopanic.com/news/21378305/Grayscale-seeks-SEC-approval-to-introduce-staking-in-Ethereum-ETPs?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-28T03:15:18Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
       "summary": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
@@ -34,6 +58,19 @@
       "published_at": "2025-04-27T09:34:00Z",
       "currencies": [
         "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Bitcoin Continues To Flow Out Of Major Exchanges — Supply Squeeze Soon?",
+      "summary": "Bitcoin Continues To Flow Out Of Major Exchanges — Supply Squeeze Soon?",
+      "url": "https://cryptopanic.com/news/21365216/Bitcoin-Continues-To-Flow-Out-Of-Major-Exchanges-Supply-Squeeze-Soon?mtm_campaign=API-OFA",
+      "source": "newsbtc.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-27T05:00:31Z",
+      "currencies": [
+        "BTC",
+        "USDT"
       ],
       "categories": []
     },
@@ -88,52 +125,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum sees record single-day inflow with 449K ETH in accumulation addresses",
-      "summary": "Ethereum sees record single-day inflow with 449K ETH in accumulation addresses",
-      "url": "https://cryptopanic.com/news/21315668/Ethereum-sees-record-single-day-inflow-with-449K-ETH-in-accumulation-addresses?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-24T19:10:39Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Cardano founder says Ethereum will go extinct in 10 to 15 years, like BlackBerry and Myspace",
-      "summary": "Cardano founder says Ethereum will go extinct in 10 to 15 years, like BlackBerry and Myspace",
-      "url": "https://cryptopanic.com/news/21306022/Cardano-founder-says-Ethereum-will-go-extinct-in-10-to-15-years-like-BlackBerry-and-Myspace?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-24T13:33:02Z",
-      "currencies": [
-        "ETH",
-        "ADA"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Won't Survive, Cardano Founder Predicts",
-      "summary": "Ethereum Won't Survive, Cardano Founder Predicts",
-      "url": "https://cryptopanic.com/news/21292905/Ethereum-Wont-Survive-Cardano-Founder-Predicts?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "negative",
-      "published_at": "2025-04-24T06:07:28Z",
-      "currencies": [
-        "ETH",
-        "ADA"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 10,
+      "positive": 12,
       "neutral": 3,
-      "negative": 7
+      "negative": 5
     }
   }
 }
