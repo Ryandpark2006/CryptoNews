@@ -1,6 +1,30 @@
 {
-  "date": "2025-04-28T19:14:39.358Z",
+  "date": "2025-04-29T09:17:12.510Z",
   "articles": [
+    {
+      "title": "Arizona state approves first ever US Bitcoin reserve, set to invest 10% of $31.5B state assets",
+      "summary": "Arizona state approves first ever US Bitcoin reserve, set to invest 10% of $31.5B state assets",
+      "url": "https://cryptopanic.com/news/21403737/Arizona-state-approves-first-ever-US-Bitcoin-reserve-set-to-invest-10-of-315B-state-assets?mtm_campaign=API-OFA",
+      "source": "fxstreet.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-28T23:43:28Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "MetaMask to launch self-custody crypto card with Mastercard",
+      "summary": "MetaMask to launch self-custody crypto card with Mastercard",
+      "url": "https://cryptopanic.com/news/21401770/MetaMask-to-launch-self-custody-crypto-card-with-Mastercard?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-28T22:41:25Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
       "summary": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
@@ -97,32 +121,6 @@
         "BTC",
         "XRP",
         "B3"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Bitcoin Primed To Do Very Well, But This Ethereum Rival Is the ‘Faster Horse,’ According to InvestAnswers",
-      "summary": "Bitcoin Primed To Do Very Well, But This Ethereum Rival Is the ‘Faster Horse,’ According to InvestAnswers",
-      "url": "https://cryptopanic.com/news/21343933/Bitcoin-Primed-To-Do-Very-Well-But-This-Ethereum-Rival-Is-the-Faster-Horse-According-to-InvestAnswers?mtm_campaign=API-OFA",
-      "source": "dailyhodl.com",
-      "sentiment": "neutral",
-      "published_at": "2025-04-25T18:05:11Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Was $1.4K Ethereum’s ‘generational bottom?’ — Data sends mixed signals",
-      "summary": "Was $1.4K Ethereum’s ‘generational bottom?’ — Data sends mixed signals",
-      "url": "https://cryptopanic.com/news/21317928/Was-14K-Ethereums-generational-bottom-Data-sends-mixed-signals?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-24T21:05:00Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
