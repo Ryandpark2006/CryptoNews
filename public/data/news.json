@@ -1,6 +1,31 @@
 {
-  "date": "2025-04-29T19:14:43.671Z",
+  "date": "2025-04-30T09:16:31.100Z",
   "articles": [
+    {
+      "title": "Ethereum’s ‘capitulation’ suggests ETH price is undervalued: Fidelity report",
+      "summary": "Ethereum’s ‘capitulation’ suggests ETH price is undervalued: Fidelity report",
+      "url": "https://cryptopanic.com/news/21425017/Ethereums-capitulation-suggests-ETH-price-is-undervalued-Fidelity-report?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-04-29T18:17:53Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Base reaches ‘stage 1’ in Ethereum rollup decentralization with fault proofs and security council",
+      "summary": "Base reaches ‘stage 1’ in Ethereum rollup decentralization with fault proofs and security council",
+      "url": "https://cryptopanic.com/news/21420950/Base-reaches-stage-1-in-Ethereum-rollup-decentralization-with-fault-proofs-and-security-council?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-04-29T16:00:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Arizona state approves first ever US Bitcoin reserve, set to invest 10% of $31.5B state assets",
       "summary": "Arizona state approves first ever US Bitcoin reserve, set to invest 10% of $31.5B state assets",
@@ -97,39 +122,13 @@
         "USDT"
       ],
       "categories": []
-    },
-    {
-      "title": "Swiss National Bank Rejects Bitcoin Reserve Proposal",
-      "summary": "Swiss National Bank Rejects Bitcoin Reserve Proposal",
-      "url": "https://cryptopanic.com/news/21360035/Swiss-National-Bank-Rejects-Bitcoin-Reserve-Proposal?mtm_campaign=API-OFA",
-      "source": "coinpaper.com",
-      "sentiment": "negative",
-      "published_at": "2025-04-26T16:05:31Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "XRP price prediction as world’s first spot ETF goes live",
-      "summary": "XRP price prediction as world’s first spot ETF goes live",
-      "url": "https://cryptopanic.com/news/21359497/XRP-price-prediction-as-worlds-first-spot-ETF-goes-live?mtm_campaign=API-OFA",
-      "source": "finbold.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-26T15:06:53Z",
-      "currencies": [
-        "BTC",
-        "XRP",
-        "B3"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 13,
-      "neutral": 2,
+      "positive": 14,
+      "neutral": 1,
       "negative": 5
     }
   }
