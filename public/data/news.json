@@ -1,6 +1,32 @@
 {
-  "date": "2025-05-02T10:19:05.678Z",
+  "date": "2025-05-02T18:20:39.265Z",
   "articles": [
+    {
+      "title": "Ether more ‘like a memecoin,’ says trading firm as ETH drops 45% YTD",
+      "summary": "Ether more ‘like a memecoin,’ says trading firm as ETH drops 45% YTD",
+      "url": "https://cryptopanic.com/news/21516615/Ether-more-like-a-memecoin-says-trading-firm-as-ETH-drops-45-YTD?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-02T14:30:23Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Two Prime Ditches Ethereum for Bitcoin, Citing ‘Meme Coin’ Behavior",
+      "summary": "Two Prime Ditches Ethereum for Bitcoin, Citing ‘Meme Coin’ Behavior",
+      "url": "https://cryptopanic.com/news/21511163/Two-Prime-Ditches-Ethereum-for-Bitcoin-Citing-Meme-Coin-Behavior?mtm_campaign=API-OFA",
+      "source": "decrypt.co",
+      "sentiment": "negative",
+      "published_at": "2025-05-02T11:47:39Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Devs introduce Ethereum R1 layer-2 scaling solution",
       "summary": "Devs introduce Ethereum R1 layer-2 scaling solution",
@@ -97,38 +123,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
-      "summary": "Vitalik Buterin’s Code Proposal Aims to Boost Ethereum Efficiency",
-      "url": "https://cryptopanic.com/news/21367985/Vitalik-Buterins-Code-Proposal-Aims-to-Boost-Ethereum-Efficiency?mtm_campaign=API-OFA",
-      "source": "investors.catenaa.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-27T12:44:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum’s Buterin reports “halfway there” on account abstraction",
-      "summary": "Ethereum’s Buterin reports “halfway there” on account abstraction",
-      "url": "https://cryptopanic.com/news/21369730/Ethereums-Buterin-reports-halfway-there-on-account-abstraction?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-27T11:36:33Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 16,
+      "positive": 15,
       "neutral": 1,
-      "negative": 3
+      "negative": 4
     }
   }
 }
