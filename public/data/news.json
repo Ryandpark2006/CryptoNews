@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-01T19:14:14.744Z",
+  "date": "2025-05-02T09:16:07.684Z",
   "articles": [
+    {
+      "title": "Devs introduce Ethereum R1 layer-2 scaling solution",
+      "summary": "Devs introduce Ethereum R1 layer-2 scaling solution",
+      "url": "https://cryptopanic.com/news/21487584/Devs-introduce-Ethereum-R1-layer-2-scaling-solution?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-01T16:17:47Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum to simplify crosschain transactions with new token standards",
       "summary": "Ethereum to simplify crosschain transactions with new token standards",
@@ -109,26 +121,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "9 out of 10 Ethereum (ETH) Key Indicators Show Price Loss",
-      "summary": "9 out of 10 Ethereum (ETH) Key Indicators Show Price Loss",
-      "url": "https://cryptopanic.com/news/21368601/9-out-of-10-Ethereum-ETH-Key-Indicators-Show-Price-Loss?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "negative",
-      "published_at": "2025-04-27T09:34:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 15,
+      "positive": 16,
       "neutral": 1,
-      "negative": 4
+      "negative": 3
     }
   }
 }
