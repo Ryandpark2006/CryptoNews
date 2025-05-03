@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-02T19:14:39.386Z",
+  "date": "2025-05-03T09:14:28.869Z",
   "articles": [
+    {
+      "title": "Bitcoin’s Push to $100K Puts More Than $3 Billion in Short Positions at Risk",
+      "summary": "Bitcoin’s Push to $100K Puts More Than $3 Billion in Short Positions at Risk",
+      "url": "https://cryptopanic.com/news/21518520/Bitcoins-Push-to-100K-Puts-More-Than-3-Billion-in-Short-Positions-at-Risk?mtm_campaign=API-OFA",
+      "source": "crypto-economy.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-02T16:02:28Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Ether more ‘like a memecoin,’ says trading firm as ETH drops 45% YTD",
       "summary": "Ether more ‘like a memecoin,’ says trading firm as ETH drops 45% YTD",
@@ -107,18 +119,6 @@
       "source": "theblock.co",
       "sentiment": "positive",
       "published_at": "2025-04-28T09:07:52Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Grayscale seeks SEC approval to introduce staking in Ethereum ETPs",
-      "summary": "Grayscale seeks SEC approval to introduce staking in Ethereum ETPs",
-      "url": "https://cryptopanic.com/news/21378305/Grayscale-seeks-SEC-approval-to-introduce-staking-in-Ethereum-ETPs?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-28T03:15:18Z",
       "currencies": [
         "ETH"
       ],
