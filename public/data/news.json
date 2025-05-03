@@ -1,6 +1,31 @@
 {
-  "date": "2025-05-03T10:17:20.118Z",
+  "date": "2025-05-03T18:19:03.605Z",
   "articles": [
+    {
+      "title": "Will Ethereum Become the New Bitcoin? Vitalik Buterin Has a Plan For It",
+      "summary": "Will Ethereum Become the New Bitcoin? Vitalik Buterin Has a Plan For It",
+      "url": "https://cryptopanic.com/news/21533890/Will-Ethereum-Become-the-New-Bitcoin-Vitalik-Buterin-Has-a-Plan-For-It?mtm_campaign=API-OFA",
+      "source": "coinpedia.org",
+      "sentiment": "positive",
+      "published_at": "2025-05-03T10:54:45Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Apple Lifts iOS Restrictions Allowing Bitcoin, Crypto Payments and NFTs; Ends 30% Apple Tax",
+      "summary": "Apple Lifts iOS Restrictions Allowing Bitcoin, Crypto Payments and NFTs; Ends 30% Apple Tax",
+      "url": "https://cryptopanic.com/news/21526627/Apple-Lifts-iOS-Restrictions-Allowing-Bitcoin-Crypto-Payments-and-NFTs-Ends-30-Apple-Tax?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-02T23:05:11Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Bitcoin’s Push to $100K Puts More Than $3 Billion in Short Positions at Risk",
       "summary": "Bitcoin’s Push to $100K Puts More Than $3 Billion in Short Positions at Risk",
@@ -97,30 +122,6 @@
       "published_at": "2025-04-28T23:43:28Z",
       "currencies": [
         "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "MetaMask to launch self-custody crypto card with Mastercard",
-      "summary": "MetaMask to launch self-custody crypto card with Mastercard",
-      "url": "https://cryptopanic.com/news/21401770/MetaMask-to-launch-self-custody-crypto-card-with-Mastercard?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-28T22:41:25Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
-      "summary": "Ethereum researcher proposes 100-fold ‘exponential’ gas limit boost to improve mainnet scaling",
-      "url": "https://cryptopanic.com/news/21384055/Ethereum-researcher-proposes-100-fold-exponential-gas-limit-boost-to-improve-mainnet-scaling?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-04-28T09:07:52Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
