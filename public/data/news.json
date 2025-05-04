@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-04T09:14:42.210Z",
+  "date": "2025-05-04T10:17:37.051Z",
   "articles": [
+    {
+      "title": "Bitcoin Price Breakout Confirmed As Spot Market Defies Short Term Risks",
+      "summary": "Bitcoin Price Breakout Confirmed As Spot Market Defies Short Term Risks",
+      "url": "https://cryptopanic.com/news/21540259/Bitcoin-Price-Breakout-Confirmed-As-Spot-Market-Defies-Short-Term-Risks?mtm_campaign=API-OFA",
+      "source": "thecoinrepublic.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-03T20:30:00Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Price Prediction: Will ETH Break $2,200?",
       "summary": "Ethereum Price Prediction: Will ETH Break $2,200?",
@@ -111,27 +123,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum’s ‘capitulation’ suggests ETH price is undervalued: Fidelity report",
-      "summary": "Ethereum’s ‘capitulation’ suggests ETH price is undervalued: Fidelity report",
-      "url": "https://cryptopanic.com/news/21425017/Ethereums-capitulation-suggests-ETH-price-is-undervalued-Fidelity-report?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-29T18:17:53Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 16,
+      "positive": 17,
       "neutral": 0,
-      "negative": 4
+      "negative": 3
     }
   }
 }
