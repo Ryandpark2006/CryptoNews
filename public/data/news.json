@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-03T19:13:21.118Z",
+  "date": "2025-05-04T09:14:42.210Z",
   "articles": [
+    {
+      "title": "Ethereum Price Prediction: Will ETH Break $2,200?",
+      "summary": "Ethereum Price Prediction: Will ETH Break $2,200?",
+      "url": "https://cryptopanic.com/news/21539366/Ethereum-Price-Prediction-Will-ETH-Break-2200?mtm_campaign=API-OFA",
+      "source": "thecoinrepublic.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-03T19:00:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Will Ethereum Become the New Bitcoin? Vitalik Buterin Has a Plan For It",
       "summary": "Will Ethereum Become the New Bitcoin? Vitalik Buterin Has a Plan For It",
@@ -11,6 +23,18 @@
       "currencies": [
         "BTC",
         "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Binance’s CZ says gold is ‘not a limited supply asset,’ so it can’t beat Bitcoin",
+      "summary": "Binance’s CZ says gold is ‘not a limited supply asset,’ so it can’t beat Bitcoin",
+      "url": "https://cryptopanic.com/news/21533887/Binances-CZ-says-gold-is-not-a-limited-supply-asset-so-it-cant-beat-Bitcoin?mtm_campaign=API-OFA",
+      "source": "cryptopolitan.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-03T10:50:00Z",
+      "currencies": [
+        "BTC"
       ],
       "categories": []
     },
@@ -100,37 +124,13 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Base reaches ‘stage 1’ in Ethereum rollup decentralization with fault proofs and security council",
-      "summary": "Base reaches ‘stage 1’ in Ethereum rollup decentralization with fault proofs and security council",
-      "url": "https://cryptopanic.com/news/21420950/Base-reaches-stage-1-in-Ethereum-rollup-decentralization-with-fault-proofs-and-security-council?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-04-29T16:00:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Arizona state approves first ever US Bitcoin reserve, set to invest 10% of $31.5B state assets",
-      "summary": "Arizona state approves first ever US Bitcoin reserve, set to invest 10% of $31.5B state assets",
-      "url": "https://cryptopanic.com/news/21403737/Arizona-state-approves-first-ever-US-Bitcoin-reserve-set-to-invest-10-of-315B-state-assets?mtm_campaign=API-OFA",
-      "source": "fxstreet.com",
-      "sentiment": "positive",
-      "published_at": "2025-04-28T23:43:28Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 15,
-      "neutral": 1,
+      "positive": 16,
+      "neutral": 0,
       "negative": 4
     }
   }
