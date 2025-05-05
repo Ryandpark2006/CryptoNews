@@ -1,6 +1,67 @@
 {
-  "date": "2025-05-05T10:20:06.320Z",
+  "date": "2025-05-05T18:17:53.451Z",
   "articles": [
+    {
+      "title": "Ethereum ETFs Hit Record-Low AUM Amid $1.1B Outflows",
+      "summary": "Ethereum ETFs Hit Record-Low AUM Amid $1.1B Outflows",
+      "url": "https://cryptopanic.com/news/21565407/Ethereum-ETFs-Hit-Record-Low-AUM-Amid-11B-Outflows?mtm_campaign=API-OFA",
+      "source": "investors.catenaa.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-05T16:00:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum (ETH) Price Prediction for May 5",
+      "summary": "Ethereum (ETH) Price Prediction for May 5",
+      "url": "https://cryptopanic.com/news/21571096/Ethereum-ETH-Price-Prediction-for-May-5?mtm_campaign=API-OFA",
+      "source": "u.today",
+      "sentiment": "negative",
+      "published_at": "2025-05-05T15:42:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum ‘Pectra Upgrade’ Set For May 7",
+      "summary": "Ethereum ‘Pectra Upgrade’ Set For May 7",
+      "url": "https://cryptopanic.com/news/21569810/Ethereum-Pectra-Upgrade-Set-For-May-7?mtm_campaign=API-OFA",
+      "source": "yolowire.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-05T14:44:41Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum ICO Participant Dumps $29,350,000 Worth of ETH After Waking Up From Dormancy: Lookonchain",
+      "summary": "Ethereum ICO Participant Dumps $29,350,000 Worth of ETH After Waking Up From Dormancy: Lookonchain",
+      "url": "https://cryptopanic.com/news/21569718/Ethereum-ICO-Participant-Dumps-29350000-Worth-of-ETH-After-Waking-Up-From-Dormancy-Lookonchain?mtm_campaign=API-OFA",
+      "source": "dailyhodl.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-05T14:30:24Z",
+      "currencies": [
+        "ETH",
+        "TRUMP"
+      ],
+      "categories": []
+    },
+    {
+      "title": "ETH Holders Accumulate 22.5% More as Addresses Lower Cost Basis, Signaling Bullish Conviction – CryptoQuant",
+      "summary": "ETH Holders Accumulate 22.5% More as Addresses Lower Cost Basis, Signaling Bullish Conviction – CryptoQuant",
+      "url": "https://cryptopanic.com/news/21566201/ETH-Holders-Accumulate-225-More-as-Addresses-Lower-Cost-Basis-Signaling-Bullish-Conviction-CryptoQuant?mtm_campaign=API-OFA",
+      "source": "cryptonews.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-05T12:10:41Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum 2.0 or Ethereum Lite? Buterin Calls for Stripped-Down Redesign",
       "summary": "Ethereum 2.0 or Ethereum Lite? Buterin Calls for Stripped-Down Redesign",
@@ -52,77 +113,16 @@
       "categories": []
     },
     {
-      "title": "Will Ethereum Become the New Bitcoin? Vitalik Buterin Has a Plan For It",
-      "summary": "Will Ethereum Become the New Bitcoin? Vitalik Buterin Has a Plan For It",
-      "url": "https://cryptopanic.com/news/21533890/Will-Ethereum-Become-the-New-Bitcoin-Vitalik-Buterin-Has-a-Plan-For-It?mtm_campaign=API-OFA",
-      "source": "coinpedia.org",
+      "title": "Solana on Its Way to Surpassing Ethereum, Top VC Says",
+      "summary": "Solana on Its Way to Surpassing Ethereum, Top VC Says",
+      "url": "https://cryptopanic.com/news/21535571/Solana-on-Its-Way-to-Surpassing-Ethereum-Top-VC-Says?mtm_campaign=API-OFA",
+      "source": "u.today",
       "sentiment": "positive",
-      "published_at": "2025-05-03T10:54:45Z",
+      "published_at": "2025-05-03T12:55:00Z",
       "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Binance’s CZ says gold is ‘not a limited supply asset,’ so it can’t beat Bitcoin",
-      "summary": "Binance’s CZ says gold is ‘not a limited supply asset,’ so it can’t beat Bitcoin",
-      "url": "https://cryptopanic.com/news/21533887/Binances-CZ-says-gold-is-not-a-limited-supply-asset-so-it-cant-beat-Bitcoin?mtm_campaign=API-OFA",
-      "source": "cryptopolitan.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-03T10:50:00Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Apple Lifts iOS Restrictions Allowing Bitcoin, Crypto Payments and NFTs; Ends 30% Apple Tax",
-      "summary": "Apple Lifts iOS Restrictions Allowing Bitcoin, Crypto Payments and NFTs; Ends 30% Apple Tax",
-      "url": "https://cryptopanic.com/news/21526627/Apple-Lifts-iOS-Restrictions-Allowing-Bitcoin-Crypto-Payments-and-NFTs-Ends-30-Apple-Tax?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-02T23:05:11Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Bitcoin’s Push to $100K Puts More Than $3 Billion in Short Positions at Risk",
-      "summary": "Bitcoin’s Push to $100K Puts More Than $3 Billion in Short Positions at Risk",
-      "url": "https://cryptopanic.com/news/21518520/Bitcoins-Push-to-100K-Puts-More-Than-3-Billion-in-Short-Positions-at-Risk?mtm_campaign=API-OFA",
-      "source": "crypto-economy.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-02T16:02:28Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ether more ‘like a memecoin,’ says trading firm as ETH drops 45% YTD",
-      "summary": "Ether more ‘like a memecoin,’ says trading firm as ETH drops 45% YTD",
-      "url": "https://cryptopanic.com/news/21516615/Ether-more-like-a-memecoin-says-trading-firm-as-ETH-drops-45-YTD?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-02T14:30:23Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Two Prime Ditches Ethereum for Bitcoin, Citing ‘Meme Coin’ Behavior",
-      "summary": "Two Prime Ditches Ethereum for Bitcoin, Citing ‘Meme Coin’ Behavior",
-      "url": "https://cryptopanic.com/news/21511163/Two-Prime-Ditches-Ethereum-for-Bitcoin-Citing-Meme-Coin-Behavior?mtm_campaign=API-OFA",
-      "source": "decrypt.co",
-      "sentiment": "negative",
-      "published_at": "2025-05-02T11:47:39Z",
-      "currencies": [
-        "BTC",
-        "ETH"
+        "ETH",
+        "SOL",
+        "DAO"
       ],
       "categories": []
     }
@@ -130,9 +130,9 @@
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 18,
+      "positive": 14,
       "neutral": 0,
-      "negative": 2
+      "negative": 6
     }
   }
 }
