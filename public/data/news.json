@@ -1,6 +1,32 @@
 {
-  "date": "2025-05-04T19:14:30.993Z",
+  "date": "2025-05-05T09:16:58.279Z",
   "articles": [
+    {
+      "title": "Ethereum 2.0 or Ethereum Lite? Buterin Calls for Stripped-Down Redesign",
+      "summary": "Ethereum 2.0 or Ethereum Lite? Buterin Calls for Stripped-Down Redesign",
+      "url": "https://cryptopanic.com/news/21548993/Ethereum-20-or-Ethereum-Lite-Buterin-Calls-for-Stripped-Down-Redesign?mtm_campaign=API-OFA",
+      "source": "ecoinimist.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-04T13:16:00Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Apple Permits Crypto App Payments via External Sites After Court Order",
+      "summary": "Apple Permits Crypto App Payments via External Sites After Court Order",
+      "url": "https://cryptopanic.com/news/21547742/Apple-Permits-Crypto-App-Payments-via-External-Sites-After-Court-Order?mtm_campaign=API-OFA",
+      "source": "coincu.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-04T11:23:22Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Bitcoin Price Breakout Confirmed As Spot Market Defies Short Term Risks",
       "summary": "Bitcoin Price Breakout Confirmed As Spot Market Defies Short Term Risks",
@@ -99,38 +125,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Devs introduce Ethereum R1 layer-2 scaling solution",
-      "summary": "Devs introduce Ethereum R1 layer-2 scaling solution",
-      "url": "https://cryptopanic.com/news/21487584/Devs-introduce-Ethereum-R1-layer-2-scaling-solution?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-01T16:17:47Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum to simplify crosschain transactions with new token standards",
-      "summary": "Ethereum to simplify crosschain transactions with new token standards",
-      "url": "https://cryptopanic.com/news/21483306/Ethereum-to-simplify-crosschain-transactions-with-new-token-standards?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-01T14:06:56Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 17,
+      "positive": 18,
       "neutral": 0,
-      "negative": 3
+      "negative": 2
     }
   }
 }
