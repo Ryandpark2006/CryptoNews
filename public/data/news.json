@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-06T10:19:44.235Z",
+  "date": "2025-05-06T18:21:18.188Z",
   "articles": [
+    {
+      "title": "Ethereum Validators Stay Put Ahead of Pectra Upgrade — What This Means for ETH Price",
+      "summary": "Ethereum Validators Stay Put Ahead of Pectra Upgrade — What This Means for ETH Price",
+      "url": "https://cryptopanic.com/news/21591371/Ethereum-Validators-Stay-Put-Ahead-of-Pectra-Upgrade-What-This-Means-for-ETH-Price?mtm_campaign=API-OFA",
+      "source": "beincrypto.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-06T10:30:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum ETFs Hit Record-Low AUM Amid $1.1B Outflows",
       "summary": "Ethereum ETFs Hit Record-Low AUM Amid $1.1B Outflows",
@@ -111,28 +123,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Solana on Its Way to Surpassing Ethereum, Top VC Says",
-      "summary": "Solana on Its Way to Surpassing Ethereum, Top VC Says",
-      "url": "https://cryptopanic.com/news/21535571/Solana-on-Its-Way-to-Surpassing-Ethereum-Top-VC-Says?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "positive",
-      "published_at": "2025-05-03T12:55:00Z",
-      "currencies": [
-        "ETH",
-        "SOL",
-        "DAO"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 14,
+      "positive": 13,
       "neutral": 0,
-      "negative": 6
+      "negative": 7
     }
   }
 }
