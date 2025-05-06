@@ -1,6 +1,19 @@
 {
-  "date": "2025-05-06T18:21:18.188Z",
+  "date": "2025-05-06T19:13:34.837Z",
   "articles": [
+    {
+      "title": "Solana price prediction: Can SOL rally as Pump.fun tops Ethereum in annual fees?",
+      "summary": "Solana price prediction: Can SOL rally as Pump.fun tops Ethereum in annual fees?",
+      "url": "https://cryptopanic.com/news/21599655/Solana-price-prediction-Can-SOL-rally-as-Pumpfun-tops-Ethereum-in-annual-fees?mtm_campaign=API-OFA",
+      "source": "coinjournal.net",
+      "sentiment": "positive",
+      "published_at": "2025-05-06T16:45:38Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Validators Stay Put Ahead of Pectra Upgrade — What This Means for ETH Price",
       "summary": "Ethereum Validators Stay Put Ahead of Pectra Upgrade — What This Means for ETH Price",
@@ -109,18 +122,6 @@
       "published_at": "2025-05-03T20:30:00Z",
       "currencies": [
         "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Price Prediction: Will ETH Break $2,200?",
-      "summary": "Ethereum Price Prediction: Will ETH Break $2,200?",
-      "url": "https://cryptopanic.com/news/21539366/Ethereum-Price-Prediction-Will-ETH-Break-2200?mtm_campaign=API-OFA",
-      "source": "thecoinrepublic.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-03T19:00:00Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
