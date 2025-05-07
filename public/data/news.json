@@ -1,6 +1,59 @@
 {
-  "date": "2025-05-07T10:20:13.139Z",
+  "date": "2025-05-07T18:21:54.467Z",
   "articles": [
+    {
+      "title": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
+      "summary": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
+      "url": "https://cryptopanic.com/news/21624840/Can-Ethereum-ETH-Outperform-Bitcoin-BTC-in-2025?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-07T13:40:19Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "USDT",
+        "BTCUSD"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum completes Pectra upgrade, enabling ‘smart account’ wallet functionality and staking flexibility",
+      "summary": "Ethereum completes Pectra upgrade, enabling ‘smart account’ wallet functionality and staking flexibility",
+      "url": "https://cryptopanic.com/news/21624740/Ethereum-completes-Pectra-upgrade-enabling-smart-account-wallet-functionality-and-staking-flexibility?mtm_campaign=API-OFA",
+      "source": "cryptobriefing.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-07T13:29:38Z",
+      "currencies": [
+        "ETH",
+        "00"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Pectra upgrade is live, bringing major changes to wallet functionality",
+      "summary": "Ethereum Pectra upgrade is live, bringing major changes to wallet functionality",
+      "url": "https://cryptopanic.com/news/21621346/Ethereum-Pectra-upgrade-is-live-bringing-major-changes-to-wallet-functionality?mtm_campaign=API-OFA",
+      "source": "cryptoslate.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-07T11:45:42Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum developers activate Pectra upgrade with 11 changes to improve UX, validator ops and Layer 2 scaling",
+      "summary": "Ethereum developers activate Pectra upgrade with 11 changes to improve UX, validator ops and Layer 2 scaling",
+      "url": "https://cryptopanic.com/news/21618663/Ethereum-developers-activate-Pectra-upgrade-with-11-changes-to-improve-UX-validator-ops-and-Layer-2-scaling?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-07T10:06:38Z",
+      "currencies": [
+        "ETH",
+        "DEFI"
+      ],
+      "categories": []
+    },
     {
       "title": "Solana price prediction: Can SOL rally as Pump.fun tops Ethereum in annual fees?",
       "summary": "Solana price prediction: Can SOL rally as Pump.fun tops Ethereum in annual fees?",
@@ -74,64 +127,14 @@
         "TRUMP"
       ],
       "categories": []
-    },
-    {
-      "title": "ETH Holders Accumulate 22.5% More as Addresses Lower Cost Basis, Signaling Bullish Conviction – CryptoQuant",
-      "summary": "ETH Holders Accumulate 22.5% More as Addresses Lower Cost Basis, Signaling Bullish Conviction – CryptoQuant",
-      "url": "https://cryptopanic.com/news/21566201/ETH-Holders-Accumulate-225-More-as-Addresses-Lower-Cost-Basis-Signaling-Bullish-Conviction-CryptoQuant?mtm_campaign=API-OFA",
-      "source": "cryptonews.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-05T12:10:41Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum 2.0 or Ethereum Lite? Buterin Calls for Stripped-Down Redesign",
-      "summary": "Ethereum 2.0 or Ethereum Lite? Buterin Calls for Stripped-Down Redesign",
-      "url": "https://cryptopanic.com/news/21548993/Ethereum-20-or-Ethereum-Lite-Buterin-Calls-for-Stripped-Down-Redesign?mtm_campaign=API-OFA",
-      "source": "ecoinimist.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-04T13:16:00Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Apple Permits Crypto App Payments via External Sites After Court Order",
-      "summary": "Apple Permits Crypto App Payments via External Sites After Court Order",
-      "url": "https://cryptopanic.com/news/21547742/Apple-Permits-Crypto-App-Payments-via-External-Sites-After-Court-Order?mtm_campaign=API-OFA",
-      "source": "coincu.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-04T11:23:22Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Bitcoin Price Breakout Confirmed As Spot Market Defies Short Term Risks",
-      "summary": "Bitcoin Price Breakout Confirmed As Spot Market Defies Short Term Risks",
-      "url": "https://cryptopanic.com/news/21540259/Bitcoin-Price-Breakout-Confirmed-As-Spot-Market-Defies-Short-Term-Risks?mtm_campaign=API-OFA",
-      "source": "thecoinrepublic.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-03T20:30:00Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 13,
+      "positive": 15,
       "neutral": 0,
-      "negative": 7
+      "negative": 5
     }
   }
 }
