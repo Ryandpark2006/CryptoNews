@@ -1,6 +1,55 @@
 {
-  "date": "2025-05-08T10:20:37.124Z",
+  "date": "2025-05-08T18:21:25.744Z",
   "articles": [
+    {
+      "title": "Ethereum Foundation boosts ecosystem with $32M in grants in Q1 2025",
+      "summary": "Ethereum Foundation boosts ecosystem with $32M in grants in Q1 2025",
+      "url": "https://cryptopanic.com/news/21658940/Ethereum-Foundation-boosts-ecosystem-with-32M-in-grants-in-Q1-2025?mtm_campaign=API-OFA",
+      "source": "cryptoslate.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-08T15:15:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Rally Gains Steam – Can It Smash Through $2056 Resistance?",
+      "summary": "Ethereum Rally Gains Steam – Can It Smash Through $2056 Resistance?",
+      "url": "https://cryptopanic.com/news/21657545/Ethereum-Rally-Gains-Steam-Can-It-Smash-Through-2056-Resistance?mtm_campaign=API-OFA",
+      "source": "ecoinimist.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-08T14:46:53Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum price finally ‘breaking out,’ data suggests — Is $3K ETH next?",
+      "summary": "Ethereum price finally ‘breaking out,’ data suggests — Is $3K ETH next?",
+      "url": "https://cryptopanic.com/news/21653981/Ethereum-price-finally-breaking-out-data-suggests-Is-3K-ETH-next?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-08T12:18:54Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Bitcoin to $110,000 Inevitable? Over $16B in Leveraged Shorts Set to Be Liquidated at $99,900",
+      "summary": "Bitcoin to $110,000 Inevitable? Over $16B in Leveraged Shorts Set to Be Liquidated at $99,900",
+      "url": "https://cryptopanic.com/news/21647479/Bitcoin-to-110000-Inevitable-Over-16B-in-Leveraged-Shorts-Set-to-Be-Liquidated-at-99900?mtm_campaign=API-OFA",
+      "source": "99bitcoins.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-08T08:31:51Z",
+      "currencies": [
+        "BTC",
+        "BTCUSD"
+      ],
+      "categories": []
+    },
     {
       "title": "Breaking: Arizona Becomes Second U.S. State to Adopt Bitcoin for State Treasury",
       "summary": "Breaking: Arizona Becomes Second U.S. State to Adopt Bitcoin for State Treasury",
@@ -75,55 +124,6 @@
       "currencies": [
         "ETH",
         "DEFI"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Solana price prediction: Can SOL rally as Pump.fun tops Ethereum in annual fees?",
-      "summary": "Solana price prediction: Can SOL rally as Pump.fun tops Ethereum in annual fees?",
-      "url": "https://cryptopanic.com/news/21599655/Solana-price-prediction-Can-SOL-rally-as-Pumpfun-tops-Ethereum-in-annual-fees?mtm_campaign=API-OFA",
-      "source": "coinjournal.net",
-      "sentiment": "positive",
-      "published_at": "2025-05-06T16:45:38Z",
-      "currencies": [
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Validators Stay Put Ahead of Pectra Upgrade — What This Means for ETH Price",
-      "summary": "Ethereum Validators Stay Put Ahead of Pectra Upgrade — What This Means for ETH Price",
-      "url": "https://cryptopanic.com/news/21591371/Ethereum-Validators-Stay-Put-Ahead-of-Pectra-Upgrade-What-This-Means-for-ETH-Price?mtm_campaign=API-OFA",
-      "source": "beincrypto.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-06T10:30:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum ETFs Hit Record-Low AUM Amid $1.1B Outflows",
-      "summary": "Ethereum ETFs Hit Record-Low AUM Amid $1.1B Outflows",
-      "url": "https://cryptopanic.com/news/21565407/Ethereum-ETFs-Hit-Record-Low-AUM-Amid-11B-Outflows?mtm_campaign=API-OFA",
-      "source": "investors.catenaa.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-05T16:00:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum (ETH) Price Prediction for May 5",
-      "summary": "Ethereum (ETH) Price Prediction for May 5",
-      "url": "https://cryptopanic.com/news/21571096/Ethereum-ETH-Price-Prediction-for-May-5?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "negative",
-      "published_at": "2025-05-05T15:42:00Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
