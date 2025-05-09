@@ -1,6 +1,30 @@
 {
-  "date": "2025-05-09T10:19:08.169Z",
+  "date": "2025-05-09T18:20:44.713Z",
   "articles": [
+    {
+      "title": "Scaling Ethereum's DeFi App Scene with Singletons",
+      "summary": "Scaling Ethereum's DeFi App Scene with Singletons",
+      "url": "https://cryptopanic.com/news/21683413/Scaling-Ethereums-DeFi-App-Scene-with-Singletons?mtm_campaign=API-OFA",
+      "source": "bankless.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-09T13:24:49Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Surges Double Digits to $2,400 Following Pectra Upgrade",
+      "summary": "Ethereum Surges Double Digits to $2,400 Following Pectra Upgrade",
+      "url": "https://cryptopanic.com/news/21679066/Ethereum-Surges-Double-Digits-to-2400-Following-Pectra-Upgrade?mtm_campaign=API-OFA",
+      "source": "decrypt.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-09T10:25:51Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Unichain surpasses Ethereum as top chain for Uniswap v4 by transaction volume",
       "summary": "Unichain surpasses Ethereum as top chain for Uniswap v4 by transaction volume",
@@ -100,41 +124,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Price Holds Steady Following Pectra Upgrade",
-      "summary": "Ethereum Price Holds Steady Following Pectra Upgrade",
-      "url": "https://cryptopanic.com/news/21626312/Ethereum-Price-Holds-Steady-Following-Pectra-Upgrade?mtm_campaign=API-OFA",
-      "source": "decrypt.co",
-      "sentiment": "positive",
-      "published_at": "2025-05-07T14:22:19Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
-      "summary": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
-      "url": "https://cryptopanic.com/news/21624840/Can-Ethereum-ETH-Outperform-Bitcoin-BTC-in-2025?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-07T13:40:19Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "USDT",
-        "BTCUSD"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 14,
+      "positive": 15,
       "neutral": 0,
-      "negative": 6
+      "negative": 5
     }
   }
 }
