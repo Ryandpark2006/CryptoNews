@@ -1,6 +1,20 @@
 {
-  "date": "2025-05-09T09:16:33.114Z",
+  "date": "2025-05-09T10:19:08.169Z",
   "articles": [
+    {
+      "title": "Unichain surpasses Ethereum as top chain for Uniswap v4 by transaction volume",
+      "summary": "Unichain surpasses Ethereum as top chain for Uniswap v4 by transaction volume",
+      "url": "https://cryptopanic.com/news/21672997/Unichain-surpasses-Ethereum-as-top-chain-for-Uniswap-v4-by-transaction-volume?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-09T05:51:14Z",
+      "currencies": [
+        "ETH",
+        "UNI",
+        "DEFI"
+      ],
+      "categories": []
+    },
     {
       "title": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
       "summary": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
@@ -111,19 +125,6 @@
         "ETH",
         "USDT",
         "BTCUSD"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum completes Pectra upgrade, enabling ‘smart account’ wallet functionality and staking flexibility",
-      "summary": "Ethereum completes Pectra upgrade, enabling ‘smart account’ wallet functionality and staking flexibility",
-      "url": "https://cryptopanic.com/news/21624740/Ethereum-completes-Pectra-upgrade-enabling-smart-account-wallet-functionality-and-staking-flexibility?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-07T13:29:38Z",
-      "currencies": [
-        "ETH",
-        "00"
       ],
       "categories": []
     }
