@@ -1,6 +1,19 @@
 {
-  "date": "2025-05-08T19:15:32.021Z",
+  "date": "2025-05-09T09:16:33.114Z",
   "articles": [
+    {
+      "title": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
+      "summary": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
+      "url": "https://cryptopanic.com/news/21670736/ETH-Surges-20-Biggest-Gain-Since-2021-as-Pectra-Upgrade-Helps-Restore-Confidence?mtm_campaign=API-OFA",
+      "source": "coindesk.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-09T01:51:45Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Foundation boosts ecosystem with $32M in grants in Q1 2025",
       "summary": "Ethereum Foundation boosts ecosystem with $32M in grants in Q1 2025",
@@ -75,6 +88,18 @@
       "categories": []
     },
     {
+      "title": "Ethereum Price Holds Steady Following Pectra Upgrade",
+      "summary": "Ethereum Price Holds Steady Following Pectra Upgrade",
+      "url": "https://cryptopanic.com/news/21626312/Ethereum-Price-Holds-Steady-Following-Pectra-Upgrade?mtm_campaign=API-OFA",
+      "source": "decrypt.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-07T14:22:19Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
       "title": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
       "summary": "Can Ethereum (ETH) Outperform Bitcoin (BTC) in 2025?",
       "url": "https://cryptopanic.com/news/21624840/Can-Ethereum-ETH-Outperform-Bitcoin-BTC-in-2025?mtm_campaign=API-OFA",
@@ -99,31 +124,6 @@
       "currencies": [
         "ETH",
         "00"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Pectra upgrade is live, bringing major changes to wallet functionality",
-      "summary": "Ethereum Pectra upgrade is live, bringing major changes to wallet functionality",
-      "url": "https://cryptopanic.com/news/21621346/Ethereum-Pectra-upgrade-is-live-bringing-major-changes-to-wallet-functionality?mtm_campaign=API-OFA",
-      "source": "cryptoslate.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-07T11:45:42Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum developers activate Pectra upgrade with 11 changes to improve UX, validator ops and Layer 2 scaling",
-      "summary": "Ethereum developers activate Pectra upgrade with 11 changes to improve UX, validator ops and Layer 2 scaling",
-      "url": "https://cryptopanic.com/news/21618663/Ethereum-developers-activate-Pectra-upgrade-with-11-changes-to-improve-UX-validator-ops-and-Layer-2-scaling?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-05-07T10:06:38Z",
-      "currencies": [
-        "ETH",
-        "DEFI"
       ],
       "categories": []
     }
