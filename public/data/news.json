@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-09T19:14:21.498Z",
+  "date": "2025-05-10T09:14:26.840Z",
   "articles": [
+    {
+      "title": "Ethereum Surges 20% After Pectra Upgrade",
+      "summary": "Ethereum Surges 20% After Pectra Upgrade",
+      "url": "https://cryptopanic.com/news/21684537/Ethereum-Surges-20-After-Pectra-Upgrade?mtm_campaign=API-OFA",
+      "source": "yolowire.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-09T14:15:39Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Scaling Ethereum's DeFi App Scene with Singletons",
       "summary": "Scaling Ethereum's DeFi App Scene with Singletons",
@@ -112,26 +124,14 @@
         "BTC"
       ],
       "categories": []
-    },
-    {
-      "title": "Careful when signing messages in Ethereum Pectra",
-      "summary": "Careful when signing messages in Ethereum Pectra",
-      "url": "https://cryptopanic.com/news/21632298/Careful-when-signing-messages-in-Ethereum-Pectra?mtm_campaign=API-OFA",
-      "source": "protos.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-07T18:43:23Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 15,
+      "positive": 16,
       "neutral": 0,
-      "negative": 5
+      "negative": 4
     }
   }
 }
