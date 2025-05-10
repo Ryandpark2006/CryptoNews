@@ -1,12 +1,62 @@
 {
-  "date": "2025-05-10T10:17:23.850Z",
+  "date": "2025-05-10T18:18:35.511Z",
   "articles": [
+    {
+      "title": "ETH Resurrection",
+      "summary": "ETH Resurrection",
+      "url": "https://cryptopanic.com/news/21701162/ETH-Resurrection?mtm_campaign=API-OFA",
+      "source": "bankless.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-10T13:32:37Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Surpasses Realized Price as Binance Traders Lead Bullish Momentum",
+      "summary": "Ethereum Surpasses Realized Price as Binance Traders Lead Bullish Momentum",
+      "url": "https://cryptopanic.com/news/21699937/Ethereum-Surpasses-Realized-Price-as-Binance-Traders-Lead-Bullish-Momentum?mtm_campaign=API-OFA",
+      "source": "coindoo.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-10T11:52:28Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Forms Rare Golden Cross in Bitcoin Chart; Reversal Imminent?",
+      "summary": "Ethereum Forms Rare Golden Cross in Bitcoin Chart; Reversal Imminent?",
+      "url": "https://cryptopanic.com/news/21699898/Ethereum-Forms-Rare-Golden-Cross-in-Bitcoin-Chart-Reversal-Imminent?mtm_campaign=API-OFA",
+      "source": "u.today",
+      "sentiment": "negative",
+      "published_at": "2025-05-10T11:38:00Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "BlackRock and Fidelity Buy Over $4.5 Billion in Bitcoin, Ethereum as Bitcoin Surpasses $100K",
+      "summary": "BlackRock and Fidelity Buy Over $4.5 Billion in Bitcoin, Ethereum as Bitcoin Surpasses $100K",
+      "url": "https://cryptopanic.com/news/21696077/BlackRock-and-Fidelity-Buy-Over-45-Billion-in-Bitcoin-Ethereum-as-Bitcoin-Surpasses-100K?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "negative",
+      "published_at": "2025-05-10T06:30:27Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Solana Fires Back at Ethereum With Major Network Upgrade",
       "summary": "Solana Fires Back at Ethereum With Major Network Upgrade",
       "url": "https://cryptopanic.com/news/21693933/Solana-Fires-Back-at-Ethereum-With-Major-Network-Upgrade?mtm_campaign=API-OFA",
       "source": "coindoo.com",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-05-10T02:01:48Z",
       "currencies": [
         "ETH",
@@ -75,63 +125,14 @@
         "DEFI"
       ],
       "categories": []
-    },
-    {
-      "title": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
-      "summary": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
-      "url": "https://cryptopanic.com/news/21670736/ETH-Surges-20-Biggest-Gain-Since-2021-as-Pectra-Upgrade-Helps-Restore-Confidence?mtm_campaign=API-OFA",
-      "source": "coindesk.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-09T01:51:45Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Foundation boosts ecosystem with $32M in grants in Q1 2025",
-      "summary": "Ethereum Foundation boosts ecosystem with $32M in grants in Q1 2025",
-      "url": "https://cryptopanic.com/news/21658940/Ethereum-Foundation-boosts-ecosystem-with-32M-in-grants-in-Q1-2025?mtm_campaign=API-OFA",
-      "source": "cryptoslate.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-08T15:15:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Rally Gains Steam – Can It Smash Through $2056 Resistance?",
-      "summary": "Ethereum Rally Gains Steam – Can It Smash Through $2056 Resistance?",
-      "url": "https://cryptopanic.com/news/21657545/Ethereum-Rally-Gains-Steam-Can-It-Smash-Through-2056-Resistance?mtm_campaign=API-OFA",
-      "source": "ecoinimist.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-08T14:46:53Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum price finally ‘breaking out,’ data suggests — Is $3K ETH next?",
-      "summary": "Ethereum price finally ‘breaking out,’ data suggests — Is $3K ETH next?",
-      "url": "https://cryptopanic.com/news/21653981/Ethereum-price-finally-breaking-out-data-suggests-Is-3K-ETH-next?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-08T12:18:54Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 17,
-      "neutral": 1,
-      "negative": 2
+      "positive": 16,
+      "neutral": 0,
+      "negative": 4
     }
   }
 }
