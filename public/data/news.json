@@ -1,6 +1,20 @@
 {
-  "date": "2025-05-11T18:18:53.719Z",
+  "date": "2025-05-11T19:13:23.525Z",
   "articles": [
+    {
+      "title": "Ethereum to $10K &#039;can&#039;t be ruled out&#039; as ETH price makes sharp gains vs. SOL, XRP",
+      "summary": "Ethereum to $10K &#039;can&#039;t be ruled out&#039; as ETH price makes sharp gains vs. SOL, XRP",
+      "url": "https://cryptopanic.com/news/21714233/Ethereum-to-10K-039can039t-be-ruled-out039-as-ETH-price-makes-sharp-gains-vs-SOL-XRP?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T16:02:26Z",
+      "currencies": [
+        "ETH",
+        "XRP",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Pectra lets hackers drain wallets with just an offchain signature",
       "summary": "Pectra lets hackers drain wallets with just an offchain signature",
@@ -106,19 +120,6 @@
       "source": "u.today",
       "sentiment": "neutral",
       "published_at": "2025-05-10T11:38:00Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "BlackRock and Fidelity Buy Over $4.5 Billion in Bitcoin, Ethereum as Bitcoin Surpasses $100K",
-      "summary": "BlackRock and Fidelity Buy Over $4.5 Billion in Bitcoin, Ethereum as Bitcoin Surpasses $100K",
-      "url": "https://cryptopanic.com/news/21696077/BlackRock-and-Fidelity-Buy-Over-45-Billion-in-Bitcoin-Ethereum-as-Bitcoin-Surpasses-100K?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "negative",
-      "published_at": "2025-05-10T06:30:27Z",
       "currencies": [
         "BTC",
         "ETH"
