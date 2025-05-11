@@ -1,6 +1,42 @@
 {
-  "date": "2025-05-11T10:17:19.593Z",
+  "date": "2025-05-11T18:18:53.719Z",
   "articles": [
+    {
+      "title": "Pectra lets hackers drain wallets with just an offchain signature",
+      "summary": "Pectra lets hackers drain wallets with just an offchain signature",
+      "url": "https://cryptopanic.com/news/21712968/Pectra-lets-hackers-drain-wallets-with-just-an-offchain-signature?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-11T13:10:42Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Coinbase CEO: US Government to Own $600 Billion Bitcoin Reserves; Saylor Plans More Buys; Keiser, Draper Predict Price Surge",
+      "summary": "Coinbase CEO: US Government to Own $600 Billion Bitcoin Reserves; Saylor Plans More Buys; Keiser, Draper Predict Price Surge",
+      "url": "https://cryptopanic.com/news/21712277/Coinbase-CEO-US-Government-to-Own-600-Billion-Bitcoin-Reserves-Saylor-Plans-More-Buys-Keiser-Draper-Predict-Price-Surge?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T12:30:27Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "3 Reasons Why Ethereum (ETH) Moving to $3,000",
+      "summary": "3 Reasons Why Ethereum (ETH) Moving to $3,000",
+      "url": "https://cryptopanic.com/news/21710578/3-Reasons-Why-Ethereum-ETH-Moving-to-3000?mtm_campaign=API-OFA",
+      "source": "u.today",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T10:04:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Here Are 5 Reasons Ethereum May Reach $12,000 In 2025 – Analyst",
       "summary": "Here Are 5 Reasons Ethereum May Reach $12,000 In 2025 – Analyst",
@@ -85,43 +121,6 @@
       "published_at": "2025-05-10T06:30:27Z",
       "currencies": [
         "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Solana Fires Back at Ethereum With Major Network Upgrade",
-      "summary": "Solana Fires Back at Ethereum With Major Network Upgrade",
-      "url": "https://cryptopanic.com/news/21693933/Solana-Fires-Back-at-Ethereum-With-Major-Network-Upgrade?mtm_campaign=API-OFA",
-      "source": "coindoo.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-10T02:01:48Z",
-      "currencies": [
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Goldman Sachs doubles down on BlackRock’s Bitcoin ETF, boosting holdings to $1.4B in Q1 2025",
-      "summary": "Goldman Sachs doubles down on BlackRock’s Bitcoin ETF, boosting holdings to $1.4B in Q1 2025",
-      "url": "https://cryptopanic.com/news/21692646/Goldman-Sachs-doubles-down-on-BlackRocks-Bitcoin-ETF-boosting-holdings-to-14B-in-Q1-2025?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-09T23:07:01Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Surges 20% After Pectra Upgrade",
-      "summary": "Ethereum Surges 20% After Pectra Upgrade",
-      "url": "https://cryptopanic.com/news/21684537/Ethereum-Surges-20-After-Pectra-Upgrade?mtm_campaign=API-OFA",
-      "source": "yolowire.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-09T14:15:39Z",
-      "currencies": [
         "ETH"
       ],
       "categories": []
