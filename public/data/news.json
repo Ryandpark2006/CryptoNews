@@ -1,6 +1,43 @@
 {
-  "date": "2025-05-12T10:20:58.090Z",
+  "date": "2025-05-12T18:21:19.670Z",
   "articles": [
+    {
+      "title": "Ethereum Price Completes Bullish Structure Break – $3,000 Comes Next",
+      "summary": "Ethereum Price Completes Bullish Structure Break – $3,000 Comes Next",
+      "url": "https://cryptopanic.com/news/21736694/Ethereum-Price-Completes-Bullish-Structure-Break-3000-Comes-Next?mtm_campaign=API-OFA",
+      "source": "newsbtc.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-12T16:00:23Z",
+      "currencies": [
+        "ETH",
+        "USDT"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum surpasses Coca-Cola and Alibaba in market cap after Pectra upgrade surge",
+      "summary": "Ethereum surpasses Coca-Cola and Alibaba in market cap after Pectra upgrade surge",
+      "url": "https://cryptopanic.com/news/21730444/Ethereum-surpasses-Coca-Cola-and-Alibaba-in-market-cap-after-Pectra-upgrade-surge?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-12T11:43:06Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Staking Giant Lido Loses Just 1.4 ETH in Hacking Attempt",
+      "summary": "Ethereum Staking Giant Lido Loses Just 1.4 ETH in Hacking Attempt",
+      "url": "https://cryptopanic.com/news/21722636/Ethereum-Staking-Giant-Lido-Loses-Just-14-ETH-in-Hacking-Attempt?mtm_campaign=API-OFA",
+      "source": "coindesk.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-12T05:53:22Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum chart pattern supports &#039;moon shot&#039; rally to new price highs if confirmed — Trader",
       "summary": "Ethereum chart pattern supports &#039;moon shot&#039; rally to new price highs if confirmed — Trader",
@@ -87,52 +124,14 @@
         "BTC"
       ],
       "categories": []
-    },
-    {
-      "title": "3 Reasons Why Ethereum (ETH) Moving to $3,000",
-      "summary": "3 Reasons Why Ethereum (ETH) Moving to $3,000",
-      "url": "https://cryptopanic.com/news/21710578/3-Reasons-Why-Ethereum-ETH-Moving-to-3000?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T10:04:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Here Are 5 Reasons Ethereum May Reach $12,000 In 2025 – Analyst",
-      "summary": "Here Are 5 Reasons Ethereum May Reach $12,000 In 2025 – Analyst",
-      "url": "https://cryptopanic.com/news/21703928/Here-Are-5-Reasons-Ethereum-May-Reach-12000-In-2025-Analyst?mtm_campaign=API-OFA",
-      "source": "newsbtc.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-10T21:00:15Z",
-      "currencies": [
-        "ETH",
-        "USDT",
-        "DEFI"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Base Hits Stage 1 in ETH Rollup with Fault Proofs",
-      "summary": "Base Hits Stage 1 in ETH Rollup with Fault Proofs",
-      "url": "https://cryptopanic.com/news/21701925/Base-Hits-Stage-1-in-ETH-Rollup-with-Fault-Proofs?mtm_campaign=API-OFA",
-      "source": "investors.catenaa.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-10T19:10:20Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 16,
+      "positive": 15,
       "neutral": 1,
-      "negative": 3
+      "negative": 4
     }
   }
 }
