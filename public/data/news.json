@@ -1,6 +1,55 @@
 {
-  "date": "2025-05-11T19:13:23.525Z",
+  "date": "2025-05-12T09:17:41.119Z",
   "articles": [
+    {
+      "title": "Ethereum chart pattern supports &#039;moon shot&#039; rally to new price highs if confirmed — Trader",
+      "summary": "Ethereum chart pattern supports &#039;moon shot&#039; rally to new price highs if confirmed — Trader",
+      "url": "https://cryptopanic.com/news/21715775/Ethereum-chart-pattern-supports-039moon-shot039-rally-to-new-price-highs-if-confirmed-Trader?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T19:25:57Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Spain Imposes €150,000 Fine for Cash Withdrawals Over €3,000 With 24-Hour Notice and Reason, Citing AML; Bitcoin Appeal Grows",
+      "summary": "Spain Imposes €150,000 Fine for Cash Withdrawals Over €3,000 With 24-Hour Notice and Reason, Citing AML; Bitcoin Appeal Grows",
+      "url": "https://cryptopanic.com/news/21715327/Spain-Imposes-150000-Fine-for-Cash-Withdrawals-Over-3000-With-24-Hour-Notice-and-Reason-Citing-AML-Bitcoin-Appeal-Grows?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T19:00:27Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum liquidations hit $180 million in 24 hours, surpassing Bitcoin losses",
+      "summary": "Ethereum liquidations hit $180 million in 24 hours, surpassing Bitcoin losses",
+      "url": "https://cryptopanic.com/news/21714365/Ethereum-liquidations-hit-180-million-in-24-hours-surpassing-Bitcoin-losses?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T16:30:51Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Could Ethereum Hit $5,000–$10,000 This Cycle?",
+      "summary": "Could Ethereum Hit $5,000–$10,000 This Cycle?",
+      "url": "https://cryptopanic.com/news/21714234/Could-Ethereum-Hit-500010000-This-Cycle?mtm_campaign=API-OFA",
+      "source": "coindoo.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-11T16:06:05Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum to $10K &#039;can&#039;t be ruled out&#039; as ETH price makes sharp gains vs. SOL, XRP",
       "summary": "Ethereum to $10K &#039;can&#039;t be ruled out&#039; as ETH price makes sharp gains vs. SOL, XRP",
@@ -73,55 +122,6 @@
       "sentiment": "positive",
       "published_at": "2025-05-10T19:10:20Z",
       "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum surge fuels altcoin season hype as crypto market heats up",
-      "summary": "Ethereum surge fuels altcoin season hype as crypto market heats up",
-      "url": "https://cryptopanic.com/news/21701893/Ethereum-surge-fuels-altcoin-season-hype-as-crypto-market-heats-up?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-10T15:06:33Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "ETH Resurrection",
-      "summary": "ETH Resurrection",
-      "url": "https://cryptopanic.com/news/21701162/ETH-Resurrection?mtm_campaign=API-OFA",
-      "source": "bankless.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-10T13:32:37Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Surpasses Realized Price as Binance Traders Lead Bullish Momentum",
-      "summary": "Ethereum Surpasses Realized Price as Binance Traders Lead Bullish Momentum",
-      "url": "https://cryptopanic.com/news/21699937/Ethereum-Surpasses-Realized-Price-as-Binance-Traders-Lead-Bullish-Momentum?mtm_campaign=API-OFA",
-      "source": "coindoo.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-10T11:52:28Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Forms Rare Golden Cross in Bitcoin Chart; Reversal Imminent?",
-      "summary": "Ethereum Forms Rare Golden Cross in Bitcoin Chart; Reversal Imminent?",
-      "url": "https://cryptopanic.com/news/21699898/Ethereum-Forms-Rare-Golden-Cross-in-Bitcoin-Chart-Reversal-Imminent?mtm_campaign=API-OFA",
-      "source": "u.today",
-      "sentiment": "neutral",
-      "published_at": "2025-05-10T11:38:00Z",
-      "currencies": [
-        "BTC",
         "ETH"
       ],
       "categories": []
