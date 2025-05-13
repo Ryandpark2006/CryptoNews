@@ -1,6 +1,49 @@
 {
-  "date": "2025-05-13T10:20:16.081Z",
+  "date": "2025-05-13T18:21:56.194Z",
   "articles": [
+    {
+      "title": "Ethereum (ETH) Price Rally Builds Momentum: Bullish Pattern Signals Breakout",
+      "summary": "Ethereum (ETH) Price Rally Builds Momentum: Bullish Pattern Signals Breakout",
+      "url": "https://cryptopanic.com/news/21760247/Ethereum-ETH-Price-Rally-Builds-Momentum-Bullish-Pattern-Signals-Breakout?mtm_campaign=API-OFA",
+      "source": "thecoinrepublic.com",
+      "sentiment": "neutral",
+      "published_at": "2025-05-13T11:58:53Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "XRP Defies Market Correction Trend, BTC Price Slips Below $103K (Market Watch)",
+      "summary": "XRP Defies Market Correction Trend, BTC Price Slips Below $103K (Market Watch)",
+      "url": "https://cryptopanic.com/news/21756484/XRP-Defies-Market-Correction-Trend-BTC-Price-Slips-Below-103K-Market-Watch?mtm_campaign=API-OFA",
+      "source": "cryptopotato.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-13T09:15:26Z",
+      "currencies": [
+        "BTC",
+        "USDT",
+        "XRP",
+        "DOGE",
+        "SUI",
+        "LINK",
+        "SHIB",
+        "BTCUSD"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Is Ethereum Dead And Gone?",
+      "summary": "Is Ethereum Dead And Gone?",
+      "url": "https://cryptopanic.com/news/21755130/Is-Ethereum-Dead-And-Gone?mtm_campaign=API-OFA",
+      "source": "coinpedia.org",
+      "sentiment": "negative",
+      "published_at": "2025-05-13T08:20:57Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Michael Saylor shares the ‘best way’ to grow your investment '100x'",
       "summary": "Michael Saylor shares the ‘best way’ to grow your investment '100x'",
@@ -83,44 +126,6 @@
       "published_at": "2025-05-11T16:30:51Z",
       "currencies": [
         "BTC",
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Could Ethereum Hit $5,000–$10,000 This Cycle?",
-      "summary": "Could Ethereum Hit $5,000–$10,000 This Cycle?",
-      "url": "https://cryptopanic.com/news/21714234/Could-Ethereum-Hit-500010000-This-Cycle?mtm_campaign=API-OFA",
-      "source": "coindoo.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T16:06:05Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum to $10K &#039;can&#039;t be ruled out&#039; as ETH price makes sharp gains vs. SOL, XRP",
-      "summary": "Ethereum to $10K &#039;can&#039;t be ruled out&#039; as ETH price makes sharp gains vs. SOL, XRP",
-      "url": "https://cryptopanic.com/news/21714233/Ethereum-to-10K-039can039t-be-ruled-out039-as-ETH-price-makes-sharp-gains-vs-SOL-XRP?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T16:02:26Z",
-      "currencies": [
-        "ETH",
-        "XRP",
-        "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Pectra lets hackers drain wallets with just an offchain signature",
-      "summary": "Pectra lets hackers drain wallets with just an offchain signature",
-      "url": "https://cryptopanic.com/news/21712968/Pectra-lets-hackers-drain-wallets-with-just-an-offchain-signature?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-11T13:10:42Z",
-      "currencies": [
         "ETH"
       ],
       "categories": []
