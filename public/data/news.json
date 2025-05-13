@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-12T19:15:16.011Z",
+  "date": "2025-05-13T09:16:59.484Z",
   "articles": [
+    {
+      "title": "Michael Saylor shares the ‘best way’ to grow your investment '100x'",
+      "summary": "Michael Saylor shares the ‘best way’ to grow your investment '100x'",
+      "url": "https://cryptopanic.com/news/21740763/Michael-Saylor-shares-the-best-way-to-grow-your-investment-100x?mtm_campaign=API-OFA",
+      "source": "thestreet.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-12T18:57:22Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Price Completes Bullish Structure Break – $3,000 Comes Next",
       "summary": "Ethereum Price Completes Bullish Structure Break – $3,000 Comes Next",
@@ -110,18 +122,6 @@
       "published_at": "2025-05-11T13:10:42Z",
       "currencies": [
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Coinbase CEO: US Government to Own $600 Billion Bitcoin Reserves; Saylor Plans More Buys; Keiser, Draper Predict Price Surge",
-      "summary": "Coinbase CEO: US Government to Own $600 Billion Bitcoin Reserves; Saylor Plans More Buys; Keiser, Draper Predict Price Surge",
-      "url": "https://cryptopanic.com/news/21712277/Coinbase-CEO-US-Government-to-Own-600-Billion-Bitcoin-Reserves-Saylor-Plans-More-Buys-Keiser-Draper-Predict-Price-Surge?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T12:30:27Z",
-      "currencies": [
-        "BTC"
       ],
       "categories": []
     }
