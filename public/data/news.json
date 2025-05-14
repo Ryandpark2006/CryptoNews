@@ -1,12 +1,63 @@
 {
-  "date": "2025-05-13T19:15:15.962Z",
+  "date": "2025-05-14T09:16:57.240Z",
   "articles": [
+    {
+      "title": "Ethereum Market Cap Hits $306.68B, Surpasses Alibaba as Abraxas Capital Buys $500M ETH Amid Price Rally",
+      "summary": "Ethereum Market Cap Hits $306.68B, Surpasses Alibaba as Abraxas Capital Buys $500M ETH Amid Price Rally",
+      "url": "https://cryptopanic.com/news/21777104/Ethereum-Market-Cap-Hits-30668B-Surpasses-Alibaba-as-Abraxas-Capital-Buys-500M-ETH-Amid-Price-Rally?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-14T00:05:21Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Solana’s speed, fees, and partnerships position it as the backbone of onchain payments",
+      "summary": "Solana’s speed, fees, and partnerships position it as the backbone of onchain payments",
+      "url": "https://cryptopanic.com/news/21776717/Solanas-speed-fees-and-partnerships-position-it-as-the-backbone-of-onchain-payments?mtm_campaign=API-OFA",
+      "source": "cryptopolitan.com",
+      "sentiment": "neutral",
+      "published_at": "2025-05-13T23:42:31Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Solana network and DeFi activity suggest SOL price rally will continue",
+      "summary": "Solana network and DeFi activity suggest SOL price rally will continue",
+      "url": "https://cryptopanic.com/news/21773459/Solana-network-and-DeFi-activity-suggest-SOL-price-rally-will-continue?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-13T20:30:00Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum smashes through $2,600 barrier",
+      "summary": "Ethereum smashes through $2,600 barrier",
+      "url": "https://cryptopanic.com/news/21769876/Ethereum-smashes-through-2600-barrier?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-13T17:17:23Z",
+      "currencies": [
+        "ETH",
+        "USDT"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum (ETH) Price Rally Builds Momentum: Bullish Pattern Signals Breakout",
       "summary": "Ethereum (ETH) Price Rally Builds Momentum: Bullish Pattern Signals Breakout",
       "url": "https://cryptopanic.com/news/21760247/Ethereum-ETH-Price-Rally-Builds-Momentum-Bullish-Pattern-Signals-Breakout?mtm_campaign=API-OFA",
       "source": "thecoinrepublic.com",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "published_at": "2025-05-13T11:58:53Z",
       "currencies": [
         "ETH"
@@ -22,8 +73,8 @@
       "published_at": "2025-05-13T09:15:26Z",
       "currencies": [
         "BTC",
-        "USDT",
         "XRP",
+        "USDT",
         "DOGE",
         "SUI",
         "LINK",
@@ -77,55 +128,6 @@
       "sentiment": "positive",
       "published_at": "2025-05-12T11:43:06Z",
       "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Staking Giant Lido Loses Just 1.4 ETH in Hacking Attempt",
-      "summary": "Ethereum Staking Giant Lido Loses Just 1.4 ETH in Hacking Attempt",
-      "url": "https://cryptopanic.com/news/21722636/Ethereum-Staking-Giant-Lido-Loses-Just-14-ETH-in-Hacking-Attempt?mtm_campaign=API-OFA",
-      "source": "coindesk.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-12T05:53:22Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum chart pattern supports &#039;moon shot&#039; rally to new price highs if confirmed — Trader",
-      "summary": "Ethereum chart pattern supports &#039;moon shot&#039; rally to new price highs if confirmed — Trader",
-      "url": "https://cryptopanic.com/news/21715775/Ethereum-chart-pattern-supports-039moon-shot039-rally-to-new-price-highs-if-confirmed-Trader?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T19:25:57Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Spain Imposes €150,000 Fine for Cash Withdrawals Over €3,000 With 24-Hour Notice and Reason, Citing AML; Bitcoin Appeal Grows",
-      "summary": "Spain Imposes €150,000 Fine for Cash Withdrawals Over €3,000 With 24-Hour Notice and Reason, Citing AML; Bitcoin Appeal Grows",
-      "url": "https://cryptopanic.com/news/21715327/Spain-Imposes-150000-Fine-for-Cash-Withdrawals-Over-3000-With-24-Hour-Notice-and-Reason-Citing-AML-Bitcoin-Appeal-Grows?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T19:00:27Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum liquidations hit $180 million in 24 hours, surpassing Bitcoin losses",
-      "summary": "Ethereum liquidations hit $180 million in 24 hours, surpassing Bitcoin losses",
-      "url": "https://cryptopanic.com/news/21714365/Ethereum-liquidations-hit-180-million-in-24-hours-surpassing-Bitcoin-losses?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-11T16:30:51Z",
-      "currencies": [
-        "BTC",
         "ETH"
       ],
       "categories": []
