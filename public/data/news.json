@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-14T09:16:57.240Z",
+  "date": "2025-05-14T10:20:00.198Z",
   "articles": [
     {
       "title": "Ethereum Market Cap Hits $306.68B, Surpasses Alibaba as Abraxas Capital Buys $500M ETH Amid Price Rally",
@@ -18,7 +18,7 @@
       "summary": "Solana’s speed, fees, and partnerships position it as the backbone of onchain payments",
       "url": "https://cryptopanic.com/news/21776717/Solanas-speed-fees-and-partnerships-position-it-as-the-backbone-of-onchain-payments?mtm_campaign=API-OFA",
       "source": "cryptopolitan.com",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-05-13T23:42:31Z",
       "currencies": [
         "ETH",
@@ -60,6 +60,19 @@
       "sentiment": "negative",
       "published_at": "2025-05-13T11:58:53Z",
       "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Price Drops Against Bitcoin To Levels Not Seen Since 2019, But There’s Good News",
+      "summary": "Ethereum Price Drops Against Bitcoin To Levels Not Seen Since 2019, But There’s Good News",
+      "url": "https://cryptopanic.com/news/21759982/Ethereum-Price-Drops-Against-Bitcoin-To-Levels-Not-Seen-Since-2019-But-Theres-Good-News?mtm_campaign=API-OFA",
+      "source": "livebitcoinnews.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-13T11:19:16Z",
+      "currencies": [
+        "BTC",
         "ETH"
       ],
       "categories": []
@@ -119,26 +132,14 @@
         "USDT"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum surpasses Coca-Cola and Alibaba in market cap after Pectra upgrade surge",
-      "summary": "Ethereum surpasses Coca-Cola and Alibaba in market cap after Pectra upgrade surge",
-      "url": "https://cryptopanic.com/news/21730444/Ethereum-surpasses-Coca-Cola-and-Alibaba-in-market-cap-after-Pectra-upgrade-surge?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-12T11:43:06Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
       "positive": 15,
-      "neutral": 1,
-      "negative": 4
+      "neutral": 0,
+      "negative": 5
     }
   }
 }
