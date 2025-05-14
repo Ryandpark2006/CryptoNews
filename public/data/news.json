@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-14T18:19:29.220Z",
+  "date": "2025-05-14T19:14:46.704Z",
   "articles": [
+    {
+      "title": "Ethereum Foundation Launches “Trillion Dollar Security” Initiative",
+      "summary": "Ethereum Foundation Launches “Trillion Dollar Security” Initiative",
+      "url": "https://cryptopanic.com/news/21799966/Ethereum-Foundation-Launches-Trillion-Dollar-Security-Initiative?mtm_campaign=API-OFA",
+      "source": "coinspeaker.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-14T16:11:10Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Hits $2,700 for First Time Since February, Up 70% in 30 Days",
       "summary": "Ethereum Hits $2,700 for First Time Since February, Up 70% in 30 Days",
@@ -111,27 +123,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Price Drops Against Bitcoin To Levels Not Seen Since 2019, But There’s Good News",
-      "summary": "Ethereum Price Drops Against Bitcoin To Levels Not Seen Since 2019, But There’s Good News",
-      "url": "https://cryptopanic.com/news/21759982/Ethereum-Price-Drops-Against-Bitcoin-To-Levels-Not-Seen-Since-2019-But-Theres-Good-News?mtm_campaign=API-OFA",
-      "source": "livebitcoinnews.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-13T11:19:16Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 14,
+      "positive": 13,
       "neutral": 2,
-      "negative": 4
+      "negative": 5
     }
   }
 }
