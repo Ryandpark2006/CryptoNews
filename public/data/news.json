@@ -1,12 +1,12 @@
 {
-  "date": "2025-05-14T19:14:46.704Z",
+  "date": "2025-05-15T09:16:56.333Z",
   "articles": [
     {
       "title": "Ethereum Foundation Launches “Trillion Dollar Security” Initiative",
       "summary": "Ethereum Foundation Launches “Trillion Dollar Security” Initiative",
       "url": "https://cryptopanic.com/news/21799966/Ethereum-Foundation-Launches-Trillion-Dollar-Security-Initiative?mtm_campaign=API-OFA",
       "source": "coinspeaker.com",
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "published_at": "2025-05-14T16:11:10Z",
       "currencies": [
         "ETH"
@@ -129,8 +129,8 @@
     "total_articles": 20,
     "sentiment_distribution": {
       "positive": 13,
-      "neutral": 2,
-      "negative": 5
+      "neutral": 3,
+      "negative": 4
     }
   }
 }
