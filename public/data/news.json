@@ -1,6 +1,31 @@
 {
-  "date": "2025-05-15T10:20:13.857Z",
+  "date": "2025-05-15T18:21:30.570Z",
   "articles": [
+    {
+      "title": "Ethereum’s Pectra upgrade revolutionises wallets with EIP-7702 smart contract integration",
+      "summary": "Ethereum’s Pectra upgrade revolutionises wallets with EIP-7702 smart contract integration",
+      "url": "https://cryptopanic.com/news/21823572/Ethereums-Pectra-upgrade-revolutionises-wallets-with-EIP-7702-smart-contract-integration?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-15T11:33:14Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Smart wallet adoption surges with over 11,000 EIP-7702 authorizations on Ethereum within a week of Pectra upgrade",
+      "summary": "Smart wallet adoption surges with over 11,000 EIP-7702 authorizations on Ethereum within a week of Pectra upgrade",
+      "url": "https://cryptopanic.com/news/21816605/Smart-wallet-adoption-surges-with-over-11000-EIP-7702-authorizations-on-Ethereum-within-a-week-of-Pectra-upgrade?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-15T07:21:57Z",
+      "currencies": [
+        "ETH",
+        "DEFI"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Foundation Launches “Trillion Dollar Security” Initiative",
       "summary": "Ethereum Foundation Launches “Trillion Dollar Security” Initiative",
@@ -96,31 +121,6 @@
       "currencies": [
         "ETH",
         "SOL"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum smashes through $2,600 barrier",
-      "summary": "Ethereum smashes through $2,600 barrier",
-      "url": "https://cryptopanic.com/news/21769876/Ethereum-smashes-through-2600-barrier?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-13T17:17:23Z",
-      "currencies": [
-        "ETH",
-        "USDT"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum (ETH) Price Rally Builds Momentum: Bullish Pattern Signals Breakout",
-      "summary": "Ethereum (ETH) Price Rally Builds Momentum: Bullish Pattern Signals Breakout",
-      "url": "https://cryptopanic.com/news/21760247/Ethereum-ETH-Price-Rally-Builds-Momentum-Bullish-Pattern-Signals-Breakout?mtm_campaign=API-OFA",
-      "source": "thecoinrepublic.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-13T11:58:53Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
