@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-16T10:19:45.923Z",
+  "date": "2025-05-16T18:21:06.280Z",
   "articles": [
     {
       "title": "Ethereum’s Pectra upgrade revolutionises wallets with EIP-7702 smart contract integration",
@@ -8,6 +8,18 @@
       "source": "cointrackdaily.com",
       "sentiment": "positive",
       "published_at": "2025-05-15T11:33:14Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Nasdaq-listed BTCS Inc. to boost ETH holdings with $57.8M raise",
+      "summary": "Nasdaq-listed BTCS Inc. to boost ETH holdings with $57.8M raise",
+      "url": "https://cryptopanic.com/news/21818909/Nasdaq-listed-BTCS-Inc-to-boost-ETH-holdings-with-578M-raise?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-15T09:01:03Z",
       "currencies": [
         "ETH"
       ],
@@ -111,27 +123,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Solana’s speed, fees, and partnerships position it as the backbone of onchain payments",
-      "summary": "Solana’s speed, fees, and partnerships position it as the backbone of onchain payments",
-      "url": "https://cryptopanic.com/news/21776717/Solanas-speed-fees-and-partnerships-position-it-as-the-backbone-of-onchain-payments?mtm_campaign=API-OFA",
-      "source": "cryptopolitan.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-13T23:42:31Z",
-      "currencies": [
-        "ETH",
-        "SOL"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
+      "positive": 13,
       "neutral": 4,
-      "negative": 4
+      "negative": 3
     }
   }
 }
