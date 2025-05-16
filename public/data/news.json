@@ -1,6 +1,20 @@
 {
-  "date": "2025-05-16T18:21:06.280Z",
+  "date": "2025-05-16T19:14:49.104Z",
   "articles": [
+    {
+      "title": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
+      "summary": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
+      "url": "https://cryptopanic.com/news/21859432/Ethereum-Looks-Ready-To-Break-Out-Of-4-Year-Consolidation-Analyst-Says-Price-Will-Go-Insane?mtm_campaign=API-OFA",
+      "source": "newsbtc.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-16T16:00:49Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "USDT"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum’s Pectra upgrade revolutionises wallets with EIP-7702 smart contract integration",
       "summary": "Ethereum’s Pectra upgrade revolutionises wallets with EIP-7702 smart contract integration",
@@ -107,18 +121,6 @@
       "source": "theblock.co",
       "sentiment": "neutral",
       "published_at": "2025-05-14T09:55:17Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Market Cap Hits $306.68B, Surpasses Alibaba as Abraxas Capital Buys $500M ETH Amid Price Rally",
-      "summary": "Ethereum Market Cap Hits $306.68B, Surpasses Alibaba as Abraxas Capital Buys $500M ETH Amid Price Rally",
-      "url": "https://cryptopanic.com/news/21777104/Ethereum-Market-Cap-Hits-30668B-Surpasses-Alibaba-as-Abraxas-Capital-Buys-500M-ETH-Amid-Price-Rally?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-14T00:05:21Z",
       "currencies": [
         "ETH"
       ],
