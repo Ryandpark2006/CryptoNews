@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-17T10:17:58.689Z",
+  "date": "2025-05-17T18:19:27.994Z",
   "articles": [
+    {
+      "title": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
+      "summary": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
+      "url": "https://cryptopanic.com/news/21864030/Ethereum-Backers-Respond-to-Critics-Markets-Will-Catch-Up?mtm_campaign=API-OFA",
+      "source": "coindesk.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-16T19:01:57Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
       "summary": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
@@ -12,6 +24,19 @@
         "BTC",
         "ETH",
         "USDT"
+      ],
+      "categories": []
+    },
+    {
+      "title": "51% attack on Ethereum more difficult than on Bitcoin — Justin Drake",
+      "summary": "51% attack on Ethereum more difficult than on Bitcoin — Justin Drake",
+      "url": "https://cryptopanic.com/news/21856291/51-attack-on-Ethereum-more-difficult-than-on-Bitcoin-Justin-Drake?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-16T13:29:56Z",
+      "currencies": [
+        "BTC",
+        "ETH"
       ],
       "categories": []
     },
@@ -57,7 +82,7 @@
       "summary": "Smart wallet adoption surges with over 11,000 EIP-7702 authorizations on Ethereum within a week of Pectra upgrade",
       "url": "https://cryptopanic.com/news/21816605/Smart-wallet-adoption-surges-with-over-11000-EIP-7702-authorizations-on-Ethereum-within-a-week-of-Pectra-upgrade?mtm_campaign=API-OFA",
       "source": "theblock.co",
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "published_at": "2025-05-15T07:21:57Z",
       "currencies": [
         "ETH",
@@ -102,38 +127,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Best Crypto On ETH Chain – Ethereum Alt Season Is Set to Explode",
-      "summary": "Best Crypto On ETH Chain – Ethereum Alt Season Is Set to Explode",
-      "url": "https://cryptopanic.com/news/21791769/Best-Crypto-On-ETH-Chain-Ethereum-Alt-Season-Is-Set-to-Explode?mtm_campaign=API-OFA",
-      "source": "99bitcoins.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-14T11:16:03Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum’s 49% Rally in 6 Days Catches Doubters Off Guard: Santiment",
-      "summary": "Ethereum’s 49% Rally in 6 Days Catches Doubters Off Guard: Santiment",
-      "url": "https://cryptopanic.com/news/21791034/Ethereums-49-Rally-in-6-Days-Catches-Doubters-Off-Guard-Santiment?mtm_campaign=API-OFA",
-      "source": "cryptopotato.com",
-      "sentiment": "neutral",
-      "published_at": "2025-05-14T11:07:17Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
-      "neutral": 4,
-      "negative": 4
+      "positive": 10,
+      "neutral": 5,
+      "negative": 5
     }
   }
 }
