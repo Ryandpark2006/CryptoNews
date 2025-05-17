@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-17T09:14:38.504Z",
+  "date": "2025-05-17T10:17:58.689Z",
   "articles": [
     {
       "title": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
@@ -23,6 +23,19 @@
       "sentiment": "positive",
       "published_at": "2025-05-15T11:33:14Z",
       "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Crash: Top Reason Why ETH Price is Down Today",
+      "summary": "Ethereum Crash: Top Reason Why ETH Price is Down Today",
+      "url": "https://cryptopanic.com/news/21821074/Ethereum-Crash-Top-Reason-Why-ETH-Price-is-Down-Today?mtm_campaign=API-OFA",
+      "source": "coingape.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-15T10:11:40Z",
+      "currencies": [
+        "BTC",
         "ETH"
       ],
       "categories": []
@@ -113,26 +126,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Bernstein outlines three factors that drove Ethereum’s recent price surge",
-      "summary": "Bernstein outlines three factors that drove Ethereum’s recent price surge",
-      "url": "https://cryptopanic.com/news/21788611/Bernstein-outlines-three-factors-that-drove-Ethereums-recent-price-surge?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "neutral",
-      "published_at": "2025-05-14T09:55:17Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 13,
+      "positive": 12,
       "neutral": 4,
-      "negative": 3
+      "negative": 4
     }
   }
 }
