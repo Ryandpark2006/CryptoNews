@@ -1,6 +1,21 @@
 {
-  "date": "2025-05-17T19:14:44.955Z",
+  "date": "2025-05-18T09:14:40.536Z",
   "articles": [
+    {
+      "title": "XRP Price Set to Explode on May 19th",
+      "summary": "XRP Price Set to Explode on May 19th",
+      "url": "https://cryptopanic.com/news/21879774/XRP-Price-Set-to-Explode-on-May-19th?mtm_campaign=API-OFA",
+      "source": "coinpedia.org",
+      "sentiment": "positive",
+      "published_at": "2025-05-17T15:51:44Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "XRP",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
       "summary": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
@@ -113,18 +128,6 @@
         "ETH",
         "USDT",
         "XRP"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Hits $2,700 for First Time Since February, Up 70% in 30 Days",
-      "summary": "Ethereum Hits $2,700 for First Time Since February, Up 70% in 30 Days",
-      "url": "https://cryptopanic.com/news/21792429/Ethereum-Hits-2700-for-First-Time-Since-February-Up-70-in-30-Days?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-14T12:00:21Z",
-      "currencies": [
-        "ETH"
       ],
       "categories": []
     }
