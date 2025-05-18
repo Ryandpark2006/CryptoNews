@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-18T10:18:01.616Z",
+  "date": "2025-05-18T18:19:30.403Z",
   "articles": [
     {
       "title": "XRP Price Set to Explode on May 19th",
@@ -122,7 +122,7 @@
       "summary": "XRP Becomes Third Largest Crypto After 21% Surge, Can it Overtake ETH?",
       "url": "https://cryptopanic.com/news/21795587/XRP-Becomes-Third-Largest-Crypto-After-21-Surge-Can-it-Overtake-ETH?mtm_campaign=API-OFA",
       "source": "coinpedia.org",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "published_at": "2025-05-14T13:44:02Z",
       "currencies": [
         "ETH",
@@ -135,8 +135,8 @@
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 10,
-      "neutral": 5,
+      "positive": 11,
+      "neutral": 4,
       "negative": 5
     }
   }
