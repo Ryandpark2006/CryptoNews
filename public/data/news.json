@@ -1,12 +1,25 @@
 {
-  "date": "2025-05-19T19:15:06.380Z",
+  "date": "2025-05-20T09:17:16.999Z",
   "articles": [
+    {
+      "title": "Why Ethereum could be turning the tides on Bitcoin",
+      "summary": "Why Ethereum could be turning the tides on Bitcoin",
+      "url": "https://cryptopanic.com/news/21923307/Why-Ethereum-could-be-turning-the-tides-on-Bitcoin?mtm_campaign=API-OFA",
+      "source": "thestreet.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-19T18:55:03Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum labeled ‘standout performer’ as global crypto funds add $785 million in fifth straight week of inflows: CoinShares",
       "summary": "Ethereum labeled ‘standout performer’ as global crypto funds add $785 million in fifth straight week of inflows: CoinShares",
       "url": "https://cryptopanic.com/news/21912200/Ethereum-labeled-standout-performer-as-global-crypto-funds-add-785-million-in-fifth-straight-week-of-inflows-CoinShares?mtm_campaign=API-OFA",
       "source": "theblock.co",
-      "sentiment": "negative",
+      "sentiment": "positive",
       "published_at": "2025-05-19T11:40:44Z",
       "currencies": [
         "BTC",
@@ -50,7 +63,7 @@
       "summary": "XRP Price Set to Explode on May 19th",
       "url": "https://cryptopanic.com/news/21879774/XRP-Price-Set-to-Explode-on-May-19th?mtm_campaign=API-OFA",
       "source": "coinpedia.org",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "published_at": "2025-05-17T15:51:44Z",
       "currencies": [
         "BTC",
@@ -123,25 +136,13 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Nasdaq-listed BTCS Inc. to boost ETH holdings with $57.8M raise",
-      "summary": "Nasdaq-listed BTCS Inc. to boost ETH holdings with $57.8M raise",
-      "url": "https://cryptopanic.com/news/21818909/Nasdaq-listed-BTCS-Inc-to-boost-ETH-holdings-with-578M-raise?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-15T09:01:03Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 10,
-      "neutral": 5,
+      "positive": 11,
+      "neutral": 4,
       "negative": 5
     }
   }
