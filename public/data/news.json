@@ -1,6 +1,33 @@
 {
-  "date": "2025-05-20T19:14:25.710Z",
+  "date": "2025-05-21T09:17:12.184Z",
   "articles": [
+    {
+      "title": "Ripple – XRP Spot ETFs might be ‘only a matter of time’",
+      "summary": "Ripple – XRP Spot ETFs might be ‘only a matter of time’",
+      "url": "https://cryptopanic.com/news/21958724/Ripple-XRP-Spot-ETFs-might-be-only-a-matter-of-time?mtm_campaign=API-OFA",
+      "source": "ambcrypto.com",
+      "sentiment": "negative",
+      "published_at": "2025-05-20T23:00:35Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "XRP",
+        "SOL"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum price gained 90% the last time this indicator turned bullish",
+      "summary": "Ethereum price gained 90% the last time this indicator turned bullish",
+      "url": "https://cryptopanic.com/news/21955444/Ethereum-price-gained-90-the-last-time-this-indicator-turned-bullish?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-20T19:44:07Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum",
       "summary": "French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum",
@@ -12,6 +39,22 @@
         "ETH",
         "SOL",
         "DEFI"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Chainlink CCIP Live on Solana",
+      "summary": "Chainlink CCIP Live on Solana",
+      "url": "https://cryptopanic.com/news/21943422/Chainlink-CCIP-Live-on-Solana?mtm_campaign=API-OFA",
+      "source": "altcoinbuzz.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-20T11:43:13Z",
+      "currencies": [
+        "ETH",
+        "BNB",
+        "SOL",
+        "LINK",
+        "ARB"
       ],
       "categories": []
     },
@@ -100,53 +143,14 @@
         "SOL"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
-      "summary": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
-      "url": "https://cryptopanic.com/news/21864030/Ethereum-Backers-Respond-to-Critics-Markets-Will-Catch-Up?mtm_campaign=API-OFA",
-      "source": "coindesk.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-16T19:01:57Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
-      "summary": "Ethereum Looks Ready To Break Out Of 4-Year Consolidation, Analyst Says Price Will ‘Go Insane’",
-      "url": "https://cryptopanic.com/news/21859432/Ethereum-Looks-Ready-To-Break-Out-Of-4-Year-Consolidation-Analyst-Says-Price-Will-Go-Insane?mtm_campaign=API-OFA",
-      "source": "newsbtc.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-16T16:00:49Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "USDT"
-      ],
-      "categories": []
-    },
-    {
-      "title": "51% attack on Ethereum more difficult than on Bitcoin — Justin Drake",
-      "summary": "51% attack on Ethereum more difficult than on Bitcoin — Justin Drake",
-      "url": "https://cryptopanic.com/news/21856291/51-attack-on-Ethereum-more-difficult-than-on-Bitcoin-Justin-Drake?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-16T13:29:56Z",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 11,
-      "neutral": 4,
-      "negative": 5
+      "positive": 12,
+      "neutral": 2,
+      "negative": 6
     }
   }
 }
