@@ -1,6 +1,44 @@
 {
-  "date": "2025-05-21T10:20:11.129Z",
+  "date": "2025-05-22T18:21:28.079Z",
   "articles": [
+    {
+      "title": "Bitcoin continues rally to surpass $110K for the first time",
+      "summary": "Bitcoin continues rally to surpass $110K for the first time",
+      "url": "https://cryptopanic.com/news/21992723/Bitcoin-continues-rally-to-surpass-110K-for-the-first-time?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-22T02:42:26Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Price Maintains Key Support — Is a Breakout Rally Brewing?",
+      "summary": "Ethereum Price Maintains Key Support — Is a Breakout Rally Brewing?",
+      "url": "https://cryptopanic.com/news/21962558/Ethereum-Price-Maintains-Key-Support-Is-a-Breakout-Rally-Brewing?mtm_campaign=API-OFA",
+      "source": "newsbtc.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-21T03:18:02Z",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "USDT"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum’s Revenge: Arthur Hayes Predicts Run To $10,000",
+      "summary": "Ethereum’s Revenge: Arthur Hayes Predicts Run To $10,000",
+      "url": "https://cryptopanic.com/news/21960996/Ethereums-Revenge-Arthur-Hayes-Predicts-Run-To-10000?mtm_campaign=API-OFA",
+      "source": "newsbtc.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-21T02:00:45Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ripple – XRP Spot ETFs might be ‘only a matter of time’",
       "summary": "Ripple – XRP Spot ETFs might be ‘only a matter of time’",
@@ -100,56 +138,13 @@
         "S"
       ],
       "categories": []
-    },
-    {
-      "title": "Solana Leads as Most Active Blockchain Platform This Week",
-      "summary": "Solana Leads as Most Active Blockchain Platform This Week",
-      "url": "https://cryptopanic.com/news/21912110/Solana-Leads-as-Most-Active-Blockchain-Platform-This-Week?mtm_campaign=API-OFA",
-      "source": "coincu.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-19T11:26:32Z",
-      "currencies": [
-        "ETH",
-        "BNB",
-        "SOL",
-        "TRX",
-        "ALGO"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Don’t believe the noise: There can never be too many L2s",
-      "summary": "Don’t believe the noise: There can never be too many L2s",
-      "url": "https://cryptopanic.com/news/21893881/Dont-believe-the-noise-There-can-never-be-too-many-L2s?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-18T15:00:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "XRP Price Set to Explode on May 19th",
-      "summary": "XRP Price Set to Explode on May 19th",
-      "url": "https://cryptopanic.com/news/21879774/XRP-Price-Set-to-Explode-on-May-19th?mtm_campaign=API-OFA",
-      "source": "coinpedia.org",
-      "sentiment": "negative",
-      "published_at": "2025-05-17T15:51:44Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "XRP",
-        "SOL"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 12,
-      "neutral": 2,
+      "positive": 13,
+      "neutral": 1,
       "negative": 6
     }
   }
