@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-22T18:21:28.079Z",
+  "date": "2025-05-22T19:14:56.838Z",
   "articles": [
     {
       "title": "Bitcoin continues rally to surpass $110K for the first time",
@@ -10,6 +10,18 @@
       "published_at": "2025-05-22T02:42:26Z",
       "currencies": [
         "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum holders back in profit as ETH price enters &#039;crucial area&#039; for $3K breakout",
+      "summary": "Ethereum holders back in profit as ETH price enters &#039;crucial area&#039; for $3K breakout",
+      "url": "https://cryptopanic.com/news/21981023/Ethereum-holders-back-in-profit-as-ETH-price-enters-039crucial-area039-for-3K-breakout?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "neutral",
+      "published_at": "2025-05-21T15:36:16Z",
+      "currencies": [
+        "ETH"
       ],
       "categories": []
     },
@@ -120,22 +132,6 @@
       "currencies": [
         "BTC",
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum labeled ‘standout performer’ as global crypto funds add $785 million in fifth straight week of inflows: CoinShares",
-      "summary": "Ethereum labeled ‘standout performer’ as global crypto funds add $785 million in fifth straight week of inflows: CoinShares",
-      "url": "https://cryptopanic.com/news/21912200/Ethereum-labeled-standout-performer-as-global-crypto-funds-add-785-million-in-fifth-straight-week-of-inflows-CoinShares?mtm_campaign=API-OFA",
-      "source": "theblock.co",
-      "sentiment": "positive",
-      "published_at": "2025-05-19T11:40:44Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "SOL",
-        "PEOPLE",
-        "S"
       ],
       "categories": []
     }
