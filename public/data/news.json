@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-23T09:16:42.563Z",
+  "date": "2025-05-23T10:19:46.917Z",
   "articles": [
+    {
+      "title": "Is Ethereum Price Ready To Target $3,000 Soon? Analysts Opine",
+      "summary": "Is Ethereum Price Ready To Target $3,000 Soon? Analysts Opine",
+      "url": "https://cryptopanic.com/news/22022019/Is-Ethereum-Price-Ready-To-Target-3000-Soon-Analysts-Opine?mtm_campaign=API-OFA",
+      "source": "thecoinrepublic.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-23T01:45:00Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Bitcoin continues rally to surpass $110K for the first time",
       "summary": "Bitcoin continues rally to surpass $110K for the first time",
@@ -119,19 +131,6 @@
         "BTC",
         "ETH",
         "USDT"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Why Ethereum could be turning the tides on Bitcoin",
-      "summary": "Why Ethereum could be turning the tides on Bitcoin",
-      "url": "https://cryptopanic.com/news/21923307/Why-Ethereum-could-be-turning-the-tides-on-Bitcoin?mtm_campaign=API-OFA",
-      "source": "thestreet.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-19T18:55:03Z",
-      "currencies": [
-        "BTC",
-        "ETH"
       ],
       "categories": []
     }
