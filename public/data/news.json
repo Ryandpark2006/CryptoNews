@@ -1,6 +1,19 @@
 {
-  "date": "2025-05-23T10:19:46.917Z",
+  "date": "2025-05-23T18:20:10.353Z",
   "articles": [
+    {
+      "title": "Ledn to drop ETH support in favor of fully custodied bitcoin-only model amid rising BTC-backed lending competition",
+      "summary": "Ledn to drop ETH support in favor of fully custodied bitcoin-only model amid rising BTC-backed lending competition",
+      "url": "https://cryptopanic.com/news/22035581/Ledn-to-drop-ETH-support-in-favor-of-fully-custodied-bitcoin-only-model-amid-rising-BTC-backed-lending-competition?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "negative",
+      "published_at": "2025-05-23T13:01:02Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Is Ethereum Price Ready To Target $3,000 Soon? Analysts Opine",
       "summary": "Is Ethereum Price Ready To Target $3,000 Soon? Analysts Opine",
@@ -117,20 +130,6 @@
         "SOL",
         "LINK",
         "ARB"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Price Flashes Bullish Signal, But Can It Power Through Obstacles?",
-      "summary": "Ethereum Price Flashes Bullish Signal, But Can It Power Through Obstacles?",
-      "url": "https://cryptopanic.com/news/21931930/Ethereum-Price-Flashes-Bullish-Signal-But-Can-It-Power-Through-Obstacles?mtm_campaign=API-OFA",
-      "source": "newsbtc.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-20T03:18:06Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "USDT"
       ],
       "categories": []
     }
