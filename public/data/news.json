@@ -1,6 +1,43 @@
 {
-  "date": "2025-05-24T10:17:44.914Z",
+  "date": "2025-05-24T18:19:15.175Z",
   "articles": [
+    {
+      "title": "Bitcoin could hit $200K by year-end 2025, says TradingShot: Analysts cite historical patterns and bullish momentum",
+      "summary": "Bitcoin could hit $200K by year-end 2025, says TradingShot: Analysts cite historical patterns and bullish momentum",
+      "url": "https://cryptopanic.com/news/22057507/Bitcoin-could-hit-200K-by-year-end-2025-says-TradingShot-Analysts-cite-historical-patterns-and-bullish-momentum?mtm_campaign=API-OFA",
+      "source": "cointrackdaily.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-24T12:32:57Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Crypto Getting Closer to $3000 Mark: Best Ethereum Crypto to Buy Now",
+      "summary": "Ethereum Crypto Getting Closer to $3000 Mark: Best Ethereum Crypto to Buy Now",
+      "url": "https://cryptopanic.com/news/22054835/Ethereum-Crypto-Getting-Closer-to-3000-Mark-Best-Ethereum-Crypto-to-Buy-Now?mtm_campaign=API-OFA",
+      "source": "99bitcoins.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-24T09:40:05Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum on Cusp of a Massive Move, According to Crypto Trader – Here Are His Targets",
+      "summary": "Ethereum on Cusp of a Massive Move, According to Crypto Trader – Here Are His Targets",
+      "url": "https://cryptopanic.com/news/22044363/Ethereum-on-Cusp-of-a-Massive-Move-According-to-Crypto-Trader-Here-Are-His-Targets?mtm_campaign=API-OFA",
+      "source": "dailyhodl.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-23T19:55:52Z",
+      "currencies": [
+        "ETH",
+        "SOL"
+      ],
+      "categories": []
+    },
     {
       "title": "Ledn to drop ETH support in favor of fully custodied bitcoin-only model amid rising BTC-backed lending competition",
       "summary": "Ledn to drop ETH support in favor of fully custodied bitcoin-only model amid rising BTC-backed lending competition",
@@ -90,56 +127,14 @@
         "SOL"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum price gained 90% the last time this indicator turned bullish",
-      "summary": "Ethereum price gained 90% the last time this indicator turned bullish",
-      "url": "https://cryptopanic.com/news/21955444/Ethereum-price-gained-90-the-last-time-this-indicator-turned-bullish?mtm_campaign=API-OFA",
-      "source": "cointelegraph.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-20T19:44:07Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum",
-      "summary": "French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum",
-      "url": "https://cryptopanic.com/news/21946922/French-banking-giant-to-launch-worlds-first-bank-issued-dollar-stablecoin-on-Ethereum?mtm_campaign=API-OFA",
-      "source": "cryptobriefing.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-20T13:41:08Z",
-      "currencies": [
-        "ETH",
-        "SOL",
-        "DEFI"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Chainlink CCIP Live on Solana",
-      "summary": "Chainlink CCIP Live on Solana",
-      "url": "https://cryptopanic.com/news/21943422/Chainlink-CCIP-Live-on-Solana?mtm_campaign=API-OFA",
-      "source": "altcoinbuzz.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-20T11:43:13Z",
-      "currencies": [
-        "ETH",
-        "BNB",
-        "SOL",
-        "LINK",
-        "ARB"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 13,
+      "positive": 14,
       "neutral": 1,
-      "negative": 6
+      "negative": 5
     }
   }
 }
