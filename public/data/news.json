@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-24T19:13:20.984Z",
+  "date": "2025-05-25T09:14:26.145Z",
   "articles": [
+    {
+      "title": "Ethereum Stands out Post-Pectra Upgrade as Crypto Inflows Skyrocket to $785 Million",
+      "summary": "Ethereum Stands out Post-Pectra Upgrade as Crypto Inflows Skyrocket to $785 Million",
+      "url": "https://cryptopanic.com/news/22062506/Ethereum-Stands-out-Post-Pectra-Upgrade-as-Crypto-Inflows-Skyrocket-to-785-Million?mtm_campaign=API-OFA",
+      "source": "zycrypto.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-24T21:04:41Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Bitcoin could hit $200K by year-end 2025, says TradingShot: Analysts cite historical patterns and bullish momentum",
       "summary": "Bitcoin could hit $200K by year-end 2025, says TradingShot: Analysts cite historical patterns and bullish momentum",
@@ -112,29 +124,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ripple – XRP Spot ETFs might be ‘only a matter of time’",
-      "summary": "Ripple – XRP Spot ETFs might be ‘only a matter of time’",
-      "url": "https://cryptopanic.com/news/21958724/Ripple-XRP-Spot-ETFs-might-be-only-a-matter-of-time?mtm_campaign=API-OFA",
-      "source": "ambcrypto.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-20T23:00:35Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "XRP",
-        "SOL"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 14,
+      "positive": 15,
       "neutral": 1,
-      "negative": 5
+      "negative": 4
     }
   }
 }
