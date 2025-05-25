@@ -1,6 +1,19 @@
 {
-  "date": "2025-05-25T10:18:06.242Z",
+  "date": "2025-05-25T18:18:58.793Z",
   "articles": [
+    {
+      "title": "USDC Activity on Ethereum Hits All-Time Highs",
+      "summary": "USDC Activity on Ethereum Hits All-Time Highs",
+      "url": "https://cryptopanic.com/news/22069192/USDC-Activity-on-Ethereum-Hits-All-Time-Highs?mtm_campaign=API-OFA",
+      "source": "coindoo.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-25T09:30:29Z",
+      "currencies": [
+        "ETH",
+        "USDC"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Stands out Post-Pectra Upgrade as Crypto Inflows Skyrocket to $785 Million",
       "summary": "Ethereum Stands out Post-Pectra Upgrade as Crypto Inflows Skyrocket to $785 Million",
@@ -112,26 +125,14 @@
         "USDT"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum’s Revenge: Arthur Hayes Predicts Run To $10,000",
-      "summary": "Ethereum’s Revenge: Arthur Hayes Predicts Run To $10,000",
-      "url": "https://cryptopanic.com/news/21960996/Ethereums-Revenge-Arthur-Hayes-Predicts-Run-To-10000?mtm_campaign=API-OFA",
-      "source": "newsbtc.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-21T02:00:45Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 15,
+      "positive": 16,
       "neutral": 1,
-      "negative": 4
+      "negative": 3
     }
   }
 }
