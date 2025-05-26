@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-25T19:13:37.984Z",
+  "date": "2025-05-26T09:41:45.279Z",
   "articles": [
+    {
+      "title": "Elon Musk’s Company Tesla (TSLA) Owns 11,900 BTC Worth $1.2 Billion",
+      "summary": "Elon Musk’s Company Tesla (TSLA) Owns 11,900 BTC Worth $1.2 Billion",
+      "url": "https://cryptopanic.com/news/22070132/Elon-Musks-Company-Tesla-TSLA-Owns-11900-BTC-Worth-12-Billion?mtm_campaign=API-OFA",
+      "source": "zycrypto.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-25T10:29:09Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
     {
       "title": "USDC Activity on Ethereum Hits All-Time Highs",
       "summary": "USDC Activity on Ethereum Hits All-Time Highs",
@@ -111,28 +123,14 @@
         "ETH"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Price Maintains Key Support — Is a Breakout Rally Brewing?",
-      "summary": "Ethereum Price Maintains Key Support — Is a Breakout Rally Brewing?",
-      "url": "https://cryptopanic.com/news/21962558/Ethereum-Price-Maintains-Key-Support-Is-a-Breakout-Rally-Brewing?mtm_campaign=API-OFA",
-      "source": "newsbtc.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-21T03:18:02Z",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "USDT"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 16,
+      "positive": 17,
       "neutral": 1,
-      "negative": 3
+      "negative": 2
     }
   }
 }
