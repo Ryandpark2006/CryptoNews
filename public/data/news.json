@@ -1,6 +1,19 @@
 {
-  "date": "2025-05-26T19:14:41.946Z",
+  "date": "2025-05-27T09:16:25.711Z",
   "articles": [
+    {
+      "title": "Chainlink Secures Over 68% of Oracle TVL With $66 Billion, Powers 81.93% of Ethereum Oracle Infrastructure, Integrates $2B+ Solv Protocol Proof of Reserve",
+      "summary": "Chainlink Secures Over 68% of Oracle TVL With $66 Billion, Powers 81.93% of Ethereum Oracle Infrastructure, Integrates $2B+ Solv Protocol Proof of Reserve",
+      "url": "https://cryptopanic.com/news/22093180/Chainlink-Secures-Over-68-of-Oracle-TVL-With-66-Billion-Powers-8193-of-Ethereum-Oracle-Infrastructure-Integrates-2B-Solv-Protocol-Proof-of-Reserve?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-26T14:05:18Z",
+      "currencies": [
+        "ETH",
+        "LINK"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum’s Buterin: Privacy-Focused Networks Could Support National Payment Systems",
       "summary": "Ethereum’s Buterin: Privacy-Focused Networks Could Support National Payment Systems",
@@ -107,19 +120,6 @@
       "published_at": "2025-05-24T09:40:05Z",
       "currencies": [
         "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum on Cusp of a Massive Move, According to Crypto Trader – Here Are His Targets",
-      "summary": "Ethereum on Cusp of a Massive Move, According to Crypto Trader – Here Are His Targets",
-      "url": "https://cryptopanic.com/news/22044363/Ethereum-on-Cusp-of-a-Massive-Move-According-to-Crypto-Trader-Here-Are-His-Targets?mtm_campaign=API-OFA",
-      "source": "dailyhodl.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-23T19:55:52Z",
-      "currencies": [
-        "ETH",
-        "SOL"
       ],
       "categories": []
     }
