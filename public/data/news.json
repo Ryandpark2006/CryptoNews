@@ -1,6 +1,43 @@
 {
-  "date": "2025-05-27T10:20:20.728Z",
+  "date": "2025-05-27T18:20:27.643Z",
   "articles": [
+    {
+      "title": "Ethereum flashes ‘altseason’ signal as ETH price eyes $4.1K",
+      "summary": "Ethereum flashes ‘altseason’ signal as ETH price eyes $4.1K",
+      "url": "https://cryptopanic.com/news/22121212/Ethereum-flashes-altseason-signal-as-ETH-price-eyes-41K?mtm_campaign=API-OFA",
+      "source": "cointelegraph.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-27T15:26:59Z",
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Surges 4% on Massive Volume as Institutional Interest Grows",
+      "summary": "Ethereum Surges 4% on Massive Volume as Institutional Interest Grows",
+      "url": "https://cryptopanic.com/news/22121086/Ethereum-Surges-4-on-Massive-Volume-as-Institutional-Interest-Grows?mtm_campaign=API-OFA",
+      "source": "coindesk.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-27T15:06:43Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum validators begin signaling another gas limit boost",
+      "summary": "Ethereum validators begin signaling another gas limit boost",
+      "url": "https://cryptopanic.com/news/22108459/Ethereum-validators-begin-signaling-another-gas-limit-boost?mtm_campaign=API-OFA",
+      "source": "theblock.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-27T07:47:15Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Chainlink Secures Over 68% of Oracle TVL With $66 Billion, Powers 81.93% of Ethereum Oracle Infrastructure, Integrates $2B+ Solv Protocol Proof of Reserve",
       "summary": "Chainlink Secures Over 68% of Oracle TVL With $66 Billion, Powers 81.93% of Ethereum Oracle Infrastructure, Integrates $2B+ Solv Protocol Proof of Reserve",
@@ -86,50 +123,14 @@
         "USDC"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum Stands out Post-Pectra Upgrade as Crypto Inflows Skyrocket to $785 Million",
-      "summary": "Ethereum Stands out Post-Pectra Upgrade as Crypto Inflows Skyrocket to $785 Million",
-      "url": "https://cryptopanic.com/news/22062506/Ethereum-Stands-out-Post-Pectra-Upgrade-as-Crypto-Inflows-Skyrocket-to-785-Million?mtm_campaign=API-OFA",
-      "source": "zycrypto.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-24T21:04:41Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Bitcoin could hit $200K by year-end 2025, says TradingShot: Analysts cite historical patterns and bullish momentum",
-      "summary": "Bitcoin could hit $200K by year-end 2025, says TradingShot: Analysts cite historical patterns and bullish momentum",
-      "url": "https://cryptopanic.com/news/22057507/Bitcoin-could-hit-200K-by-year-end-2025-says-TradingShot-Analysts-cite-historical-patterns-and-bullish-momentum?mtm_campaign=API-OFA",
-      "source": "cointrackdaily.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-24T12:32:57Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Ethereum Crypto Getting Closer to $3000 Mark: Best Ethereum Crypto to Buy Now",
-      "summary": "Ethereum Crypto Getting Closer to $3000 Mark: Best Ethereum Crypto to Buy Now",
-      "url": "https://cryptopanic.com/news/22054835/Ethereum-Crypto-Getting-Closer-to-3000-Mark-Best-Ethereum-Crypto-to-Buy-Now?mtm_campaign=API-OFA",
-      "source": "99bitcoins.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-24T09:40:05Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 16,
+      "positive": 17,
       "neutral": 1,
-      "negative": 3
+      "negative": 2
     }
   }
 }
