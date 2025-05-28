@@ -1,6 +1,18 @@
 {
-  "date": "2025-05-28T10:20:40.507Z",
+  "date": "2025-05-28T18:20:31.228Z",
   "articles": [
+    {
+      "title": "Ethereum Cofounder Vitalik Buterin Sees Opportunity as Sweden and Norway Ditch Cashless Aspirations",
+      "summary": "Ethereum Cofounder Vitalik Buterin Sees Opportunity as Sweden and Norway Ditch Cashless Aspirations",
+      "url": "https://cryptopanic.com/news/22153138/Ethereum-Cofounder-Vitalik-Buterin-Sees-Opportunity-as-Sweden-and-Norway-Ditch-Cashless-Aspirations?mtm_campaign=API-OFA",
+      "source": "decrypt.co",
+      "sentiment": "positive",
+      "published_at": "2025-05-28T15:17:44Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Consensys CEO Joe Lubin Is Poised to Become Ethereum’s Michael Saylor",
       "summary": "Consensys CEO Joe Lubin Is Poised to Become Ethereum’s Michael Saylor",
@@ -110,25 +122,13 @@
         "BTC"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum News: How Hackers Are Exploiting EIP-7702 To Drain Wallets",
-      "summary": "Ethereum News: How Hackers Are Exploiting EIP-7702 To Drain Wallets",
-      "url": "https://cryptopanic.com/news/22077840/Ethereum-News-How-Hackers-Are-Exploiting-EIP-7702-To-Drain-Wallets?mtm_campaign=API-OFA",
-      "source": "thecoinrepublic.com",
-      "sentiment": "negative",
-      "published_at": "2025-05-25T22:17:00Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 13,
-      "neutral": 5,
+      "positive": 14,
+      "neutral": 4,
       "negative": 2
     }
   }
