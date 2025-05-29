@@ -1,6 +1,42 @@
 {
-  "date": "2025-05-28T19:15:16.745Z",
+  "date": "2025-05-29T09:17:00.518Z",
   "articles": [
+    {
+      "title": "Pakistan to Establish Strategic Bitcoin Reserve, Will Begin Mining, Officials Say at Bitcoin 2025 Conference",
+      "summary": "Pakistan to Establish Strategic Bitcoin Reserve, Will Begin Mining, Officials Say at Bitcoin 2025 Conference",
+      "url": "https://cryptopanic.com/news/22161618/Pakistan-to-Establish-Strategic-Bitcoin-Reserve-Will-Begin-Mining-Officials-Say-at-Bitcoin-2025-Conference?mtm_campaign=API-OFA",
+      "source": "thedefiant.io",
+      "sentiment": "positive",
+      "published_at": "2025-05-28T22:35:18Z",
+      "currencies": [
+        "BTC"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum's Integrated Era",
+      "summary": "Ethereum's Integrated Era",
+      "url": "https://cryptopanic.com/news/22160867/Ethereums-Integrated-Era?mtm_campaign=API-OFA",
+      "source": "bankless.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-28T21:52:25Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
+    {
+      "title": "Ethereum Plan to Cut Node Costs, Boost Access",
+      "summary": "Ethereum Plan to Cut Node Costs, Boost Access",
+      "url": "https://cryptopanic.com/news/22152738/Ethereum-Plan-to-Cut-Node-Costs-Boost-Access?mtm_campaign=API-OFA",
+      "source": "investors.catenaa.com",
+      "sentiment": "positive",
+      "published_at": "2025-05-28T19:12:05Z",
+      "currencies": [
+        "ETH"
+      ],
+      "categories": []
+    },
     {
       "title": "Ethereum Cofounder Vitalik Buterin Sees Opportunity as Sweden and Norway Ditch Cashless Aspirations",
       "summary": "Ethereum Cofounder Vitalik Buterin Sees Opportunity as Sweden and Norway Ditch Cashless Aspirations",
@@ -30,7 +66,7 @@
       "summary": "Ether Approaches $2,700 After SharpLink Unveils $425 Million Treasury Strategy",
       "url": "https://cryptopanic.com/news/22124104/Ether-Approaches-2700-After-SharpLink-Unveils-425-Million-Treasury-Strategy?mtm_campaign=API-OFA",
       "source": "thedefiant.io",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "published_at": "2025-05-27T17:45:59Z",
       "currencies": [
         "BTC"
@@ -42,7 +78,7 @@
       "summary": "Ethereum flashes ‘altseason’ signal as ETH price eyes $4.1K",
       "url": "https://cryptopanic.com/news/22121212/Ethereum-flashes-altseason-signal-as-ETH-price-eyes-41K?mtm_campaign=API-OFA",
       "source": "cointelegraph.com",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "published_at": "2025-05-27T15:26:59Z",
       "currencies": [
         "BTC",
@@ -55,7 +91,7 @@
       "summary": "Ethereum Surges 4% on Massive Volume as Institutional Interest Grows",
       "url": "https://cryptopanic.com/news/22121086/Ethereum-Surges-4-on-Massive-Volume-as-Institutional-Interest-Grows?mtm_campaign=API-OFA",
       "source": "coindesk.com",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "published_at": "2025-05-27T15:06:43Z",
       "currencies": [
         "ETH"
@@ -86,50 +122,14 @@
         "LINK"
       ],
       "categories": []
-    },
-    {
-      "title": "Ethereum’s Buterin: Privacy-Focused Networks Could Support National Payment Systems",
-      "summary": "Ethereum’s Buterin: Privacy-Focused Networks Could Support National Payment Systems",
-      "url": "https://cryptopanic.com/news/22089994/Ethereums-Buterin-Privacy-Focused-Networks-Could-Support-National-Payment-Systems?mtm_campaign=API-OFA",
-      "source": "crypto-economy.com",
-      "sentiment": "positive",
-      "published_at": "2025-05-26T11:42:42Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Vitalik Buterin: Ethereum Needs Privacy and Strength to Replace Cash",
-      "summary": "Vitalik Buterin: Ethereum Needs Privacy and Strength to Replace Cash",
-      "url": "https://cryptopanic.com/news/22088005/Vitalik-Buterin-Ethereum-Needs-Privacy-and-Strength-to-Replace-Cash?mtm_campaign=API-OFA",
-      "source": "daily.shib.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-26T10:12:46Z",
-      "currencies": [
-        "ETH"
-      ],
-      "categories": []
-    },
-    {
-      "title": "Florida Becomes First U.S. State to Propose Eliminating Capital Gains Tax on Bitcoin, Boosting Cryptocurrency Adoption",
-      "summary": "Florida Becomes First U.S. State to Propose Eliminating Capital Gains Tax on Bitcoin, Boosting Cryptocurrency Adoption",
-      "url": "https://cryptopanic.com/news/22087191/Florida-Becomes-First-US-State-to-Propose-Eliminating-Capital-Gains-Tax-on-Bitcoin-Boosting-Cryptocurrency-Adoption?mtm_campaign=API-OFA",
-      "source": "thedefiant.io",
-      "sentiment": "positive",
-      "published_at": "2025-05-26T09:35:18Z",
-      "currencies": [
-        "BTC"
-      ],
-      "categories": []
     }
   ],
   "stats": {
     "total_articles": 20,
     "sentiment_distribution": {
-      "positive": 14,
-      "neutral": 4,
-      "negative": 2
+      "positive": 15,
+      "neutral": 1,
+      "negative": 4
     }
   }
 }
